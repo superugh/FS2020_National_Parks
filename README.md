@@ -1,7 +1,7 @@
 # US National Park Tour in Flight Simulator 2020
 A bush flight-style set of flight plans to see all of the US National Parks.
 
-These flights are intended to be similar to FS2020's built-in bush flights, in that they are between 5 and 60 minutes long, averaging around 20-30 minutes, in a Cessna 172-type plane. This allows you to do it in small chunks. The legs that go through the national parks themselves are labeled in the file names, and contain labeled waypoints for various interesting sites in the park. Note that I have not visited most of these parks, and certainly not from the air, so it's possible there may not be much to see at some of the waypoints :)
+These flights are intended to be similar to FS2020's built-in bush flights, in that they are between 5 and 60 minutes long, averaging around 20-30 minutes, in a Cessna 172-type plane. This allows you to do it in small chunks. The legs that go through the national parks themselves are labeled in the file names, and contain labeled waypoints for various interesting sites in the park. Note that I have not visited most of these parks, and certainly not from the air, so it's possible there may not be much to see at some of the waypoints. However, most of them should be something interesting to see.
 
 I suggest using the VL3 for a nice view! I'm open to any suggestions for improvements on these flight plans.
 
