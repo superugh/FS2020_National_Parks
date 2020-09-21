@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Frei Private to Crooked Lake Airstrip</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>ND16</DepartureID>
+        <DepartureLLA>N47° 26' 20.16",W102° 14' 22.97",+002100.00</DepartureLLA>
+        <DestinationID>20ND</DestinationID>
+        <DestinationLLA>N47° 38' 59.63",W100° 53' 17.23",+001944.15</DestinationLLA>
+        <Descr>Frei Private to Crooked Lake Airstrip</Descr>
+        <DepartureName>Frei Private</DepartureName>
+        <DestinationName>Crooked Lake Airstrip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ND16">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 26' 20.16",W102° 14' 22.97",+002100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ND16</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 31' 30.32",W101° 42' 4.65",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 33' 58.22",W101° 26' 17.31",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="20ND">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 38' 59.63",W100° 53' 17.23",+001950.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>20ND</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

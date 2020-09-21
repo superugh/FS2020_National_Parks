@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Whidbey Island Nas /Ault Field to Riverside</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KNUW</DepartureID>
+        <DepartureLLA>N48° 21' 6.65",W122° 39' 21.57",+000032.00</DepartureLLA>
+        <DestinationID>4WA8</DestinationID>
+        <DestinationLLA>N48° 50' 5.66",W122° 15' 51.58",+000175.00</DestinationLLA>
+        <Descr>Whidbey Island Nas /Ault Field to Riverside</Descr>
+        <DepartureName>Whidbey Island Nas /Ault Field</DepartureName>
+        <DestinationName>Riverside</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KNUW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 21' 6.65",W122° 39' 21.57",+000032.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KNUW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 34' 8.48",W122° 28' 51.47",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 37' 16.36",W122° 26' 19.14",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="4WA8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 50' 5.66",W122° 15' 51.58",+000150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>4WA8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

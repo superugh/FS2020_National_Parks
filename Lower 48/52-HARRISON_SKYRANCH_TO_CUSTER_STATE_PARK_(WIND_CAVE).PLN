@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Harrison Skyranch to Custer State Park</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>9V3</DepartureID>
+        <DepartureLLA>N42° 41' 41.45",W103° 52' 35.97",+004859.25</DepartureLLA>
+        <DestinationID>3V0</DestinationID>
+        <DestinationLLA>N43° 43' 29.72",W103° 20' 59.92",+003943.50</DestinationLLA>
+        <Descr>Harrison Skyranch to Custer State Park</Descr>
+        <DepartureName>Harrison Skyranch</DepartureName>
+        <DestinationName>Custer State Park</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="9V3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 41' 41.45",W103° 52' 35.97",+004859.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>9V3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 7' 0.34",W103° 40' 48.05",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 19' 39.33",W103° 34' 50.42",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Waypoint">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 32' 35.26",W103° 28' 42.08",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rankin Ridge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 36' 39.96",W103° 29' 16.69",+005750.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="3V0">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 43' 29.72",W103° 20' 59.92",+003950.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3V0</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

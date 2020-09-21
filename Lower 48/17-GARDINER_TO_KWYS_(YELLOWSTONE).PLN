@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Gardiner to Yellowstone</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>29S</DepartureID>
+        <DepartureLLA>N45° 2' 52.08",W110° 44' 35.27",+005286.00</DepartureLLA>
+        <DestinationID>KWYS</DestinationID>
+        <DestinationLLA>N44° 41' 18.18",W111° 7' 3.70",+006641.50</DestinationLLA>
+        <Descr>Gardiner to Yellowstone</Descr>
+        <DepartureName>Gardiner</DepartureName>
+        <DestinationName>Yellowstone</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Gardiner">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 2' 52.08",W110° 44' 35.27",+005286.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>29S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mammoth Hot Springs">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 58' 7.02",W110° 42' 19.79",+006300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 42' 20.98",W110° 44' 11.12",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Artists Paintpots">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 41' 30.42",W110° 44' 17.04",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 41' 23.73",W110° 57' 46.81",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Yellowstone">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 41' 18.18",W111° 7' 3.70",+006500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KWYS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

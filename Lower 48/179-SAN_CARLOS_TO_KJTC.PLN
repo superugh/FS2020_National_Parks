@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>San Carlos to Springerville Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7500.000</CruisingAlt>
+        <DepartureID>4AZ7</DepartureID>
+        <DepartureLLA>N33° 22' 39.30",W110° 27' 46.60",+002843.53</DepartureLLA>
+        <DestinationID>KJTC</DestinationID>
+        <DestinationLLA>N34° 7' 44.58",W109° 18' 38.80",+007035.50</DestinationLLA>
+        <Descr>San Carlos to Springerville Mun</Descr>
+        <DepartureName>San Carlos</DepartureName>
+        <DestinationName>Springerville Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="4AZ7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 22' 39.30",W110° 27' 46.60",+002843.53</WorldPosition>
+            <ICAO>
+                <ICAOIdent>4AZ7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 40' 44.24",W110° 0' 18.98",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 49' 44.41",W109° 46' 30.84",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KJTC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 7' 44.58",W109° 18' 38.80",+007050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJTC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

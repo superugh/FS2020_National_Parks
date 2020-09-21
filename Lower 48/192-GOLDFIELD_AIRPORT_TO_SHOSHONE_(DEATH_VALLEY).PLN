@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Goldfield Airport to Shoshone</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KGOL</DepartureID>
+        <DepartureLLA>N37° 17' 0.36",W117° 2' 36.79",+004025.47</DepartureLLA>
+        <DestinationID>L61</DestinationID>
+        <DestinationLLA>N35° 58' 6.98",W116° 16' 9.43",+001568.00</DestinationLLA>
+        <Descr>Goldfield Airport to Shoshone</Descr>
+        <DepartureName>Goldfield Airport</DepartureName>
+        <DestinationName>Shoshone</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KGOL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 17' 0.36",W117° 2' 36.79",+004025.47</WorldPosition>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KGOL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Scottys Castle">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 1' 56.19",W117° 20' 29.15",+008150.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mesquite Flat Sand Dunes">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 37' 24.49",W117° 7' 30.05",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Salt Creek">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 35' 30.95",W116° 59' 41.16",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Harmony Borax Works">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 28' 47.28",W116° 52' 31.70",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Zabriskie Point">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 25' 11.71",W116° 48' 43.71",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Badwater Basin">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 14' 57.73",W116° 48' 46.46",+007800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="L61">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 58' 6.98",W116° 16' 9.43",+001550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>L61</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

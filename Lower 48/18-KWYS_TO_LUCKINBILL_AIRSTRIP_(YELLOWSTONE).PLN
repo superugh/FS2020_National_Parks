@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Yellowstone to Luckinbill Airstrip</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KWYS</DepartureID>
+        <DepartureLLA>N44° 41' 18.18",W111° 7' 3.70",+006641.50</DepartureLLA>
+        <DestinationID>WY06</DestinationID>
+        <DestinationLLA>N44° 50' 19.80",W109° 37' 15.50",+006600.00</DestinationLLA>
+        <Descr>Yellowstone to Luckinbill Airstrip</Descr>
+        <DepartureName>Yellowstone</DepartureName>
+        <DestinationName>Luckinbill Airstrip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KWYS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 41' 18.18",W111° 7' 3.70",+006641.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KWYS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lower Geyser Basin">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 33' 4.95",W110° 48' 29.98",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grand Prismatic Spring">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 31' 30.20",W110° 50' 17.59",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Old Faithful">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 27' 37.70",W110° 49' 41.33",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="West Thumb">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 25' 58.89",W110° 34' 54.21",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 29' 50.01",W110° 29' 9.53",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fishing Bridge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 33' 59.63",W110° 22' 55.82",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sulphur Spring">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 39' 15.61",W110° 28' 50.59",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lower Falls of the Yellowstone">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 43' 4.79",W110° 29' 46.40",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 44' 17.94",W110° 27' 11.01",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lamar Valley">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 52' 6.48",W110° 10' 29.54",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WY06">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 50' 19.80",W109° 37' 15.50",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WY06</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

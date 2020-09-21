@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>St George Rgnl to Perkins</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7600.000</CruisingAlt>
+        <DepartureID>KSGU</DepartureID>
+        <DepartureLLA>N37° 2' 11.06",W113° 30' 37.10",+002858.00</DepartureLLA>
+        <DestinationID>U08</DestinationID>
+        <DestinationLLA>N36° 34' 5.28",W114° 26' 36.04",+001357.50</DestinationLLA>
+        <Descr>St George Rgnl to Perkins</Descr>
+        <DepartureName>St George Rgnl</DepartureName>
+        <DestinationName>Perkins</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSGU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 2' 11.06",W113° 30' 37.10",+002858.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSGU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 49' 39.93",W113° 55' 45.30",+006600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 50' 45.57",W113° 53' 34.25",+007600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="U08">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 34' 5.28",W114° 26' 36.04",+001350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>U08</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

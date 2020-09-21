@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Quartz Creek to Nanwalek</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>JLA</DepartureID>
+        <DepartureLLA>N60° 29' 3.24",W149° 43' 23.88",+000462.50</DepartureLLA>
+        <DestinationID>KEB</DestinationID>
+        <DestinationLLA>N59° 21' 7.11",W151° 55' 30.32",+000027.00</DestinationLLA>
+        <Descr>Quartz Creek to Nanwalek</Descr>
+        <DepartureName>Quartz Creek</DepartureName>
+        <DestinationName>Nanwalek</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="JLA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 29' 3.24",W149° 43' 23.88",+000462.50</WorldPosition>
+            <RunwayNumberFP>22</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>JLA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Exit Glacier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N60° 10' 42.16",W149° 38' 57.95",+004150.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bear Glacier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N59° 59' 37.97",W149° 37' 5.99",+006350.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Aialik Glacier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N59° 58' 4.97",W149° 47' 58.97",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Holgate Glacier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N59° 51' 59.98",W149° 54' 57.60",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kachemak Bay">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N59° 43' 32.63",W151° 8' 27.73",+006600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KEB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 21' 7.11",W151° 55' 30.32",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KEB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

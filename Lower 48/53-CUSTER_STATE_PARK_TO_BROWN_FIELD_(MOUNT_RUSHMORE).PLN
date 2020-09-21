@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Custer State Park to Brown Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>3V0</DepartureID>
+        <DepartureLLA>N43° 43' 29.72",W103° 20' 59.92",+003943.50</DepartureLLA>
+        <DestinationID>3SD3</DestinationID>
+        <DestinationLLA>N43° 48' 43.55",W102° 43' 12.04",+002780.00</DestinationLLA>
+        <Descr>Custer State Park to Brown Field</Descr>
+        <DepartureName>Custer State Park</DepartureName>
+        <DestinationName>Brown Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Custer State Park">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 43' 29.72",W103° 20' 59.92",+003943.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3V0</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount Rushmore">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 52' 44.28",W103° 27' 32.45",+006000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 51' 35.49",W103° 14' 32.01",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 50' 21.80",W103° 0' 54.34",+005400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brown Field">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 48' 43.55",W102° 43' 12.04",+002800.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3SD3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

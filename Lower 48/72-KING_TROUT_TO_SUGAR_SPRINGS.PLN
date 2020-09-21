@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>King Trout to Sugar Springs</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>6MI0</DepartureID>
+        <DepartureLLA>N44° 36' 58.58",W84° 57' 1.43",+001100.00</DepartureLLA>
+        <DestinationID>5M6</DestinationID>
+        <DestinationLLA>N44° 8' 25.29",W84° 26' 13.06",+000945.50</DestinationLLA>
+        <Descr>King Trout to Sugar Springs</Descr>
+        <DepartureName>King Trout</DepartureName>
+        <DestinationName>Sugar Springs</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="6MI0">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 36' 58.58",W84° 57' 1.43",+001100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6MI0</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 24' 9.95",W84° 43' 7.35",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 21' 40.29",W84° 40' 25.87",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="5M6">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 8' 25.29",W84° 26' 13.06",+000950.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>5M6</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

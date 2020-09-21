@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Grand Canyon National Park to Grand Canyon Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KGCN</DepartureID>
+        <DepartureLLA>N35° 57' 8.50",W112° 8' 49.16",+006571.00</DepartureLLA>
+        <DestinationID>KGRM</DestinationID>
+        <DestinationLLA>N36° 23' 17.83",W112° 7' 49.38",+008738.90</DestinationLLA>
+        <Descr>Grand Canyon National Park to Grand Canyon Airport</Descr>
+        <DepartureName>Grand Canyon National Park</DepartureName>
+        <DestinationName>Grand Canyon Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KGCN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 57' 8.50",W112° 8' 49.16",+006571.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KGCN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bright Angel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 6' 21.93",W112° 5' 28.66",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Desert View Watchtower">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 2' 38.49",W111° 49' 34.80",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGRM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 23' 17.83",W112° 7' 49.38",+008500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGRM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

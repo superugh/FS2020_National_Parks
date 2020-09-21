@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Fowler Fld to Flat Creek Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>02WN</DepartureID>
+        <DepartureLLA>N48° 44' 50.58",W119° 19' 10.56",+002150.00</DepartureLLA>
+        <DestinationID>05WN</DestinationID>
+        <DestinationLLA>N48° 42' 9.01",W118° 2' 52.69",+001570.00</DestinationLLA>
+        <Descr>Fowler Fld to Flat Creek Field</Descr>
+        <DepartureName>Fowler Fld</DepartureName>
+        <DestinationName>Flat Creek Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="02WN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 44' 50.58",W119° 19' 10.56",+002150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>02WN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 43' 47.15",W118° 46' 17.14",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 43' 34.79",W118° 40' 23.84",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="05WN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 42' 9.01",W118° 2' 52.69",+001550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>05WN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

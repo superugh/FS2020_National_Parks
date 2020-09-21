@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Kennedy Intl to Newark Liberty Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KJFK</DepartureID>
+        <DepartureLLA>N40° 38' 24.49",W73° 46' 35.46",+000012.62</DepartureLLA>
+        <DestinationID>KEWR</DestinationID>
+        <DestinationLLA>N40° 41' 37.12",W74° 10' 6.99",+000011.33</DestinationLLA>
+        <Descr>Kennedy Intl to Newark Liberty Intl</Descr>
+        <DepartureName>Kennedy Intl</DepartureName>
+        <DestinationName>Newark Liberty Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KJFK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 38' 24.49",W73° 46' 35.46",+000012.62</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJFK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 39' 51.63",W73° 57' 9.30",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 40' 10.71",W73° 59' 28.98",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KEWR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 41' 37.12",W74° 10' 6.99",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KEWR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>East Hampton to Kennedy Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KHTO</DepartureID>
+        <DepartureLLA>N40° 57' 35.15",W72° 15' 5.75",+000039.00</DepartureLLA>
+        <DestinationID>KJFK</DestinationID>
+        <DestinationLLA>N40° 38' 24.49",W73° 46' 35.46",+000012.62</DestinationLLA>
+        <Descr>East Hampton to Kennedy Intl</Descr>
+        <DepartureName>East Hampton</DepartureName>
+        <DestinationName>Kennedy Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KHTO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 57' 35.15",W72° 15' 5.75",+000039.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHTO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 49' 7.67",W72° 56' 16.22",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 47' 14.96",W73° 5' 14.00",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KJFK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 38' 24.49",W73° 46' 35.46",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJFK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

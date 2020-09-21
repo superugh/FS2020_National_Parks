@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Chitina to Sheep Mountain</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>CXC</DepartureID>
+        <DepartureLLA>N61° 34' 59.74",W144° 25' 47.22",+000547.00</DepartureLLA>
+        <DestinationID>PASP</DestinationID>
+        <DestinationLLA>N61° 48' 40.84",W147° 30' 31.89",+002758.00</DestinationLLA>
+        <Descr>Chitina to Sheep Mountain</Descr>
+        <DepartureName>Chitina</DepartureName>
+        <DestinationName>Sheep Mountain</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CXC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 34' 59.74",W144° 25' 47.22",+000547.00</WorldPosition>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CXC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PASP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 48' 40.84",W147° 30' 31.89",+002750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PASP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

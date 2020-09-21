@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Selfridge Angb to Wheatly (Robinson Motorcycles) Airfield</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KMTC</DepartureID>
+        <DepartureLLA>N42° 36' 45.07",W82° 50' 13.04",+000579.00</DepartureLLA>
+        <DestinationID>CRM5</DestinationID>
+        <DestinationLLA>N42° 8' 34.31",W82° 21' 43.88",+000617.00</DestinationLLA>
+        <Descr>Selfridge Angb to Wheatly (Robinson Motorcycles) Airfield</Descr>
+        <DepartureName>Selfridge Angb</DepartureName>
+        <DestinationName>Wheatly (Robinson Motorcycles) Airfield</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KMTC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 36' 45.07",W82° 50' 13.04",+000579.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMTC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 24' 6.38",W82° 37' 22.04",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 21' 14.92",W82° 34' 28.69",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CRM5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 8' 34.31",W82° 21' 43.88",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CRM5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

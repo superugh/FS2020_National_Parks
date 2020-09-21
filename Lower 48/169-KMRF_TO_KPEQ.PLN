@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Marfa Mun to Pecos Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7500.000</CruisingAlt>
+        <DepartureID>KMRF</DepartureID>
+        <DepartureLLA>N30° 22' 14.59",W104° 1' 4.42",+004835.16</DepartureLLA>
+        <DestinationID>KPEQ</DestinationID>
+        <DestinationLLA>N31° 22' 56.48",W103° 30' 38.53",+002605.00</DestinationLLA>
+        <Descr>Marfa Mun to Pecos Mun</Descr>
+        <DepartureName>Marfa Mun</DepartureName>
+        <DestinationName>Pecos Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KMRF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 22' 14.59",W104° 1' 4.42",+004835.16</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMRF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 46' 29.79",W103° 48' 59.90",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 58' 36.92",W103° 42' 55.36",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPEQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 22' 56.48",W103° 30' 38.53",+002600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPEQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

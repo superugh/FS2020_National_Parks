@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Terrell Co to Pitcock Rosillos Mountain Ranch</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7700.000</CruisingAlt>
+        <DepartureID>6R6</DepartureID>
+        <DepartureLLA>N30° 2' 47.36",W102° 12' 47.51",+002301.25</DepartureLLA>
+        <DestinationID>09TS</DestinationID>
+        <DestinationLLA>N29° 28' 57.35",W103° 9' 46.79",+003100.00</DestinationLLA>
+        <Descr>Terrell Co to Pitcock Rosillos Mountain Ranch</Descr>
+        <DepartureName>Terrell Co</DepartureName>
+        <DestinationName>Pitcock Rosillos Mountain Ranch</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="6R6">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 2' 47.36",W102° 12' 47.51",+002301.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6R6</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 47' 38.43",W102° 38' 28.37",+007700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 42' 34.34",W102° 47' 0.25",+007700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="09TS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 28' 57.35",W103° 9' 46.79",+003100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>09TS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

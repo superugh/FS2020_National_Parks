@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Fox Acres to Luray Caverns</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>15VA</DepartureID>
+        <DepartureLLA>N38° 43' 20.05",W77° 54' 3.25",+000450.00</DepartureLLA>
+        <DestinationID>KLUA</DestinationID>
+        <DestinationLLA>N38° 40' 0.03",W78° 30' 3.03",+000902.00</DestinationLLA>
+        <Descr>Fox Acres to Luray Caverns</Descr>
+        <DepartureName>Fox Acres</DepartureName>
+        <DestinationName>Luray Caverns</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Fox Acres">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 43' 20.05",W77° 54' 3.25",+000450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>15VA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Skyline Drive">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 45' 51.09",W78° 13' 38.34",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 41' 13.20",W78° 17' 18.43",+005600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Marys Rock">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 39' 1.60",W78° 19' 2.44",+004500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 39' 26.29",W78° 23' 39.96",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Luray Caverns">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 40' 0.03",W78° 30' 3.03",+000900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLUA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

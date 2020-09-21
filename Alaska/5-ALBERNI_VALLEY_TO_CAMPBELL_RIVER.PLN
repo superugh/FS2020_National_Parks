@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Alberni Valley Regional to Campbell River</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>CBS8</DepartureID>
+        <DepartureLLA>N49° 19' 15.74",W124° 55' 46.43",+000243.00</DepartureLLA>
+        <DestinationID>CYBL</DestinationID>
+        <DestinationLLA>N49° 57' 7.30",W125° 16' 23.06",+000326.50</DestinationLLA>
+        <Descr>Alberni Valley Regional to Campbell River</Descr>
+        <DepartureName>Alberni Valley Regional</DepartureName>
+        <DestinationName>Campbell River</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CBS8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 19' 15.74",W124° 55' 46.43",+000243.00</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CBS8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYBL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 57' 7.30",W125° 16' 23.06",+000350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYBL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

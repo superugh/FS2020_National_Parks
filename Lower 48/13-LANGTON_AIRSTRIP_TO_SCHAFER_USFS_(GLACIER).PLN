@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Langton Airstrip to Schafer /Usfs/</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>MT60</DepartureID>
+        <DepartureLLA>N48° 48' 48.42",W114° 21' 10.58",+003900.00</DepartureLLA>
+        <DestinationID>8U2</DestinationID>
+        <DestinationLLA>N48° 4' 46.42",W113° 14' 42.77",+004853.00</DestinationLLA>
+        <Descr>Langton Airstrip to Schafer /Usfs/</Descr>
+        <DepartureName>Langton Airstrip</DepartureName>
+        <DestinationName>Schafer /Usfs/</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Langton Airstrip">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 48' 48.42",W114° 21' 10.58",+003900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MT60</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Iceberg Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 48' 45.74",W113° 44' 53.90",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grinnell Glacier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 45' 9.94",W113° 43' 46.78",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Going To The Sun Mountain">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 40' 51.54",W113° 39' 1.96",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jackson Glacier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 35' 53.66",W113° 42' 22.10",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 32' 49.09",W113° 34' 26.65",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Two Medicine Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 28' 30.82",W113° 23' 25.37",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 15' 11.49",W113° 18' 31.07",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Schafer /Usfs/">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 4' 46.42",W113° 14' 42.77",+004850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>8U2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

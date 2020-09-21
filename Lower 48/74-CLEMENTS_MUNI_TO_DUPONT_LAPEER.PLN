@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Clements Mun to Dupont-Lapeer</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>3CM</DepartureID>
+        <DepartureLLA>N43° 32' 48.83",W83° 53' 44.22",+000583.50</DepartureLLA>
+        <DestinationID>D95</DestinationID>
+        <DestinationLLA>N43° 3' 58.34",W83° 16' 16.33",+000830.75</DestinationLLA>
+        <Descr>Clements Mun to Dupont-Lapeer</Descr>
+        <DepartureName>Clements Mun</DepartureName>
+        <DestinationName>Dupont-Lapeer</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3CM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 32' 48.83",W83° 53' 44.22",+000583.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3CM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 19' 52.94",W83° 36' 49.96",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 16' 25.17",W83° 32' 20.11",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="D95">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 3' 58.34",W83° 16' 16.33",+000850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>D95</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

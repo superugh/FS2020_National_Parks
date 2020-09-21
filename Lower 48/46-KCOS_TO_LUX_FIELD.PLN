@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title> to Lux Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KCOS</DepartureID>
+        <DepartureLLA>N38° 48' 26.03",W104° 42' 8.28",+006136.66</DepartureLLA>
+        <DestinationID>25CD</DestinationID>
+        <DestinationLLA>N39° 9' 14.81",W105° 43' 21.84",+009300.00</DestinationLLA>
+        <Descr> to Lux Field</Descr>
+        <DepartureName>City of Colorado Springs Municipal Airport</DepartureName>
+        <DestinationName>Lux Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCOS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 48' 26.03",W104° 42' 8.28",+006136.66</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCOS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 56' 48.56",W105° 6' 30.91",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 0' 57.89",W105° 18' 44.39",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="25CD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 9' 14.81",W105° 43' 21.84",+006500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>25CD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

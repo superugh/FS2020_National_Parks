@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Goshute to Silver Creek</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>UT65</DepartureID>
+        <DepartureLLA>N39° 59' 56.63",W113° 58' 34.49",+005460.00</DepartureLLA>
+        <DestinationID>06NV</DestinationID>
+        <DestinationLLA>N39° 5' 44.25",W114° 8' 53.65",+005556.00</DestinationLLA>
+        <Descr>Goshute to Silver Creek</Descr>
+        <DepartureName>Goshute</DepartureName>
+        <DestinationName>Silver Creek</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="UT65">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 59' 56.63",W113° 58' 34.49",+005460.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT65</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 38' 17.96",W114° 2' 43.68",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 27' 28.61",W114° 4' 47.30",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="06NV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 5' 44.25",W114° 8' 53.65",+005550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>06NV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

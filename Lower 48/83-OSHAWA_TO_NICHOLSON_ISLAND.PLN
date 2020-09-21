@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Oshawa to Nicholson Island Private Airstrip</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>CYOO</DepartureID>
+        <DepartureLLA>N43° 55' 21.32",W78° 53' 43.31",+000452.25</DepartureLLA>
+        <DestinationID>CYQE</DestinationID>
+        <DestinationLLA>N43° 54' 58.69",W77° 31' 31.46",+000245.17</DestinationLLA>
+        <Descr>Oshawa to Nicholson Island Private Airstrip</Descr>
+        <DepartureName>Oshawa</DepartureName>
+        <DestinationName>Nicholson Island Private Airstrip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYOO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 55' 21.32",W78° 53' 43.31",+000452.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYOO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 55' 18.46",W78° 16' 47.58",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 55' 16.57",W78° 9' 49.31",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYQE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 54' 58.69",W77° 31' 31.46",+000250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYQE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

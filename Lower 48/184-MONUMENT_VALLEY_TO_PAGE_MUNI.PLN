@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Monument Valley to Page Muni</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>UT25</DepartureID>
+        <DepartureLLA>N37° 0' 57.98",W110° 12' 7.22",+005192.00</DepartureLLA>
+        <DestinationID>KPGA</DestinationID>
+        <DestinationLLA>N36° 55' 37.73",W111° 26' 55.66",+004264.75</DestinationLLA>
+        <Descr>Monument Valley to Page Muni</Descr>
+        <DepartureName>Monument Valley</DepartureName>
+        <DestinationName>Page Muni</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="UT25">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 0' 57.98",W110° 12' 7.22",+005192.00</WorldPosition>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>UT25</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPGA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 55' 37.73",W111° 26' 55.66",+004250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPGA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Fitiuta to Canton AFLD</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>NSFQ</DepartureID>
+        <DepartureLLA>S14° 12' 57.91",W169° 25' 24.83",+000105.50</DepartureLLA>
+        <DestinationID>PCIS</DestinationID>
+        <DestinationLLA>S2° 46' 7.13",W171° 42' 28.38",+000009.00</DestinationLLA>
+        <Descr>Fitiuta to Canton AFLD</Descr>
+        <DepartureName>Fitiuta</DepartureName>
+        <DestinationName>Canton AFLD</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NSFQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S14° 12' 57.91",W169° 25' 24.83",+000105.50</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>NSFQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PCIS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S2° 46' 7.13",W171° 42' 28.38",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PCIS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

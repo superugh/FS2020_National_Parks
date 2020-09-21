@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Mc Entire Jngb to Lexington Co</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KMMT</DepartureID>
+        <DepartureLLA>N33° 55' 25.10",W80° 48' 9.21",+000249.25</DepartureLLA>
+        <DestinationID>2SC8</DestinationID>
+        <DestinationLLA>N33° 47' 9.00",W81° 5' 31.23",+000460.00</DestinationLLA>
+        <Descr>Mc Entire Jngb to Lexington Co</Descr>
+        <DepartureName>Mc Entire Jngb</DepartureName>
+        <DestinationName>Lexington Co</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Mc Entire Jngb">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 55' 25.10",W80° 48' 9.21",+000249.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMMT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Running Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 46' 52.75",W80° 41' 17.22",+004850.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 48' 1.72",W80° 46' 32.05",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 48' 58.97",W80° 50' 54.24",+006050.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dead River">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 49' 28.86",W80° 53' 11.61",+005150.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lexington Co">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 47' 9.00",W81° 5' 31.23",+000450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2SC8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

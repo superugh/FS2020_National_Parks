@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Ocala Intl-Jim Taylor Field to Lake City Gateway</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KOCF</DepartureID>
+        <DepartureLLA>N29° 10' 27.64",W82° 13' 29.67",+000083.00</DepartureLLA>
+        <DestinationID>KLCQ</DestinationID>
+        <DestinationLLA>N30° 10' 54.22",W82° 34' 35.50",+000193.75</DestinationLLA>
+        <Descr>Ocala Intl-Jim Taylor Field to Lake City Gateway</Descr>
+        <DepartureName>Ocala Intl-Jim Taylor Field</DepartureName>
+        <DestinationName>Lake City Gateway</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KOCF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 10' 27.64",W82° 13' 29.67",+000083.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KOCF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 37' 37.29",W82° 22' 55.21",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 44' 9.06",W82° 25' 11.95",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLCQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 10' 54.22",W82° 34' 35.50",+000200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLCQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

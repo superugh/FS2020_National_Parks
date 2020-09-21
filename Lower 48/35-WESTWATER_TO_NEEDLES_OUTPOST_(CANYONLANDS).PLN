@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Westwater to Needles Outpost</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>UT42</DepartureID>
+        <DepartureLLA>N39° 8' 50.68",W109° 8' 40.19",+004660.00</DepartureLLA>
+        <DestinationID>UT59</DestinationID>
+        <DestinationLLA>N38° 10' 13.98",W109° 44' 0.21",+004929.11</DestinationLLA>
+        <Descr>Westwater to Needles Outpost</Descr>
+        <DepartureName>Westwater</DepartureName>
+        <DestinationName>Needles Outpost</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="UT42">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 8' 50.68",W109° 8' 40.19",+004660.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT42</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 43' 9.67",W109° 31' 48.77",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 30' 17.46",W109° 43' 16.82",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Shafer Canyon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 27' 28.76",W109° 45' 46.47",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Upheaval Dome">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 26' 11.50",W109° 55' 47.01",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mesa Arch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 23' 16.62",W109° 51' 48.80",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lathrop and Buch Canyons">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 21' 47.25",W109° 46' 58.13",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="UT59">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 10' 13.98",W109° 44' 0.21",+004950.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT59</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

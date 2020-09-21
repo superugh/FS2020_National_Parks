@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Astoria Rgnl to Ocean Shores Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>KAST</DepartureID>
+        <DepartureLLA>N46° 9' 29.48",W123° 52' 46.86",+000012.50</DepartureLLA>
+        <DestinationID>W04</DestinationID>
+        <DestinationLLA>N46° 59' 57.33",W124° 8' 32.50",+000013.00</DestinationLLA>
+        <Descr>Astoria Rgnl to Ocean Shores Mun</Descr>
+        <DepartureName>Astoria Rgnl</DepartureName>
+        <DestinationName>Ocean Shores Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KAST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 9' 29.48",W123° 52' 46.86",+000012.50</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KAST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="W04">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 59' 57.33",W124° 8' 32.50",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>W04</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

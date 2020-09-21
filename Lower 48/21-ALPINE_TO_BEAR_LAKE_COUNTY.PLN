@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Alpine to Bear Lake County</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>46U</DepartureID>
+        <DepartureLLA>N43° 10' 54.45",W111° 2' 18.57",+005630.00</DepartureLLA>
+        <DestinationID>1U7</DestinationID>
+        <DestinationLLA>N42° 14' 58.28",W111° 20' 31.50",+005930.75</DestinationLLA>
+        <Descr>Alpine to Bear Lake County</Descr>
+        <DepartureName>Alpine</DepartureName>
+        <DestinationName>Bear Lake County</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="46U">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 10' 54.45",W111° 2' 18.57",+005630.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>46U</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 48' 34.60",W111° 9' 38.95",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 37' 24.48",W111° 13' 17.16",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="1U7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 14' 58.28",W111° 20' 31.50",+005950.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1U7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

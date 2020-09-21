@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Fraser Airport to Crystal Lakes</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KFRA</DepartureID>
+        <DepartureLLA>N39° 59' 47.86",W105° 51' 49.14",+008440.03</DepartureLLA>
+        <DestinationID>25CO</DestinationID>
+        <DestinationLLA>N40° 51' 6.54",W105° 37' 54.76",+008440.00</DestinationLLA>
+        <Descr>Fraser Airport to Crystal Lakes</Descr>
+        <DepartureName>Fraser Airport</DepartureName>
+        <DestinationName>Crystal Lakes</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Fraser Airport">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 59' 47.86",W105° 51' 49.14",+008440.03</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KFRA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Coyote Valley">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 20' 38.78",W105° 51' 31.06",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Alberta Falls">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 18' 13.15",W105° 38' 16.77",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 18' 26.12",W105° 38' 27.41",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Forest Canyon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 23' 45.42",W105° 42' 49.87",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Trail Ridge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 26' 26.96",W105° 45' 16.20",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 32' 28.82",W105° 43' 28.76",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Crystal Lakes">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 51' 6.54",W105° 37' 54.76",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>25CO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

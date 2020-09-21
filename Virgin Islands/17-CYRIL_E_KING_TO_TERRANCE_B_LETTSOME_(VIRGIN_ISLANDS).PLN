@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Cyril E King to Terrance B Lettsome</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>TIST</DepartureID>
+        <DepartureLLA>N18° 20' 14.30",W64° 58' 24.01",+000018.00</DepartureLLA>
+        <DestinationID>TUPJ</DestinationID>
+        <DestinationLLA>N18° 26' 43.98",W64° 32' 29.73",+000011.00</DestinationLLA>
+        <Descr>Cyril E King to Terrance B Lettsome</Descr>
+        <DepartureName>Cyril E King</DepartureName>
+        <DestinationName>Terrance B Lettsome</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="TIST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 20' 14.30",W64° 58' 24.01",+000018.00</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>TIST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Honeymoon Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N18° 18' 50.96",W64° 57' 38.22",+008050.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fort Christian">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N18° 20' 26.04",W64° 55' 47.04",+000800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Reef Bay">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N18° 19' 10.31",W64° 44' 47.94",+006950.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cinnamon Bay">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N18° 21' 18.16",W64° 45' 21.62",+004000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Watermelon Cay">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N18° 22' 1.08",W64° 43' 22.14",+004650.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Smugglers Cove">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N18° 23' 37.98",W64° 42' 4.25",+005300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TUPJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 26' 43.98",W64° 32' 29.73",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TUPJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

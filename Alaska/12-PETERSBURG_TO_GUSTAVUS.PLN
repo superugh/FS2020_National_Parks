@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Petersburg James A Johnson to Gustavus</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>PAPG</DepartureID>
+        <DepartureLLA>N56° 48' 5.35",W132° 56' 46.67",+000109.50</DepartureLLA>
+        <DestinationID>PAGS</DestinationID>
+        <DestinationLLA>N58° 25' 29.43",W135° 42' 31.51",+000031.75</DestinationLLA>
+        <Descr>Petersburg James A Johnson to Gustavus</Descr>
+        <DepartureName>Petersburg James A Johnson</DepartureName>
+        <DestinationName>Gustavus</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 48' 5.35",W132° 56' 46.67",+000109.50</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAGS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N58° 25' 29.43",W135° 42' 31.51",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAGS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

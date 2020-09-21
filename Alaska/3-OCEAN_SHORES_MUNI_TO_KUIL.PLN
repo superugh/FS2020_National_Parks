@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Ocean Shores Mun to Quillayute</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>W04</DepartureID>
+        <DepartureLLA>N46° 59' 57.33",W124° 8' 32.50",+000013.00</DepartureLLA>
+        <DestinationID>KUIL</DestinationID>
+        <DestinationLLA>N47° 56' 20.97",W124° 33' 40.27",+000182.00</DestinationLLA>
+        <Descr>Ocean Shores Mun to Quillayute</Descr>
+        <DepartureName>Ocean Shores Mun</DepartureName>
+        <DestinationName>Quillayute</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="W04">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 59' 57.33",W124° 8' 32.50",+000013.00</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>W04</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KUIL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 56' 20.97",W124° 33' 40.27",+000200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KUIL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

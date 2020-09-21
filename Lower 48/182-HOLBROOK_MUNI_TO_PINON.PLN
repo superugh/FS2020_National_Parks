@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Holbrook Mun to Pinon</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>P14</DepartureID>
+        <DepartureLLA>N34° 56' 24.59",W110° 8' 20.47",+005246.50</DepartureLLA>
+        <DestinationID>46AZ</DestinationID>
+        <DestinationLLA>N36° 5' 34.18",W110° 13' 45.94",+006308.48</DestinationLLA>
+        <Descr>Holbrook Mun to Pinon</Descr>
+        <DepartureName>Holbrook Mun</DepartureName>
+        <DestinationName>Pinon</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="P14">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 56' 24.59",W110° 8' 20.47",+005246.50</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>P14</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="46AZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 5' 34.18",W110° 13' 45.94",+006300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>46AZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

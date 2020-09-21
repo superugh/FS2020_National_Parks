@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Colonel Hill to Mayaguana</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MYCI</DepartureID>
+        <DepartureLLA>N22° 44' 43.77",W74° 10' 56.55",+000010.00</DepartureLLA>
+        <DestinationID>MYMM</DestinationID>
+        <DestinationLLA>N22° 22' 46.16",W73° 0' 48.53",+000015.00</DestinationLLA>
+        <Descr>Colonel Hill to Mayaguana</Descr>
+        <DepartureName>Colonel Hill</DepartureName>
+        <DestinationName>Mayaguana</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYCI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 44' 43.77",W74° 10' 56.55",+000010.00</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYCI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYMM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 22' 46.16",W73° 0' 48.53",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYMM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

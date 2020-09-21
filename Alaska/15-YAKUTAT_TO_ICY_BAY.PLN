@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Yakutat to Icy Bay</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6000.000</CruisingAlt>
+        <DepartureID>PAYA</DepartureID>
+        <DepartureLLA>N59° 30' 11.52",W139° 39' 41.46",+000033.75</DepartureLLA>
+        <DestinationID>19AK</DestinationID>
+        <DestinationLLA>N59° 57' 57.92",W141° 39' 38.06",+000050.00</DestinationLLA>
+        <Descr>Yakutat to Icy Bay</Descr>
+        <DepartureName>Yakutat</DepartureName>
+        <DestinationName>Icy Bay</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAYA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 30' 11.52",W139° 39' 41.46",+000033.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAYA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N59° 42' 51.17",W140° 32' 59.06",+006000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N59° 45' 44.57",W140° 45' 27.86",+006000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="19AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 57' 57.92",W141° 39' 38.06",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>19AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

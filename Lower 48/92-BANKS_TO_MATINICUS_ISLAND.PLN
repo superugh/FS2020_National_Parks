@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Banks to Matinicus Island</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>ME5</DepartureID>
+        <DepartureLLA>N44° 9' 55.37",W68° 25' 41.25",+000080.00</DepartureLLA>
+        <DestinationID>35ME</DestinationID>
+        <DestinationLLA>N43° 52' 17.17",W68° 53' 36.86",+000028.50</DestinationLLA>
+        <Descr>Banks to Matinicus Island</Descr>
+        <DepartureName>Banks</DepartureName>
+        <DestinationName>Matinicus Island</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ME5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 9' 55.37",W68° 25' 41.25",+000080.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ME5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 2' 0.82",W68° 38' 16.07",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 0' 17.41",W68° 40' 59.83",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="35ME">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 52' 17.17",W68° 53' 36.86",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>35ME</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Perkins to Mc Carran Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>5400.000</CruisingAlt>
+        <DepartureID>U08</DepartureID>
+        <DepartureLLA>N36° 34' 5.28",W114° 26' 36.04",+001357.50</DepartureLLA>
+        <DestinationID>KLAS</DestinationID>
+        <DestinationLLA>N36° 4' 51.57",W115° 9' 12.39",+002114.87</DestinationLLA>
+        <Descr>Perkins to Mc Carran Intl</Descr>
+        <DepartureName>Perkins</DepartureName>
+        <DestinationName>Mc Carran Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Perkins">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 34' 5.28",W114° 26' 36.04",+001357.50</WorldPosition>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>U08</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Valley of Fire">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 29' 1.87",W114° 31' 14.71",+002600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mc Carran Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 4' 51.57",W115° 9' 12.39",+002100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLAS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

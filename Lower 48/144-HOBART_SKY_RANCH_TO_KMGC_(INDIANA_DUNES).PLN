@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Hobart-Sky Ranch to Michigan City Muni-Phillips Fi</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>3HO</DepartureID>
+        <DepartureLLA>N41° 33' 21.06",W87° 15' 50.37",+000630.00</DepartureLLA>
+        <DestinationID>KMGC</DestinationID>
+        <DestinationLLA>N41° 42' 11.97",W86° 49' 16.48",+000648.50</DestinationLLA>
+        <Descr>Hobart-Sky Ranch to Michigan City Muni-Phillips Fi</Descr>
+        <DepartureName>Hobart-Sky Ranch</DepartureName>
+        <DestinationName>Michigan City Muni-Phillips Fi</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3HO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 33' 21.06",W87° 15' 50.37",+000630.00</WorldPosition>
+            <RunwayNumberFP>36</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>3HO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="West Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 37' 25.73",W87° 13' 13.46",+003300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dunbar Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 40' 52.75",W87° 0' 38.18",+005950.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Central Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 42' 33.84",W86° 55' 39.21",+003500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMGC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 42' 11.97",W86° 49' 16.48",+000650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMGC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

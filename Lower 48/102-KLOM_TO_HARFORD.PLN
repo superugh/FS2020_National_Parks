@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Wings Field to Harford Co</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KLOM</DepartureID>
+        <DepartureLLA>N40° 8' 15.27",W75° 15' 54.50",+000290.00</DepartureLLA>
+        <DestinationID>0W3</DestinationID>
+        <DestinationLLA>N39° 34' 1.96",W76° 12' 9.03",+000401.25</DestinationLLA>
+        <Descr>Wings Field to Harford Co</Descr>
+        <DepartureName>Wings Field</DepartureName>
+        <DestinationName>Harford Co</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KLOM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 8' 15.27",W75° 15' 54.50",+000290.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLOM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 52' 56.21",W75° 41' 17.43",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 49' 14.87",W75° 47' 21.14",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="0W3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 34' 1.96",W76° 12' 9.03",+000400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0W3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

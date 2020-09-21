@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Granbury Mun to Brownwood Regl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7100.000</CruisingAlt>
+        <DepartureID>KGDJ</DepartureID>
+        <DepartureLLA>N32° 26' 39.82",W97° 49' 1.01",+000774.00</DepartureLLA>
+        <DestinationID>KBWD</DestinationID>
+        <DestinationLLA>N31° 47' 36.83",W98° 57' 23.84",+001376.75</DestinationLLA>
+        <Descr>Granbury Mun to Brownwood Regl</Descr>
+        <DepartureName>Granbury Mun</DepartureName>
+        <DestinationName>Brownwood Regl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KGDJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 26' 39.82",W97° 49' 1.01",+000774.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGDJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 9' 11.81",W98° 19' 51.43",+007100.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 3' 33.61",W98° 29' 43.23",+007100.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBWD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 47' 36.83",W98° 57' 23.84",+001400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBWD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

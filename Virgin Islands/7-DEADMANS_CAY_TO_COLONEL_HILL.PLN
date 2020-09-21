@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Deadmans Cay to Colonel Hill</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MYLD</DepartureID>
+        <DepartureLLA>N23° 10' 44.41",W75° 5' 37.01",+000009.00</DepartureLLA>
+        <DestinationID>MYCI</DestinationID>
+        <DestinationLLA>N22° 44' 43.77",W74° 10' 56.55",+000010.00</DestinationLLA>
+        <Descr>Deadmans Cay to Colonel Hill</Descr>
+        <DepartureName>Deadmans Cay</DepartureName>
+        <DestinationName>Colonel Hill</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYLD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N23° 10' 44.41",W75° 5' 37.01",+000009.00</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYLD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYCI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 44' 43.77",W74° 10' 56.55",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYCI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Fall City to Apex Airpark</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>1WA6</DepartureID>
+        <DepartureLLA>N47° 33' 33.92",W121° 51' 50.91",+000140.00</DepartureLLA>
+        <DestinationID>8W5</DestinationID>
+        <DestinationLLA>N47° 39' 23.58",W122° 43' 59.34",+000510.00</DestinationLLA>
+        <Descr>Fall City to Apex Airpark</Descr>
+        <DepartureName>Fall City</DepartureName>
+        <DestinationName>Apex Airpark</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Fall City">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 33' 33.92",W121° 51' 50.91",+000140.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1WA6</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Magnuson Park">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 40' 56.09",W122° 14' 54.42",+006450.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Waypoint">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 40' 5.18",W122° 16' 45.80",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="UW Drumheller Fountain">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 39' 13.42",W122° 18' 27.92",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 38' 40.59",W122° 19' 9.04",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Space Needle">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 37' 13.53",W122° 20' 57.88",+006250.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 37' 46.46",W122° 26' 42.97",+004800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Apex Airpark">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 39' 23.58",W122° 43' 59.34",+000500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>8W5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

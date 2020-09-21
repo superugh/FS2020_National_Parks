@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Packwood to Ranger Creek</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>3300.000</CruisingAlt>
+        <DepartureID>55S</DepartureID>
+        <DepartureLLA>N46° 36' 15.00",W121° 40' 40.84",+001053.00</DepartureLLA>
+        <DestinationID>21W</DestinationID>
+        <DestinationLLA>N47° 0' 46.85",W121° 32' 1.23",+002570.50</DestinationLLA>
+        <Descr>Packwood to Ranger Creek</Descr>
+        <DepartureName>Packwood</DepartureName>
+        <DestinationName>Ranger Creek</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="55S">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 36' 15.00",W121° 40' 40.84",+001053.00</WorldPosition>
+            <RunwayNumberFP>19</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>55S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Narada Falls">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 46' 29.61",W121° 44' 46.24",+003200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount Rainier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 51' 7.25",W121° 45' 41.80",+003300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tipsoo Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 52' 8.76",W121° 31' 2.90",+003300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="21W">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 0' 46.85",W121° 32' 1.23",+002550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>21W</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

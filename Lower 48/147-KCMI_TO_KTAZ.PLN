@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>University Of Illinois-Willard to Taylorville Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>KCMI</DepartureID>
+        <DepartureLLA>N40° 2' 19.06",W88° 16' 40.92",+000748.83</DepartureLLA>
+        <DestinationID>KTAZ</DestinationID>
+        <DestinationLLA>N39° 32' 0.33",W89° 19' 50.70",+000616.50</DestinationLLA>
+        <Descr>University Of Illinois-Willard to Taylorville Mun</Descr>
+        <DepartureName>University Of Illinois-Willard</DepartureName>
+        <DestinationName>Taylorville Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCMI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 2' 19.06",W88° 16' 40.92",+000748.83</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KCMI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KTAZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 32' 0.33",W89° 19' 50.70",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KTAZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

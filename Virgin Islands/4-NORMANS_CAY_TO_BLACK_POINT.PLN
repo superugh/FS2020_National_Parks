@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Norman&apos;S Cay to Black Point</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MYEN</DepartureID>
+        <DepartureLLA>N24° 35' 46.79",W76° 49' 8.16",+000012.50</DepartureLLA>
+        <DestinationID>MYEB</DestinationID>
+        <DestinationLLA>N24° 5' 21.57",W76° 23' 52.74",+000013.00</DestinationLLA>
+        <Descr>Norman&apos;S Cay to Black Point</Descr>
+        <DepartureName>Norman&apos;S Cay</DepartureName>
+        <DestinationName>Black Point</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYEN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 35' 46.79",W76° 49' 8.16",+000012.50</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYEN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYEB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 5' 21.57",W76° 23' 52.74",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYEB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

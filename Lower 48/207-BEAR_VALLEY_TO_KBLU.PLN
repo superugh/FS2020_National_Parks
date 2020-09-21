@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bear Valley to Blue Canyon-Nyack</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>73CA</DepartureID>
+        <DepartureLLA>N38° 27' 27.43",W120° 2' 31.44",+007073.00</DepartureLLA>
+        <DestinationID>KBLU</DestinationID>
+        <DestinationLLA>N39° 16' 29.95",W120° 42' 35.28",+005265.00</DestinationLLA>
+        <Descr>Bear Valley to Blue Canyon-Nyack</Descr>
+        <DepartureName>Bear Valley</DepartureName>
+        <DestinationName>Blue Canyon-Nyack</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="73CA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 27' 27.43",W120° 2' 31.44",+007073.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>73CA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 47' 4.11",W120° 18' 24.74",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 56' 51.63",W120° 26' 24.67",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBLU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 16' 29.95",W120° 42' 35.28",+005250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBLU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

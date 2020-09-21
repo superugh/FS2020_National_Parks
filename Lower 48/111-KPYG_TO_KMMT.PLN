@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Pageland to Mc Entire Jngb</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KPYG</DepartureID>
+        <DepartureLLA>N34° 44' 31.75",W80° 20' 42.41",+000562.50</DepartureLLA>
+        <DestinationID>KMMT</DestinationID>
+        <DestinationLLA>N33° 55' 25.10",W80° 48' 9.21",+000249.25</DestinationLLA>
+        <Descr>Pageland to Mc Entire Jngb</Descr>
+        <DepartureName>Pageland</DepartureName>
+        <DestinationName>Mc Entire Jngb</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPYG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 44' 31.75",W80° 20' 42.41",+000562.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPYG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 22' 28.76",W80° 33' 6.20",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 18' 44.26",W80° 35' 11.69",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMMT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 55' 25.10",W80° 48' 9.21",+000250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMMT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

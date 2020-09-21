@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>South Fox Island to King Trout</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>3MI2</DepartureID>
+        <DepartureLLA>N45° 23' 58.27",W85° 49' 48.91",+000616.00</DepartureLLA>
+        <DestinationID>6MI0</DestinationID>
+        <DestinationLLA>N44° 36' 58.58",W84° 57' 1.43",+001100.00</DestinationLLA>
+        <Descr>South Fox Island to King Trout</Descr>
+        <DepartureName>South Fox Island</DepartureName>
+        <DestinationName>King Trout</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3MI2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 58.27",W85° 49' 48.91",+000616.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3MI2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 2' 54.57",W85° 25' 55.21",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 56' 28.79",W85° 18' 42.17",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="6MI0">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 36' 58.58",W84° 57' 1.43",+001100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6MI0</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Wall Mun to Bison Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>6V4</DepartureID>
+        <DepartureLLA>N43° 59' 56.79",W102° 15' 11.10",+002805.75</DepartureLLA>
+        <DestinationID>6V5</DestinationID>
+        <DestinationLLA>N45° 31' 5.92",W102° 28' 4.06",+002786.00</DestinationLLA>
+        <Descr>Wall Mun to Bison Mun</Descr>
+        <DepartureName>Wall Mun</DepartureName>
+        <DestinationName>Bison Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="6V4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 59' 56.79",W102° 15' 11.10",+002805.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6V4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 36' 20.97",W102° 20' 14.91",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 54' 32.98",W102° 22' 49.20",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="6V5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 31' 5.92",W102° 28' 4.06",+002800.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6V5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

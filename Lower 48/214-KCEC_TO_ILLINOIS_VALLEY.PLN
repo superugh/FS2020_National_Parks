@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Jack Mc Namara Field to Illinois Valley</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>2900.000</CruisingAlt>
+        <DepartureID>KCEC</DepartureID>
+        <DepartureLLA>N41° 46' 48.72",W124° 14' 11.82",+000055.50</DepartureLLA>
+        <DestinationID>3S4</DestinationID>
+        <DestinationLLA>N42° 6' 14.30",W123° 40' 56.26",+001374.00</DestinationLLA>
+        <Descr>Jack Mc Namara Field to Illinois Valley</Descr>
+        <DepartureName>Jack Mc Namara Field</DepartureName>
+        <DestinationName>Illinois Valley</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCEC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 46' 48.72",W124° 14' 11.82",+000055.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCEC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 55' 33.54",W123° 59' 17.83",+002900.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 58' 28.05",W123° 54' 18.93",+002900.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="3S4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 6' 14.30",W123° 40' 56.26",+001350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3S4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

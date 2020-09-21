@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Salt Cay to Gregorio Luperon Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MBSY</DepartureID>
+        <DepartureLLA>N21° 20' 4.57",W71° 11' 58.23",+000010.50</DepartureLLA>
+        <DestinationID>MDPP</DestinationID>
+        <DestinationLLA>N19° 45' 28.34",W70° 34' 11.95",+000016.50</DestinationLLA>
+        <Descr>Salt Cay to Gregorio Luperon Intl</Descr>
+        <DepartureName>Salt Cay</DepartureName>
+        <DestinationName>Gregorio Luperon Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MBSY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N21° 20' 4.57",W71° 11' 58.23",+000010.50</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MBSY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MDPP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N19° 45' 28.34",W70° 34' 11.95",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MDPP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

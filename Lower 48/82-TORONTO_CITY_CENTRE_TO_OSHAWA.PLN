@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Toronto/City Centre to Oshawa</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>CYTZ</DepartureID>
+        <DepartureLLA>N43° 37' 40.91",W79° 23' 44.81",+000251.00</DepartureLLA>
+        <DestinationID>CYOO</DestinationID>
+        <DestinationLLA>N43° 55' 21.32",W78° 53' 43.31",+000452.25</DestinationLLA>
+        <Descr>Toronto/City Centre to Oshawa</Descr>
+        <DepartureName>Toronto/City Centre</DepartureName>
+        <DestinationName>Oshawa</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYTZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 37' 40.91",W79° 23' 44.81",+000251.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYTZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 45' 38.29",W79° 10' 17.69",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 47' 39.30",W79° 6' 52.05",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYOO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 55' 21.32",W78° 53' 43.31",+000450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYOO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

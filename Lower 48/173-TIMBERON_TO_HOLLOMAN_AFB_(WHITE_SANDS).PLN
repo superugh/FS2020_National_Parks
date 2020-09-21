@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Timberon to Holloman Air Force Base Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>52NM</DepartureID>
+        <DepartureLLA>N32° 38' 2.59",W105° 41' 14.78",+006908.00</DepartureLLA>
+        <DestinationID>KHOL</DestinationID>
+        <DestinationLLA>N32° 56' 37.85",W106° 25' 9.60",+003910.22</DestinationLLA>
+        <Descr>Timberon to Holloman Air Force Base Airport</Descr>
+        <DepartureName>Timberon</DepartureName>
+        <DestinationName>Holloman Air Force Base Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="52NM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 38' 2.59",W105° 41' 14.78",+006908.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>52NM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 29.81",W105° 58' 44.74",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 46' 18.22",W106° 0' 38.97",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KHOL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 56' 37.85",W106° 25' 9.60",+003900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHOL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

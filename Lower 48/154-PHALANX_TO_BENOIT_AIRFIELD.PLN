@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Phalanx to Benoit Airfield</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>30AR</DepartureID>
+        <DepartureLLA>N35° 32' 39.31",W92° 3' 21.77",+000584.00</DepartureLLA>
+        <DestinationID>77AR</DestinationID>
+        <DestinationLLA>N34° 35' 50.47",W92° 56' 13.35",+000490.00</DestinationLLA>
+        <Descr>Phalanx to Benoit Airfield</Descr>
+        <DepartureName>Phalanx</DepartureName>
+        <DestinationName>Benoit Airfield</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="30AR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 32' 39.31",W92° 3' 21.77",+000584.00</WorldPosition>
+            <RunwayNumberFP>36</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>30AR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="77AR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 35' 50.47",W92° 56' 13.35",+000500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>77AR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

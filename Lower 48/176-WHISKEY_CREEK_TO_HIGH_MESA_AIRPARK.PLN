@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Whiskey Creek to High Mesa Airpark</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>94E</DepartureID>
+        <DepartureLLA>N32° 45' 37.81",W108° 12' 34.48",+006126.00</DepartureLLA>
+        <DestinationID>3AZ8</DestinationID>
+        <DestinationLLA>N32° 46' 0.97",W109° 39' 11.94",+003080.00</DestinationLLA>
+        <Descr>Whiskey Creek to High Mesa Airpark</Descr>
+        <DepartureName>Whiskey Creek</DepartureName>
+        <DestinationName>High Mesa Airpark</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="94E">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 45' 37.81",W108° 12' 34.48",+006126.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>94E</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 54.21",W108° 47' 9.87",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 58.86",W109° 4' 27.63",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="3AZ8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 46' 0.97",W109° 39' 11.94",+003100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3AZ8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

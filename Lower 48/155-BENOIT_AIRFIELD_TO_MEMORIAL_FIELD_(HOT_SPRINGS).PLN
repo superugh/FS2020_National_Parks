@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Benoit Airfield to Memorial Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>77AR</DepartureID>
+        <DepartureLLA>N34° 35' 50.47",W92° 56' 13.35",+000490.00</DepartureLLA>
+        <DestinationID>KHOT</DestinationID>
+        <DestinationLLA>N34° 28' 40.55",W93° 5' 45.11",+000516.75</DestinationLLA>
+        <Descr>Benoit Airfield to Memorial Field</Descr>
+        <DepartureName>Benoit Airfield</DepartureName>
+        <DestinationName>Memorial Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Benoit Airfield">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 35' 50.47",W92° 56' 13.35",+000490.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>77AR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 31' 35.61",W93° 2' 0.11",+001300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hot Springs Mountain Tower">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 31' 2.13",W93° 2' 45.54",+001150.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 29' 24.04",W93° 4' 49.99",+000700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Memorial Field">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 28' 40.55",W93° 5' 45.11",+000500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHOT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

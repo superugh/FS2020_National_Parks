@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Deer Springs Ranch to Bryce Canyon</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>UT30</DepartureID>
+        <DepartureLLA>N37° 20' 35.78",W112° 13' 27.08",+006485.00</DepartureLLA>
+        <DestinationID>KBCE</DestinationID>
+        <DestinationLLA>N37° 42' 24.99",W112° 8' 58.44",+007572.00</DestinationLLA>
+        <Descr>Deer Springs Ranch to Bryce Canyon</Descr>
+        <DepartureName>Deer Springs Ranch</DepartureName>
+        <DestinationName>Bryce Canyon</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Deer Springs Ranch">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 20' 35.78",W112° 13' 27.08",+006485.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT30</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bristlecone Loop and Rainbow Point">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 28' 32.23",W112° 14' 27.32",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Natural Bridge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 31' 53.26",W112° 15' 35.54",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 35' 20.01",W112° 11' 56.43",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sunset Point">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 37' 17.48",W112° 9' 51.75",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 42' 39.69",W112° 8' 55.89",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bryce Canyon">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 42' 24.99",W112° 8' 58.44",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBCE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

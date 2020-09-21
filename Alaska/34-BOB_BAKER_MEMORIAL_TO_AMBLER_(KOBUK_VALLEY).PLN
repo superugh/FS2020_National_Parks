@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bob Baker Memorial to Ambler</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PAIK</DepartureID>
+        <DepartureLLA>N66° 58' 33.47",W160° 26' 11.72",+000153.50</DepartureLLA>
+        <DestinationID>PAFM</DestinationID>
+        <DestinationLLA>N67° 6' 19.99",W157° 51' 35.68",+000269.25</DestinationLLA>
+        <Descr>Bob Baker Memorial to Ambler</Descr>
+        <DepartureName>Bob Baker Memorial</DepartureName>
+        <DestinationName>Ambler</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAIK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 58' 33.47",W160° 26' 11.72",+000150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAIK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Salmon River">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 10' 23.80",W159° 29' 37.70",+008300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Great Kobuk Sand Dunes">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 3' 13.96",W158° 54' 47.00",+005250.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hunt River">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 12' 44.95",W158° 34' 43.94",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jade Mountains">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 14' 29.98",W158° 2' 23.98",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAFM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N67° 6' 19.99",W157° 51' 35.68",+000269.25</WorldPosition>
+            <RunwayNumberFP>19</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAFM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

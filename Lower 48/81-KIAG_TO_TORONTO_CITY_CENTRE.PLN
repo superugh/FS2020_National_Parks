@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Niagara Falls Intl to Toronto/City Centre</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KIAG</DepartureID>
+        <DepartureLLA>N43° 6' 23.73",W78° 56' 40.63",+000586.50</DepartureLLA>
+        <DestinationID>CYTZ</DestinationID>
+        <DestinationLLA>N43° 37' 40.91",W79° 23' 44.81",+000251.00</DestinationLLA>
+        <Descr>Niagara Falls Intl to Toronto/City Centre</Descr>
+        <DepartureName>Niagara Falls Intl</DepartureName>
+        <DestinationName>Toronto/City Centre</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KIAG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 6' 23.73",W78° 56' 40.63",+000586.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KIAG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 20' 27.84",W79° 8' 46.83",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 22' 47.26",W79° 10' 47.43",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYTZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 37' 40.91",W79° 23' 44.81",+000250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYTZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

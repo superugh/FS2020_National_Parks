@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Crawford to Saguache Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>99V</DepartureID>
+        <DepartureLLA>N38° 42' 13.39",W107° 38' 49.56",+006470.00</DepartureLLA>
+        <DestinationID>04V</DestinationID>
+        <DestinationLLA>N38° 5' 57.47",W106° 10' 27.75",+007817.00</DestinationLLA>
+        <Descr>Crawford to Saguache Mun</Descr>
+        <DepartureName>Crawford</DepartureName>
+        <DestinationName>Saguache Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="99V">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 42' 13.39",W107° 38' 49.56",+006470.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>99V</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="04V">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 5' 57.47",W106° 10' 27.75",+006500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>04V</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Pine Cay to Salt Cay</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MBPI</DepartureID>
+        <DepartureLLA>N21° 52' 29.72",W72° 5' 32.51",+000006.00</DepartureLLA>
+        <DestinationID>MBSY</DestinationID>
+        <DestinationLLA>N21° 20' 4.57",W71° 11' 58.23",+000010.50</DestinationLLA>
+        <Descr>Pine Cay to Salt Cay</Descr>
+        <DepartureName>Pine Cay</DepartureName>
+        <DestinationName>Salt Cay</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MBPI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N21° 52' 29.72",W72° 5' 32.51",+000006.00</WorldPosition>
+            <RunwayNumberFP>29</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MBPI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MBSY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N21° 20' 4.57",W71° 11' 58.23",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MBSY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

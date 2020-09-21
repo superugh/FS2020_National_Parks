@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Igiugig to Port Alsworth</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PAIG</DepartureID>
+        <DepartureLLA>N59° 19' 26.71",W155° 54' 5.90",+000081.50</DepartureLLA>
+        <DestinationID>TPO</DestinationID>
+        <DestinationLLA>N60° 12' 0.56",W154° 19' 26.35",+000280.00</DestinationLLA>
+        <Descr>Igiugig to Port Alsworth</Descr>
+        <DepartureName>Igiugig</DepartureName>
+        <DestinationName>Port Alsworth</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAIG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 19' 26.71",W155° 54' 5.90",+000081.50</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAIG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TPO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 12' 0.56",W154° 19' 26.35",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TPO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Marshfield Muni - George Harlo to Theodore Francis Green State</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KGHG</DepartureID>
+        <DepartureLLA>N42° 5' 51.03",W70° 40' 22.88",+000004.50</DepartureLLA>
+        <DestinationID>KPVD</DestinationID>
+        <DestinationLLA>N41° 43' 25.11",W71° 25' 35.84",+000046.00</DestinationLLA>
+        <Descr>Marshfield Muni - George Harlo to Theodore Francis Green State</Descr>
+        <DepartureName>Marshfield Muni - George Harlo</DepartureName>
+        <DestinationName>Theodore Francis Green State</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KGHG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 5' 51.03",W70° 40' 22.88",+000004.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGHG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 55' 48.58",W71° 0' 45.60",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 53' 29.97",W71° 5' 24.97",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPVD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 43' 25.11",W71° 25' 35.84",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPVD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Terrance B Lettsome to Miami Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>TUPJ</DepartureID>
+        <DepartureLLA>N18° 26' 43.98",W64° 32' 29.73",+000011.00</DepartureLLA>
+        <DestinationID>KMIA</DestinationID>
+        <DestinationLLA>N25° 47' 46.21",W80° 17' 23.06",+000008.87</DestinationLLA>
+        <Descr>Terrance B Lettsome to Miami Intl</Descr>
+        <DepartureName>Terrance B Lettsome</DepartureName>
+        <DestinationName>Miami Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="TUPJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 26' 43.98",W64° 32' 29.73",+000011.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>TUPJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMIA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 47' 46.21",W80° 17' 23.06",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMIA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

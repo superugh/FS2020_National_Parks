@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Hog River to Bob Baker Memorial</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>2AK6</DepartureID>
+        <DepartureLLA>N66° 10' 51.42",W155° 41' 42.98",+000534.00</DepartureLLA>
+        <DestinationID>PAIK</DestinationID>
+        <DestinationLLA>N66° 58' 33.47",W160° 26' 11.72",+000153.50</DestinationLLA>
+        <Descr>Hog River to Bob Baker Memorial</Descr>
+        <DepartureName>Hog River</DepartureName>
+        <DestinationName>Bob Baker Memorial</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="2AK6">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 10' 51.42",W155° 41' 42.98",+000534.00</WorldPosition>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>2AK6</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAIK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 58' 33.47",W160° 26' 11.72",+000150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAIK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

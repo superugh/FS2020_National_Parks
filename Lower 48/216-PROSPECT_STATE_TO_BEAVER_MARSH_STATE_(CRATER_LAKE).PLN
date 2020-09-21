@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Prospect State to Beaver Marsh State</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6000.000</CruisingAlt>
+        <DepartureID>64S</DepartureID>
+        <DepartureLLA>N42° 44' 33.38",W122° 29' 19.82",+002552.50</DepartureLLA>
+        <DestinationID>2S2</DestinationID>
+        <DestinationLLA>N43° 7' 38.69",W121° 48' 31.52",+004629.00</DestinationLLA>
+        <Descr>Prospect State to Beaver Marsh State</Descr>
+        <DepartureName>Prospect State</DepartureName>
+        <DestinationName>Beaver Marsh State</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="64S">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 44' 33.38",W122° 29' 19.82",+002552.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>64S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 54' 57.53",W122° 11' 3.72",+006000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 58' 24.92",W122° 4' 56.99",+006000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="2S2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 7' 38.69",W121° 48' 31.52",+004650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2S2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

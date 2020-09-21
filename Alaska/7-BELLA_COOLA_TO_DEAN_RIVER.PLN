@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bella Coola to Dean River Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>CYBD</DepartureID>
+        <DepartureLLA>N52° 23' 15.30",W126° 35' 44.91",+000117.00</DepartureLLA>
+        <DestinationID>YRD</DestinationID>
+        <DestinationLLA>N52° 49' 27.25",W126° 57' 53.76",+000044.85</DestinationLLA>
+        <Descr>Bella Coola to Dean River Airport</Descr>
+        <DepartureName>Bella Coola</DepartureName>
+        <DestinationName>Dean River Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYBD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 23' 15.30",W126° 35' 44.91",+000117.00</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CYBD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="YRD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 49' 27.25",W126° 57' 53.76",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>YRD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

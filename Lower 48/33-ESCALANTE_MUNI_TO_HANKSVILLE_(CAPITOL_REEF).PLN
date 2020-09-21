@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Escalante Muni to Hanksville</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>1L7</DepartureID>
+        <DepartureLLA>N37° 44' 43.24",W111° 34' 12.60",+005727.50</DepartureLLA>
+        <DestinationID>KHVE</DestinationID>
+        <DestinationLLA>N38° 25' 9.92",W110° 42' 10.53",+004440.25</DestinationLLA>
+        <Descr>Escalante Muni to Hanksville</Descr>
+        <DepartureName>Escalante Muni</DepartureName>
+        <DestinationName>Hanksville</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Escalante Muni">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 44' 43.24",W111° 34' 12.60",+005727.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1L7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Waypoint">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 4' 51.47",W111° 8' 18.56",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 13' 1.82",W111° 10' 59.10",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Golden Throne">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 13' 8.56",W111° 11' 1.32",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cassidy Arch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 15' 39.80",W111° 13' 32.11",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fruita">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 17' 1.56",W111° 14' 48.99",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 21' 9.06",W110° 58' 21.91",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hanksville">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 25' 9.92",W110° 42' 10.53",+004450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHVE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

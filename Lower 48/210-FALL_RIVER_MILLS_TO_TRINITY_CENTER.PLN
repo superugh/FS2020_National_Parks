@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Fall River Mills to Trinity Center</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>O89</DepartureID>
+        <DepartureLLA>N41° 1' 2.55",W121° 26' 6.17",+003325.50</DepartureLLA>
+        <DestinationID>O86</DestinationID>
+        <DestinationLLA>N40° 58' 57.98",W122° 41' 37.44",+002390.00</DestinationLLA>
+        <Descr>Fall River Mills to Trinity Center</Descr>
+        <DepartureName>Fall River Mills</DepartureName>
+        <DestinationName>Trinity Center</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="O89">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 1' 2.55",W121° 26' 6.17",+003325.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>O89</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 0' 12.70",W122° 0' 2.40",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 0' 10.31",W122° 1' 30.68",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="O86">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 58' 57.98",W122° 41' 37.44",+002400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>O86</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

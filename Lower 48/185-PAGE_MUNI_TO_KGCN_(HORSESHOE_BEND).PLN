@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Page Muni to Grand Canyon National Park</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KPGA</DepartureID>
+        <DepartureLLA>N36° 55' 37.73",W111° 26' 55.66",+004264.75</DepartureLLA>
+        <DestinationID>KGCN</DestinationID>
+        <DestinationLLA>N35° 57' 8.50",W112° 8' 49.16",+006571.00</DestinationLLA>
+        <Descr>Page Muni to Grand Canyon National Park</Descr>
+        <DepartureName>Page Muni</DepartureName>
+        <DestinationName>Grand Canyon National Park</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPGA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 55' 37.73",W111° 26' 55.66",+004264.75</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KPGA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Horseshoe Bend">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 52' 49.89",W111° 31' 2.16",+005150.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGCN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 57' 8.50",W112° 8' 49.16",+006550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGCN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

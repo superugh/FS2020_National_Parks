@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Ted Stevens Anchorage Intl to Quartz Creek</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PANC</DepartureID>
+        <DepartureLLA>N61° 10' 27.12",W149° 59' 50.97",+000120.67</DepartureLLA>
+        <DestinationID>JLA</DestinationID>
+        <DestinationLLA>N60° 29' 3.24",W149° 43' 23.88",+000462.50</DestinationLLA>
+        <Descr>Ted Stevens Anchorage Intl to Quartz Creek</Descr>
+        <DepartureName>Ted Stevens Anchorage Intl</DepartureName>
+        <DestinationName>Quartz Creek</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PANC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 10' 27.12",W149° 59' 50.97",+000120.67</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>PANC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="JLA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 29' 3.24",W149° 43' 23.88",+000450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>JLA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

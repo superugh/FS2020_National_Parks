@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Black Point to Exuma Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MYEB</DepartureID>
+        <DepartureLLA>N24° 5' 21.57",W76° 23' 52.74",+000013.00</DepartureLLA>
+        <DestinationID>MYEF</DestinationID>
+        <DestinationLLA>N23° 33' 44.85",W75° 52' 39.29",+000008.50</DestinationLLA>
+        <Descr>Black Point to Exuma Intl</Descr>
+        <DepartureName>Black Point</DepartureName>
+        <DestinationName>Exuma Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYEB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 5' 21.57",W76° 23' 52.74",+000013.00</WorldPosition>
+            <RunwayNumberFP>29</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYEB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYEF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N23° 33' 44.85",W75° 52' 39.29",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYEF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

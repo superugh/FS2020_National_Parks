@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Inkster to Klamar Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>ND24</DepartureID>
+        <DepartureLLA>N48° 8' 30.40",W97° 40' 22.57",+001092.00</DepartureLLA>
+        <DestinationID>77MN</DestinationID>
+        <DestinationLLA>N48° 22' 7.88",W95° 47' 13.79",+001160.00</DestinationLLA>
+        <Descr>Inkster to Klamar Field</Descr>
+        <DepartureName>Inkster</DepartureName>
+        <DestinationName>Klamar Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ND24">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 8' 30.40",W97° 40' 22.57",+001092.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ND24</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 14' 10.17",W96° 55' 18.88",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 16' 53.42",W96° 32' 43.35",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="77MN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 22' 7.88",W95° 47' 13.79",+001150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>77MN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

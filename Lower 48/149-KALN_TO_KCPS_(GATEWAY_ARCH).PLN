@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>St Louis Rgnl to St Louis Downtown</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>KALN</DepartureID>
+        <DepartureLLA>N38° 53' 23.32",W90° 2' 47.34",+000534.75</DepartureLLA>
+        <DestinationID>KCPS</DestinationID>
+        <DestinationLLA>N38° 34' 16.55",W90° 9' 24.09",+000409.33</DestinationLLA>
+        <Descr>St Louis Rgnl to St Louis Downtown</Descr>
+        <DepartureName>St Louis Rgnl</DepartureName>
+        <DestinationName>St Louis Downtown</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KALN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 53' 23.32",W90° 2' 47.34",+000534.75</WorldPosition>
+            <RunwayNumberFP>29</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KALN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gateway Arch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 37' 28.97",W90° 11' 6.13",+002800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCPS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 34' 16.55",W90° 9' 24.09",+000400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCPS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

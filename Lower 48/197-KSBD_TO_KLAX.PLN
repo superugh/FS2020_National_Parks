@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>San Bernardino Intl to Los Angeles Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6400.000</CruisingAlt>
+        <DepartureID>KSBD</DepartureID>
+        <DepartureLLA>N34° 5' 43.30",W117° 14' 5.61",+001121.50</DepartureLLA>
+        <DestinationID>KLAX</DestinationID>
+        <DestinationLLA>N33° 56' 35.24",W118° 24' 31.71",+000111.62</DestinationLLA>
+        <Descr>San Bernardino Intl to Los Angeles Intl</Descr>
+        <DepartureName>San Bernardino Intl</DepartureName>
+        <DestinationName>Los Angeles Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSBD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 5' 43.30",W117° 14' 5.61",+001121.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSBD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 1' 43.86",W117° 45' 32.18",+006400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 1' 32.90",W117° 46' 57.08",+006400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLAX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 56' 35.24",W118° 24' 31.71",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLAX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

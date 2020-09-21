@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lexington Co to Ehrhardt</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>2SC8</DepartureID>
+        <DepartureLLA>N33° 47' 9.00",W81° 5' 31.23",+000460.00</DepartureLLA>
+        <DestinationID>SC35</DestinationID>
+        <DestinationLLA>N33° 5' 20.11",W81° 0' 29.32",+000146.00</DestinationLLA>
+        <Descr>Lexington Co to Ehrhardt</Descr>
+        <DepartureName>Lexington Co</DepartureName>
+        <DestinationName>Ehrhardt</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="2SC8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 47' 9.00",W81° 5' 31.23",+000460.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2SC8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 28' 21.95",W81° 3' 14.99",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 25' 9.32",W81° 2' 51.81",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="SC35">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 5' 20.11",W81° 0' 29.32",+000150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SC35</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

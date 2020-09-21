@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Saguache Mun to Cuchara Valley At La Veta</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>04V</DepartureID>
+        <DepartureLLA>N38° 5' 57.47",W106° 10' 27.75",+007817.00</DepartureLLA>
+        <DestinationID>07V</DestinationID>
+        <DestinationLLA>N37° 31' 25.82",W105° 0' 33.39",+007106.50</DestinationLLA>
+        <Descr>Saguache Mun to Cuchara Valley At La Veta</Descr>
+        <DepartureName>Saguache Mun</DepartureName>
+        <DestinationName>Cuchara Valley At La Veta</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Saguache Mun">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 5' 57.47",W106° 10' 27.75",+007817.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>04V</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="High Dune">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 44' 55.55",W105° 31' 59.50",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 46' 27.04",W105° 30' 34.58",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Medano Pass">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 51' 22.52",W105° 25' 59.73",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 42' 2.51",W105° 14' 2.87",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cuchara Valley At La Veta">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 31' 25.82",W105° 0' 33.39",+006500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>07V</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

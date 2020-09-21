@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Tachenko Strip to Frei Private</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>NA61</DepartureID>
+        <DepartureLLA>N47° 17' 37.75",W103° 11' 15.28",+002695.75</DepartureLLA>
+        <DestinationID>ND16</DestinationID>
+        <DestinationLLA>N47° 26' 20.16",W102° 14' 22.97",+002100.00</DestinationLLA>
+        <Descr>Tachenko Strip to Frei Private</Descr>
+        <DepartureName>Tachenko Strip</DepartureName>
+        <DestinationName>Frei Private</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NA61">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 17' 37.75",W103° 11' 15.28",+002695.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NA61</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 21' 35.92",W102° 45' 44.65",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 21' 51.36",W102° 44' 4.07",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ND16">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 26' 20.16",W102° 14' 22.97",+002100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ND16</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Horseshoe Bend to Phalanx</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>6M2</DepartureID>
+        <DepartureLLA>N36° 13' 16.95",W91° 45' 19.91",+000779.00</DepartureLLA>
+        <DestinationID>30AR</DestinationID>
+        <DestinationLLA>N35° 32' 39.31",W92° 3' 21.77",+000584.00</DestinationLLA>
+        <Descr>Horseshoe Bend to Phalanx</Descr>
+        <DepartureName>Horseshoe Bend</DepartureName>
+        <DestinationName>Phalanx</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="6M2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 13' 16.95",W91° 45' 19.91",+000779.00</WorldPosition>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>6M2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="30AR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 32' 39.31",W92° 3' 21.77",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>30AR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

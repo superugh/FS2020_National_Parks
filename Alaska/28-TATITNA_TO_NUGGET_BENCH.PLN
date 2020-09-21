@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Tatitna to Nugget Bench</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>8KA</DepartureID>
+        <DepartureLLA>N62° 17' 37.94",W153° 22' 12.00",+001490.00</DepartureLLA>
+        <DestinationID>33AK</DestinationID>
+        <DestinationLLA>N62° 30' 57.31",W150° 56' 43.74",+002010.00</DestinationLLA>
+        <Descr>Tatitna to Nugget Bench</Descr>
+        <DepartureName>Tatitna</DepartureName>
+        <DestinationName>Nugget Bench</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="8KA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N62° 17' 37.94",W153° 22' 12.00",+001490.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>8KA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="33AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N62° 30' 57.31",W150° 56' 43.74",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>33AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

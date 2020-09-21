@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Flat Creek Field to Eckhart Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>05WN</DepartureID>
+        <DepartureLLA>N48° 42' 9.01",W118° 2' 52.69",+001570.00</DepartureLLA>
+        <DestinationID>1S1</DestinationID>
+        <DestinationLLA>N48° 59' 25.07",W116° 30' 7.26",+001753.00</DestinationLLA>
+        <Descr>Flat Creek Field to Eckhart Intl</Descr>
+        <DepartureName>Flat Creek Field</DepartureName>
+        <DestinationName>Eckhart Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="05WN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 42' 9.01",W118° 2' 52.69",+001570.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>05WN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 49' 11.67",W117° 25' 57.94",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 52' 38.54",W117° 7' 26.71",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="1S1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 59' 25.07",W116° 30' 7.26",+001750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1S1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

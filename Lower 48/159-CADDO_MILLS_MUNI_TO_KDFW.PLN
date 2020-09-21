@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Caddo Mills Mun to Dallas-Ft Worth Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>4200.000</CruisingAlt>
+        <DepartureID>7F3</DepartureID>
+        <DepartureLLA>N33° 2' 10.54",W96° 14' 35.34",+000538.75</DepartureLLA>
+        <DestinationID>KDFW</DestinationID>
+        <DestinationLLA>N32° 53' 49.59",W97° 2' 11.81",+000567.50</DestinationLLA>
+        <Descr>Caddo Mills Mun to Dallas-Ft Worth Intl</Descr>
+        <DepartureName>Caddo Mills Mun</DepartureName>
+        <DestinationName>Dallas-Ft Worth Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="7F3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 2' 10.54",W96° 14' 35.34",+000538.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>7F3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 58' 28.39",W96° 35' 55.97",+004200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 57' 36.39",W96° 40' 52.54",+004200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KDFW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 53' 49.59",W97° 2' 11.81",+000550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDFW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

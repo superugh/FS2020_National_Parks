@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bryce Canyon to Escalante Muni</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KBCE</DepartureID>
+        <DepartureLLA>N37° 42' 24.99",W112° 8' 58.44",+007572.00</DepartureLLA>
+        <DestinationID>1L7</DestinationID>
+        <DestinationLLA>N37° 44' 43.24",W111° 34' 12.60",+005727.50</DestinationLLA>
+        <Descr>Bryce Canyon to Escalante Muni</Descr>
+        <DepartureName>Bryce Canyon</DepartureName>
+        <DestinationName>Escalante Muni</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBCE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 42' 24.99",W112° 8' 58.44",+007572.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBCE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 43' 21.43",W111° 55' 5.76",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 43' 49.03",W111° 48' 9.29",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="1L7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 44' 43.24",W111° 34' 12.60",+005750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1L7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

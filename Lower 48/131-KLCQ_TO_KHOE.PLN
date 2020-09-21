@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lake City Gateway to Homerville</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KLCQ</DepartureID>
+        <DepartureLLA>N30° 10' 54.22",W82° 34' 35.50",+000193.75</DepartureLLA>
+        <DestinationID>KHOE</DestinationID>
+        <DestinationLLA>N31° 3' 24.78",W82° 46' 31.06",+000184.50</DestinationLLA>
+        <Descr>Lake City Gateway to Homerville</Descr>
+        <DepartureName>Lake City Gateway</DepartureName>
+        <DestinationName>Homerville</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KLCQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 10' 54.22",W82° 34' 35.50",+000193.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLCQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 34' 29.73",W82° 39' 55.37",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 39' 45.67",W82° 41' 7.12",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KHOE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 3' 24.78",W82° 46' 31.06",+000200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHOE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

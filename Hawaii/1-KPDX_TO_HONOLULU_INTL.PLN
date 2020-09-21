@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Portland Intl to Honolulu Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KPDX</DepartureID>
+        <DepartureLLA>N45° 35' 19.28",W122° 35' 53.41",+000025.83</DepartureLLA>
+        <DestinationID>PHNL</DestinationID>
+        <DestinationLLA>N21° 19' 9.79",W157° 55' 16.54",+000006.25</DestinationLLA>
+        <Descr>Portland Intl to Honolulu Intl</Descr>
+        <DepartureName>Portland Intl</DepartureName>
+        <DestinationName>Honolulu Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPDX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 35' 19.28",W122° 35' 53.41",+000025.83</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KPDX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PHNL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N21° 19' 9.79",W157° 55' 16.54",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PHNL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

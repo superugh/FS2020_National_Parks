@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Ketchikan Airport to Petersburg James A Johnson</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>PAKE</DepartureID>
+        <DepartureLLA>N56° 13' 7.66",W131° 29' 6.16",+000009.52</DepartureLLA>
+        <DestinationID>PAPG</DestinationID>
+        <DestinationLLA>N56° 48' 5.35",W132° 56' 46.67",+000109.50</DestinationLLA>
+        <Descr>Ketchikan Airport to Petersburg James A Johnson</Descr>
+        <DepartureName>Ketchikan Airport</DepartureName>
+        <DestinationName>Petersburg James A Johnson</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAKE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 13' 7.66",W131° 29' 6.16",+000009.52</WorldPosition>
+            <RunwayNumberFP>24</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAKE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 48' 5.35",W132° 56' 46.67",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

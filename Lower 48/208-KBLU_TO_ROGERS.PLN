@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Blue Canyon-Nyack to Rogers</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KBLU</DepartureID>
+        <DepartureLLA>N39° 16' 29.95",W120° 42' 35.28",+005265.00</DepartureLLA>
+        <DestinationID>O05</DestinationID>
+        <DestinationLLA>N40° 17' 10.82",W121° 14' 22.14",+004524.00</DestinationLLA>
+        <Descr>Blue Canyon-Nyack to Rogers</Descr>
+        <DepartureName>Blue Canyon-Nyack</DepartureName>
+        <DestinationName>Rogers</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBLU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 16' 29.95",W120° 42' 35.28",+005265.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBLU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 40' 44.89",W120° 55' 10.04",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 52' 51.86",W121° 1' 30.73",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="O05">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 17' 10.82",W121° 14' 22.14",+004500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>O05</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

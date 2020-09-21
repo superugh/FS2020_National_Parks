@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Dell City Mun to Timberon</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>2E5</DepartureID>
+        <DepartureLLA>N31° 56' 51.51",W105° 11' 30.34",+003703.00</DepartureLLA>
+        <DestinationID>52NM</DestinationID>
+        <DestinationLLA>N32° 38' 2.59",W105° 41' 14.78",+006908.00</DestinationLLA>
+        <Descr>Dell City Mun to Timberon</Descr>
+        <DepartureName>Dell City Mun</DepartureName>
+        <DestinationName>Timberon</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="2E5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 56' 51.51",W105° 11' 30.34",+003703.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2E5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 15' 22.50",W105° 24' 48.65",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 21' 32.52",W105° 29' 15.96",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="52NM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 38' 2.59",W105° 41' 14.78",+006900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>52NM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

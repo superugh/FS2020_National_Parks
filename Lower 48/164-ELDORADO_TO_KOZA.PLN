@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Eldorado to Ozona Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>5300.000</CruisingAlt>
+        <DepartureID>27R</DepartureID>
+        <DepartureLLA>N30° 51' 44.00",W100° 36' 39.19",+002439.50</DepartureLLA>
+        <DestinationID>KOZA</DestinationID>
+        <DestinationLLA>N30° 44' 6.77",W101° 12' 7.71",+002366.00</DestinationLLA>
+        <Descr>Eldorado to Ozona Mun</Descr>
+        <DepartureName>Eldorado</DepartureName>
+        <DestinationName>Ozona Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="27R">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 51' 44.00",W100° 36' 39.19",+002439.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>27R</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 48' 19.82",W100° 52' 36.11",+005300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 47' 40.58",W100° 55' 38.69",+005300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KOZA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 44' 6.77",W101° 12' 7.71",+002350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KOZA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

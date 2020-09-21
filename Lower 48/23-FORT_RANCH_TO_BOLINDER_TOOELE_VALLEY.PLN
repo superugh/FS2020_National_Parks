@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Fort Ranch to Bolinder-Tooele Valley</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>2UT3</DepartureID>
+        <DepartureLLA>N41° 29' 32.16",W112° 35' 28.84",+004440.00</DepartureLLA>
+        <DestinationID>KTVY</DestinationID>
+        <DestinationLLA>N40° 36' 45.12",W112° 21' 2.89",+004297.50</DestinationLLA>
+        <Descr>Fort Ranch to Bolinder-Tooele Valley</Descr>
+        <DepartureName>Fort Ranch</DepartureName>
+        <DestinationName>Bolinder-Tooele Valley</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="2UT3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 29' 32.16",W112° 35' 28.84",+004440.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2UT3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 8' 27.71",W112° 29' 40.26",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 57' 55.36",W112° 26' 47.37",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KTVY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 36' 45.12",W112° 21' 2.89",+004300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KTVY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

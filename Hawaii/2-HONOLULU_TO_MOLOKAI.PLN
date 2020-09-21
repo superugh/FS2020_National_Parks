@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Honolulu Intl to Molokai</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PHNL</DepartureID>
+        <DepartureLLA>N21° 19' 9.79",W157° 55' 16.54",+000006.25</DepartureLLA>
+        <DestinationID>PHMK</DestinationID>
+        <DestinationLLA>N21° 9' 10.70",W157° 5' 47.28",+000442.25</DestinationLLA>
+        <Descr>Honolulu Intl to Molokai</Descr>
+        <DepartureName>Honolulu Intl</DepartureName>
+        <DestinationName>Molokai</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PHNL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N21° 19' 9.79",W157° 55' 16.54",+000006.25</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>PHNL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PHMK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N21° 9' 10.70",W157° 5' 47.28",+000450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PHMK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

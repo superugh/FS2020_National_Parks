@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Taylorville Mun to St Louis Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>KTAZ</DepartureID>
+        <DepartureLLA>N39° 32' 0.33",W89° 19' 50.70",+000616.50</DepartureLLA>
+        <DestinationID>KALN</DestinationID>
+        <DestinationLLA>N38° 53' 23.32",W90° 2' 47.34",+000534.75</DestinationLLA>
+        <Descr>Taylorville Mun to St Louis Rgnl</Descr>
+        <DepartureName>Taylorville Mun</DepartureName>
+        <DestinationName>St Louis Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KTAZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 32' 0.33",W89° 19' 50.70",+000616.50</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KTAZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KALN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 53' 23.32",W90° 2' 47.34",+000550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KALN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

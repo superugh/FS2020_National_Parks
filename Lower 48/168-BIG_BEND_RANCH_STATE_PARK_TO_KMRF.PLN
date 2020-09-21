@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Big Bend Ranch State Park to Marfa Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>3T9</DepartureID>
+        <DepartureLLA>N29° 28' 17.53",W103° 56' 13.68",+004250.00</DepartureLLA>
+        <DestinationID>KMRF</DestinationID>
+        <DestinationLLA>N30° 22' 14.59",W104° 1' 4.42",+004835.16</DestinationLLA>
+        <Descr>Big Bend Ranch State Park to Marfa Mun</Descr>
+        <DepartureName>Big Bend Ranch State Park</DepartureName>
+        <DestinationName>Marfa Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3T9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 28' 17.53",W103° 56' 13.68",+004250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3T9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 49' 50.23",W103° 58' 9.15",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 0' 36.54",W103° 59' 7.20",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMRF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 22' 14.59",W104° 1' 4.42",+004850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMRF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

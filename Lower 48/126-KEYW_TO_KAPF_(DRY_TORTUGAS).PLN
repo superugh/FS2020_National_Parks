@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Key West Intl to Naples Muni</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KEYW</DepartureID>
+        <DepartureLLA>N24° 33' 22.07",W81° 45' 34.33",+000003.00</DepartureLLA>
+        <DestinationID>KAPF</DestinationID>
+        <DestinationLLA>N26° 9' 9.98",W81° 46' 30.47",+000006.75</DestinationLLA>
+        <Descr>Key West Intl to Naples Muni</Descr>
+        <DepartureName>Key West Intl</DepartureName>
+        <DestinationName>Naples Muni</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KEYW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 33' 22.07",W81° 45' 34.33",+000003.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KEYW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="East Key">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 39' 9.21",W82° 48' 22.51",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hospital Key">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 38' 51.70",W82° 51' 11.20",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="For Jefferson">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 37' 43.45",W82° 52' 23.08",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Loggerhead Lighthouse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 37' 59.90",W82° 55' 14.11",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 42' 39.56",W82° 51' 46.35",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 11' 29.84",W82° 30' 13.72",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KAPF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 9' 9.98",W81° 46' 30.47",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KAPF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

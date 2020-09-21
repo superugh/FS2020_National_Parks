@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Michigan City Muni-Phillips Fi to Lake Village</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>KMGC</DepartureID>
+        <DepartureLLA>N41° 42' 11.97",W86° 49' 16.48",+000648.50</DepartureLLA>
+        <DestinationID>C98</DestinationID>
+        <DestinationLLA>N41° 8' 56.07",W87° 27' 35.74",+000642.00</DestinationLLA>
+        <Descr>Michigan City Muni-Phillips Fi to Lake Village</Descr>
+        <DepartureName>Michigan City Muni-Phillips Fi</DepartureName>
+        <DestinationName>Lake Village</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KMGC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 42' 11.97",W86° 49' 16.48",+000648.50</WorldPosition>
+            <RunwayNumberFP>20</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KMGC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="C98">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 8' 56.07",W87° 27' 35.74",+000650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>C98</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

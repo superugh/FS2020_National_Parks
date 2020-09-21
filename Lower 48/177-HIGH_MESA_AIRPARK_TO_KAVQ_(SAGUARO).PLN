@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>High Mesa Airpark to Marana Regl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>3AZ8</DepartureID>
+        <DepartureLLA>N32° 46' 0.97",W109° 39' 11.94",+003080.00</DepartureLLA>
+        <DestinationID>KAVQ</DestinationID>
+        <DestinationLLA>N32° 24' 32.63",W111° 13' 6.30",+002021.50</DestinationLLA>
+        <Descr>High Mesa Airpark to Marana Regl</Descr>
+        <DepartureName>High Mesa Airpark</DepartureName>
+        <DestinationName>Marana Regl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3AZ8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 46' 0.97",W109° 39' 11.94",+003080.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3AZ8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 25' 9.02",W110° 19' 22.68",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 14' 38.27",W110° 39' 21.06",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cactus Forest">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 12' 34.57",W110° 43' 14.83",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pima Air and Space Museum">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 8' 22.90",W110° 52' 7.62",+007450.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Park West">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 15' 57.42",W111° 12' 30.50",+003700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KAVQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 24' 32.63",W111° 13' 6.30",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KAVQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

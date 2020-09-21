@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Silver Creek to Lincoln County</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>06NV</DepartureID>
+        <DepartureLLA>N39° 5' 44.25",W114° 8' 53.65",+005556.00</DepartureLLA>
+        <DestinationID>1L1</DestinationID>
+        <DestinationLLA>N37° 47' 14.60",W114° 25' 11.81",+004815.00</DestinationLLA>
+        <Descr>Silver Creek to Lincoln County</Descr>
+        <DepartureName>Silver Creek</DepartureName>
+        <DestinationName>Lincoln County</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="06NV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 5' 44.25",W114° 8' 53.65",+005556.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>06NV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rock Glacier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 59' 14.42",W114° 18' 22.15",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pyramid Peak">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 56' 53.77",W114° 17' 42.41",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount Washington">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 54' 40.75",W114° 18' 34.87",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Granite Peak">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 50' 47.80",W114° 15' 18.90",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 36' 49.30",W114° 17' 30.78",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 20' 19.92",W114° 20' 5.29",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="1L1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 47' 14.60",W114° 25' 11.81",+004800.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1L1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Molokai to Lanai</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PHMK</DepartureID>
+        <DepartureLLA>N21° 9' 10.70",W157° 5' 47.28",+000442.25</DepartureLLA>
+        <DestinationID>PHNY</DestinationID>
+        <DestinationLLA>N20° 47' 8.11",W156° 57' 5.02",+001306.00</DestinationLLA>
+        <Descr>Molokai to Lanai</Descr>
+        <DepartureName>Molokai</DepartureName>
+        <DestinationName>Lanai</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PHMK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N21° 9' 10.70",W157° 5' 47.28",+000442.25</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PHMK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PHNY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N20° 47' 8.11",W156° 57' 5.02",+001300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PHNY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

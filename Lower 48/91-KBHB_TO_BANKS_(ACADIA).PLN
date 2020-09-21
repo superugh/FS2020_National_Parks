@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Hancock County-Bar Harbor to Banks</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KBHB</DepartureID>
+        <DepartureLLA>N44° 26' 58.40",W68° 21' 39.56",+000065.25</DepartureLLA>
+        <DestinationID>ME5</DestinationID>
+        <DestinationLLA>N44° 9' 55.37",W68° 25' 41.25",+000080.00</DestinationLLA>
+        <Descr>Hancock County-Bar Harbor to Banks</Descr>
+        <DepartureName>Hancock County-Bar Harbor</DepartureName>
+        <DestinationName>Banks</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBHB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 26' 58.40",W68° 21' 39.56",+000065.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBHB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bar Island">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 23' 52.04",W68° 12' 34.21",+004050.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sand Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 19' 44.89",W68° 10' 55.09",+006400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 19' 37.23",W68° 11' 6.23",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 17' 47.00",W68° 13' 46.49",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bass Harbor Lighthouse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 13' 19.39",W68° 20' 14.46",+002950.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ME5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 9' 55.37",W68° 25' 41.25",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ME5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

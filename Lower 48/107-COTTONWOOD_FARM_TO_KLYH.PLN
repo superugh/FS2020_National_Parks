@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Cottonwood Farm to Lynchburg Rgnl/Preston Glenn F</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>87VA</DepartureID>
+        <DepartureLLA>N38° 4' 52.88",W78° 41' 43.67",+000690.00</DepartureLLA>
+        <DestinationID>KLYH</DestinationID>
+        <DestinationLLA>N37° 19' 35.42",W79° 12' 2.44",+000918.50</DestinationLLA>
+        <Descr>Cottonwood Farm to Lynchburg Rgnl/Preston Glenn F</Descr>
+        <DepartureName>Cottonwood Farm</DepartureName>
+        <DestinationName>Lynchburg Rgnl/Preston Glenn F</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="87VA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 4' 52.88",W78° 41' 43.67",+000690.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>87VA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 44' 33.06",W78° 55' 25.33",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 39' 17.63",W78° 58' 56.39",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLYH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 19' 35.42",W79° 12' 2.44",+000900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLYH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

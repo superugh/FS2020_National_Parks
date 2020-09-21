@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Schafer /Usfs/ to Helena Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>8U2</DepartureID>
+        <DepartureLLA>N48° 4' 46.42",W113° 14' 42.77",+004853.00</DepartureLLA>
+        <DestinationID>KHLN</DestinationID>
+        <DestinationLLA>N46° 36' 26.24",W111° 58' 59.94",+003848.37</DestinationLLA>
+        <Descr>Schafer /Usfs/ to Helena Rgnl</Descr>
+        <DepartureName>Schafer /Usfs/</DepartureName>
+        <DestinationName>Helena Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="8U2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 4' 46.42",W113° 14' 42.77",+004853.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>8U2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 29' 35.92",W112° 43' 58.20",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 11' 57.63",W112° 28' 51.32",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KHLN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 36' 26.24",W111° 58' 59.94",+003850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHLN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

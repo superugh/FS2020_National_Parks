@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Erie Intl/Tom Ridge Field to Niagara Falls Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KERI</DepartureID>
+        <DepartureLLA>N42° 4' 58.42",W80° 10' 31.68",+000728.25</DepartureLLA>
+        <DestinationID>KIAG</DestinationID>
+        <DestinationLLA>N43° 6' 23.73",W78° 56' 40.63",+000586.50</DestinationLLA>
+        <Descr>Erie Intl/Tom Ridge Field to Niagara Falls Intl</Descr>
+        <DepartureName>Erie Intl/Tom Ridge Field</DepartureName>
+        <DestinationName>Niagara Falls Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KERI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 4' 58.42",W80° 10' 31.68",+000728.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KERI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 29' 35.75",W79° 41' 19.66",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 41' 51.62",W79° 26' 35.03",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KIAG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 6' 23.73",W78° 56' 40.63",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KIAG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

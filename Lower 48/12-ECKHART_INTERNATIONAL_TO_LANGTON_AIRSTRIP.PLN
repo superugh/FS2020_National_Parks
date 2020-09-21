@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Eckhart Intl to Langton Airstrip</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>1S1</DepartureID>
+        <DepartureLLA>N48° 59' 25.07",W116° 30' 7.26",+001753.00</DepartureLLA>
+        <DestinationID>MT60</DestinationID>
+        <DestinationLLA>N48° 48' 48.42",W114° 21' 10.58",+003900.00</DestinationLLA>
+        <Descr>Eckhart Intl to Langton Airstrip</Descr>
+        <DepartureName>Eckhart Intl</DepartureName>
+        <DestinationName>Langton Airstrip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="1S1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 59' 25.07",W116° 30' 7.26",+001753.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1S1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 55' 28.10",W115° 38' 31.27",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 53' 21.00",W115° 12' 46.42",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="MT60">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 48' 48.42",W114° 21' 10.58",+003900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MT60</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

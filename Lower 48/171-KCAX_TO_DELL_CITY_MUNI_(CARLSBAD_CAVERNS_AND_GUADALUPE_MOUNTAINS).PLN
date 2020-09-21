@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Carlsbad Airport to Dell City Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7800.000</CruisingAlt>
+        <DepartureID>KCAX</DepartureID>
+        <DepartureLLA>N32° 10' 32.11",W104° 21' 31.28",+003591.30</DepartureLLA>
+        <DestinationID>2E5</DestinationID>
+        <DestinationLLA>N31° 56' 51.51",W105° 11' 30.34",+003703.00</DestinationLLA>
+        <Descr>Carlsbad Airport to Dell City Mun</Descr>
+        <DepartureName>Carlsbad Airport</DepartureName>
+        <DestinationName>Dell City Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCAX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 10' 32.11",W104° 21' 31.28",+003591.30</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCAX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Carlsbad Caverns">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 7' 41.87",W104° 33' 18.47",+005650.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 1' 11.15",W104° 43' 15.54",+007800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 57' 50.50",W104° 48' 21.12",+007800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Guadalupe Mountains">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 55' 26.59",W104° 51' 59.84",+007000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="2E5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 56' 51.51",W105° 11' 30.34",+003700.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2E5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

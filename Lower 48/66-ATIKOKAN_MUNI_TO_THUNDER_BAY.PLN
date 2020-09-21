@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Atikokan Mun to Thunder Bay</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>CYIB</DepartureID>
+        <DepartureLLA>N48° 46' 26.99",W91° 38' 19.48",+001397.00</DepartureLLA>
+        <DestinationID>CYQT</DestinationID>
+        <DestinationLLA>N48° 22' 20.04",W89° 19' 27.02",+000646.75</DestinationLLA>
+        <Descr>Atikokan Mun to Thunder Bay</Descr>
+        <DepartureName>Atikokan Mun</DepartureName>
+        <DestinationName>Thunder Bay</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYIB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 46' 26.99",W91° 38' 19.48",+001397.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYIB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 37' 9.25",W90° 42' 36.25",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 32' 20.33",W90° 14' 52.44",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYQT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 22' 20.04",W89° 19' 27.02",+000650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYQT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Brady Airport to Eldorado</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7400.000</CruisingAlt>
+        <DepartureID>KBRB</DepartureID>
+        <DepartureLLA>N31° 23' 39.65",W99° 28' 54.61",+001419.61</DepartureLLA>
+        <DestinationID>27R</DestinationID>
+        <DestinationLLA>N30° 51' 44.00",W100° 36' 39.19",+002439.50</DestinationLLA>
+        <Descr>Brady Airport to Eldorado</Descr>
+        <DepartureName>Brady Airport</DepartureName>
+        <DestinationName>Eldorado</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBRB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 23' 39.65",W99° 28' 54.61",+001419.61</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBRB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 9' 23.46",W99° 59' 26.24",+007400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 4' 36.46",W100° 9' 34.74",+007400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="27R">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 51' 44.00",W100° 36' 39.19",+002450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>27R</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

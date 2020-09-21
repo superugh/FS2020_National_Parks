@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Watertown Intl to Adirondack Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KART</DepartureID>
+        <DepartureLLA>N43° 59' 30.65",W76° 1' 11.47",+000318.50</DepartureLLA>
+        <DestinationID>KSLK</DestinationID>
+        <DestinationLLA>N44° 23' 4.53",W74° 12' 22.37",+001645.50</DestinationLLA>
+        <Descr>Watertown Intl to Adirondack Rgnl</Descr>
+        <DepartureName>Watertown Intl</DepartureName>
+        <DestinationName>Adirondack Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KART">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 59' 30.65",W76° 1' 11.47",+000318.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KART</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 9' 7.66",W75° 17' 54.67",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 13' 49.99",W74° 56' 11.02",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KSLK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 23' 4.53",W74° 12' 22.37",+001650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSLK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

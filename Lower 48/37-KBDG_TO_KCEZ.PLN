@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Blanding Mun to Cortez Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KBDG</DepartureID>
+        <DepartureLLA>N37° 34' 59.91",W109° 29' 0.02",+005821.50</DepartureLLA>
+        <DestinationID>KCEZ</DestinationID>
+        <DestinationLLA>N37° 18' 10.79",W108° 37' 41.10",+005911.00</DestinationLLA>
+        <Descr>Blanding Mun to Cortez Mun</Descr>
+        <DepartureName>Blanding Mun</DepartureName>
+        <DestinationName>Cortez Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBDG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 34' 59.91",W109° 29' 0.02",+005821.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBDG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 28' 19.61",W109° 8' 27.76",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 24' 58.12",W108° 58' 13.00",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCEZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 18' 10.79",W108° 37' 41.10",+005900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCEZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

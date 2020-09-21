@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Icy Bay to Yakataga</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>2400.000</CruisingAlt>
+        <DepartureID>19AK</DepartureID>
+        <DepartureLLA>N59° 57' 57.92",W141° 39' 38.06",+000050.00</DepartureLLA>
+        <DestinationID>0AA1</DestinationID>
+        <DestinationLLA>N60° 4' 50.72",W142° 29' 43.09",+000011.50</DestinationLLA>
+        <Descr>Icy Bay to Yakataga</Descr>
+        <DepartureName>Icy Bay</DepartureName>
+        <DestinationName>Yakataga</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="19AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 57' 57.92",W141° 39' 38.06",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>19AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N60° 1' 5.71",W142° 2' 5.47",+002400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N60° 1' 42.98",W142° 6' 36.74",+002400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="0AA1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 4' 50.72",W142° 29' 43.09",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0AA1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

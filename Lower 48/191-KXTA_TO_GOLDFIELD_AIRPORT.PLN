@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Homey to Goldfield Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KXTA</DepartureID>
+        <DepartureLLA>N37° 14' 15.95",W115° 47' 54.43",+004461.27</DepartureLLA>
+        <DestinationID>KGOL</DestinationID>
+        <DestinationLLA>N37° 17' 0.36",W117° 2' 36.79",+004025.47</DestinationLLA>
+        <Descr>Homey to Goldfield Airport</Descr>
+        <DepartureName>Homey</DepartureName>
+        <DestinationName>Goldfield Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KXTA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 14' 15.95",W115° 47' 54.43",+004461.27</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KXTA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGOL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 17' 0.36",W117° 2' 36.79",+004050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGOL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Savannah/Hilton Head Intl to Mckinnon St Simons Island</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KSAV</DepartureID>
+        <DepartureLLA>N32° 7' 38.67",W81° 12' 6.78",+000033.50</DepartureLLA>
+        <DestinationID>KSSI</DestinationID>
+        <DestinationLLA>N31° 9' 7.18",W81° 23' 24.59",+000014.75</DestinationLLA>
+        <Descr>Savannah/Hilton Head Intl to Mckinnon St Simons Island</Descr>
+        <DepartureName>Savannah/Hilton Head Intl</DepartureName>
+        <DestinationName>Mckinnon St Simons Island</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSAV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 7' 38.67",W81° 12' 6.78",+000033.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSAV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 41' 21.30",W81° 17' 13.05",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 35' 38.90",W81° 18' 19.14",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KSSI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 9' 7.18",W81° 23' 24.59",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSSI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

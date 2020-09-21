@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Jackson Hole to Alpine</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KJAC</DepartureID>
+        <DepartureLLA>N43° 36' 26.44",W110° 44' 15.88",+006432.00</DepartureLLA>
+        <DestinationID>46U</DestinationID>
+        <DestinationLLA>N43° 10' 54.45",W111° 2' 18.57",+005630.00</DestinationLLA>
+        <Descr>Jackson Hole to Alpine</Descr>
+        <DepartureName>Jackson Hole</DepartureName>
+        <DestinationName>Alpine</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KJAC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 36' 26.44",W110° 44' 15.88",+006432.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJAC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 26' 15.02",W110° 51' 30.05",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 21' 9.14",W110° 55' 6.23",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="46U">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 10' 54.45",W111° 2' 18.57",+005650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>46U</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

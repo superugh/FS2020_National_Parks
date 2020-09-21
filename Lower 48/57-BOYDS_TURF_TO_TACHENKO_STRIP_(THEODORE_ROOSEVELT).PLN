@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Boyd&apos;s Turf to Tachenko Strip</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>0NA9</DepartureID>
+        <DepartureLLA>N46° 45' 1.37",W103° 48' 5.05",+002750.00</DepartureLLA>
+        <DestinationID>NA61</DestinationID>
+        <DestinationLLA>N47° 17' 37.75",W103° 11' 15.28",+002695.75</DestinationLLA>
+        <Descr>Boyd&apos;s Turf to Tachenko Strip</Descr>
+        <DepartureName>Boyd&apos;s Turf</DepartureName>
+        <DestinationName>Tachenko Strip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="0NA9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 45' 1.37",W103° 48' 5.05",+002750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0NA9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Petrified Forest">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 59' 56.50",W103° 35' 21.87",+006200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prairie Dog Town">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 59' 33.39",W103° 30' 7.47",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 59' 7.16",W103° 29' 31.56",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Painted Canyon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 53' 49.76",W103° 22' 17.97",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 57' 9.60",W103° 20' 45.85",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="NA61">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 17' 37.75",W103° 11' 15.28",+002700.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NA61</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>St Louis Downtown to Dove Airstrip</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>KCPS</DepartureID>
+        <DepartureLLA>N38° 34' 16.55",W90° 9' 24.09",+000409.33</DepartureLLA>
+        <DestinationID>MO81</DestinationID>
+        <DestinationLLA>N37° 40' 8.00",W90° 36' 48.09",+001080.00</DestinationLLA>
+        <Descr>St Louis Downtown to Dove Airstrip</Descr>
+        <DepartureName>St Louis Downtown</DepartureName>
+        <DestinationName>Dove Airstrip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCPS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 34' 16.55",W90° 9' 24.09",+000409.33</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KCPS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MO81">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 40' 8.00",W90° 36' 48.09",+001100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MO81</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

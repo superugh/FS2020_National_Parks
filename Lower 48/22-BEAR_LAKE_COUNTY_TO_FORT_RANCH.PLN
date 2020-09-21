@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bear Lake County to Fort Ranch</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>1U7</DepartureID>
+        <DepartureLLA>N42° 14' 58.28",W111° 20' 31.50",+005930.75</DepartureLLA>
+        <DestinationID>2UT3</DestinationID>
+        <DestinationLLA>N41° 29' 32.16",W112° 35' 28.84",+004440.00</DestinationLLA>
+        <Descr>Bear Lake County to Fort Ranch</Descr>
+        <DepartureName>Bear Lake County</DepartureName>
+        <DestinationName>Fort Ranch</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="1U7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 14' 58.28",W111° 20' 31.50",+005930.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1U7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 56' 55.55",W111° 50' 40.21",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 47' 51.23",W112° 5' 38.16",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="2UT3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 29' 32.16",W112° 35' 28.84",+004450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2UT3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

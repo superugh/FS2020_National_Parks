@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Kahului to Upolu</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PHOG</DepartureID>
+        <DepartureLLA>N20° 53' 56.35",W156° 25' 49.54",+000025.00</DepartureLLA>
+        <DestinationID>PHUP</DestinationID>
+        <DestinationLLA>N20° 15' 54.82",W155° 51' 35.85",+000086.00</DestinationLLA>
+        <Descr>Kahului to Upolu</Descr>
+        <DepartureName>Kahului</DepartureName>
+        <DestinationName>Upolu</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PHOG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N20° 53' 56.35",W156° 25' 49.54",+000025.00</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PHOG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Haleakala Crater">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N20° 42' 34.85",W156° 15' 12.63",+005350.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Waimoku Falls">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N20° 40' 43.57",W156° 3' 23.85",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PHUP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N20° 15' 54.82",W155° 51' 35.85",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PHUP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

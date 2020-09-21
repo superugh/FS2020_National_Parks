@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Delta Co to South Fox Island</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KESC</DepartureID>
+        <DepartureLLA>N45° 43' 22.73",W87° 5' 34.32",+000600.25</DepartureLLA>
+        <DestinationID>3MI2</DestinationID>
+        <DestinationLLA>N45° 23' 58.27",W85° 49' 48.91",+000616.00</DestinationLLA>
+        <Descr>Delta Co to South Fox Island</Descr>
+        <DepartureName>Delta Co</DepartureName>
+        <DestinationName>South Fox Island</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KESC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 43' 22.73",W87° 5' 34.32",+000600.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KESC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 34' 45.80",W86° 31' 25.85",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 32' 49.58",W86° 23' 52.15",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="3MI2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 58.27",W85° 49' 48.91",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3MI2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

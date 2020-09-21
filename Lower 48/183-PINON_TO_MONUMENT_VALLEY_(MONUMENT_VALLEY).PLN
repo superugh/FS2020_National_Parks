@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Pinon to Monument Valley</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>46AZ</DepartureID>
+        <DepartureLLA>N36° 5' 34.18",W110° 13' 45.94",+006308.48</DepartureLLA>
+        <DestinationID>UT25</DestinationID>
+        <DestinationLLA>N37° 0' 57.98",W110° 12' 7.22",+005192.00</DestinationLLA>
+        <Descr>Pinon to Monument Valley</Descr>
+        <DepartureName>Pinon</DepartureName>
+        <DestinationName>Monument Valley</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Pinon">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 5' 34.18",W110° 13' 45.94",+006308.48</WorldPosition>
+            <RunwayNumberFP>19</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>46AZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Mittens and Merrick Butte">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 59' 27.30",W110° 5' 8.94",+006850.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Eagle Mesa, Brighams Tomb, and Stagecoach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 2' 36.16",W110° 6' 16.56",+006200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monument Valley">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 0' 57.98",W110° 12' 7.22",+005200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT25</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Trinity Center to California Redwood Coast-Humboldt County Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8200.000</CruisingAlt>
+        <DepartureID>O86</DepartureID>
+        <DepartureLLA>N40° 58' 57.98",W122° 41' 37.44",+002390.00</DepartureLLA>
+        <DestinationID>KACV</DestinationID>
+        <DestinationLLA>N40° 58' 40.21",W124° 6' 30.81",+000200.25</DestinationLLA>
+        <Descr>Trinity Center to California Redwood Coast-Humboldt County Airport</Descr>
+        <DepartureName>Trinity Center</DepartureName>
+        <DestinationName>California Redwood Coast-Humboldt County Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="O86">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 58' 57.98",W122° 41' 37.44",+002390.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>O86</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 58' 57.72",W123° 19' 45.70",+008200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 58' 58.60",W123° 13' 51.67",+007200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KACV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 58' 40.21",W124° 6' 30.81",+000200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KACV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

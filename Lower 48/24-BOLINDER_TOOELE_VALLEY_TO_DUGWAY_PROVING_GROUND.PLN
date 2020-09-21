@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bolinder-Tooele Valley to Michael AAF</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KTVY</DepartureID>
+        <DepartureLLA>N40° 36' 45.12",W112° 21' 2.89",+004297.50</DepartureLLA>
+        <DestinationID>KDPG</DestinationID>
+        <DestinationLLA>N40° 11' 50.58",W112° 56' 6.14",+004346.00</DestinationLLA>
+        <Descr>Bolinder-Tooele Valley to Michael AAF</Descr>
+        <DepartureName>Bolinder-Tooele Valley</DepartureName>
+        <DestinationName>Michael AAF</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KTVY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 36' 45.12",W112° 21' 2.89",+004297.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KTVY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 26' 49.58",W112° 35' 5.89",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 21' 51.17",W112° 42' 5.83",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KDPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 11' 50.58",W112° 56' 6.14",+004350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

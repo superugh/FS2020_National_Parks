@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lux Field to Aspen-Pitkin Co/Sardy Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>25CD</DepartureID>
+        <DepartureLLA>N39° 9' 14.81",W105° 43' 21.84",+009300.00</DepartureLLA>
+        <DestinationID>KASE</DestinationID>
+        <DestinationLLA>N39° 13' 18.82",W106° 52' 5.66",+007750.00</DestinationLLA>
+        <Descr>Lux Field to Aspen-Pitkin Co/Sardy Field</Descr>
+        <DepartureName>Lux Field</DepartureName>
+        <DestinationName>Aspen-Pitkin Co/Sardy Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="25CD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 9' 14.81",W105° 43' 21.84",+009300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>25CD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 10' 57.11",W106° 10' 47.64",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 11' 45.83",W106° 24' 31.03",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KASE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 13' 18.82",W106° 52' 5.66",+006500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KASE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

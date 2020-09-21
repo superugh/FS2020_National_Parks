@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Healy River to Manley Hot Springs</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PAHV</DepartureID>
+        <DepartureLLA>N63° 52' 3.40",W148° 58' 7.94",+001265.50</DepartureLLA>
+        <DestinationID>PAML</DestinationID>
+        <DestinationLLA>N64° 59' 32.63",W150° 38' 44.00",+000275.00</DestinationLLA>
+        <Descr>Healy River to Manley Hot Springs</Descr>
+        <DepartureName>Healy River</DepartureName>
+        <DestinationName>Manley Hot Springs</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAHV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N63° 52' 3.40",W148° 58' 7.94",+001265.50</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAHV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAML">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 59' 32.63",W150° 38' 44.00",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAML</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

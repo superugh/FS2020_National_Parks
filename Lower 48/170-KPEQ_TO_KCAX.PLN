@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Pecos Mun to Carlsbad Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8400.000</CruisingAlt>
+        <DepartureID>KPEQ</DepartureID>
+        <DepartureLLA>N31° 22' 56.48",W103° 30' 38.53",+002605.00</DepartureLLA>
+        <DestinationID>KCAX</DestinationID>
+        <DestinationLLA>N32° 10' 32.11",W104° 21' 31.28",+003591.30</DestinationLLA>
+        <Descr>Pecos Mun to Carlsbad Airport</Descr>
+        <DepartureName>Pecos Mun</DepartureName>
+        <DestinationName>Carlsbad Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPEQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 22' 56.48",W103° 30' 38.53",+002605.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPEQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 44' 21.90",W103° 53' 23.49",+008400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 51' 29.43",W104° 1' 0.80",+008400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCAX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 10' 32.11",W104° 21' 31.28",+003600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCAX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

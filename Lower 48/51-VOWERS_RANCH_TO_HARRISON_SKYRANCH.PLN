@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Crystal Lakes to Harrison Skyranch</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>25CO</DepartureID>
+        <DepartureLLA>N40° 51' 6.54",W105° 37' 54.76",+008440.00</DepartureLLA>
+        <DestinationID>9V3</DestinationID>
+        <DestinationLLA>N42° 41' 41.45",W103° 52' 35.97",+004859.25</DestinationLLA>
+        <Descr>Crystal Lakes to Harrison Skyranch</Descr>
+        <DepartureName>Crystal Lakes</DepartureName>
+        <DestinationName>Harrison Skyranch</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="25CO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 51' 6.54",W105° 37' 54.76",+008440.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>25CO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 35' 27.54",W104° 56' 34.89",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 57' 32.41",W104° 35' 33.62",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="9V3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 41' 41.45",W103° 52' 35.97",+004850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>9V3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

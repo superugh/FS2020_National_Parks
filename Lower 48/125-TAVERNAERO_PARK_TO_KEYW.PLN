@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Tavernaero Park to Key West Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>FA81</DepartureID>
+        <DepartureLLA>N25° 0' 17.83",W80° 31' 58.60",+000010.00</DepartureLLA>
+        <DestinationID>KEYW</DestinationID>
+        <DestinationLLA>N24° 33' 22.07",W81° 45' 34.33",+000003.00</DestinationLLA>
+        <Descr>Tavernaero Park to Key West Intl</Descr>
+        <DepartureName>Tavernaero Park</DepartureName>
+        <DestinationName>Key West Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="FA81">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 0' 17.83",W80° 31' 58.60",+000010.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>FA81</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Long Key">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 49' 14.64",W80° 48' 7.12",+003700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 45' 10.83",W81° 2' 58.53",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 42' 52.84",W81° 11' 20.13",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KEYW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 33' 22.07",W81° 45' 34.33",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KEYW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

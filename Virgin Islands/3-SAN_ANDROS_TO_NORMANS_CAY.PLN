@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>San Andros to Norman&apos;S Cay</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MYAN</DepartureID>
+        <DepartureLLA>N25° 3' 15.57",W78° 3' 0.12",+000010.00</DepartureLLA>
+        <DestinationID>MYEN</DestinationID>
+        <DestinationLLA>N24° 35' 46.79",W76° 49' 8.16",+000012.50</DestinationLLA>
+        <Descr>San Andros to Norman&apos;S Cay</Descr>
+        <DepartureName>San Andros</DepartureName>
+        <DestinationName>Norman&apos;S Cay</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYAN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 3' 15.57",W78° 3' 0.12",+000010.00</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYEN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 35' 46.79",W76° 49' 8.16",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYEN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

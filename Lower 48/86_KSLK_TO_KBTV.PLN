@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Adirondack Rgnl to Burlington Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KSLK</DepartureID>
+        <DepartureLLA>N44° 23' 4.53",W74° 12' 22.37",+001645.50</DepartureLLA>
+        <DestinationID>KBTV</DestinationID>
+        <DestinationLLA>N44° 28' 16.76",W73° 9' 10.95",+000325.50</DestinationLLA>
+        <Descr>Adirondack Rgnl to Burlington Intl</Descr>
+        <DepartureName>Adirondack Rgnl</DepartureName>
+        <DestinationName>Burlington Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSLK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 23' 4.53",W74° 12' 22.37",+001645.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSLK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 25' 29.11",W73° 44' 0.49",+006300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 25' 22.81",W73° 45' 16.52",+006250.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBTV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 28' 16.76",W73° 9' 10.95",+000350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBTV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

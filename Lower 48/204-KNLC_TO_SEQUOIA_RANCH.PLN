@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lemoore Nas (Reeves Fld) to Sequoia Ranch</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>5300.000</CruisingAlt>
+        <DepartureID>KNLC</DepartureID>
+        <DepartureLLA>N36° 19' 59.07",W119° 57' 8.06",+000223.50</DepartureLLA>
+        <DestinationID>CA44</DestinationID>
+        <DestinationLLA>N36° 8' 55.55",W118° 48' 5.07",+001153.00</DestinationLLA>
+        <Descr>Lemoore Nas (Reeves Fld) to Sequoia Ranch</Descr>
+        <DepartureName>Lemoore Nas (Reeves Fld)</DepartureName>
+        <DestinationName>Sequoia Ranch</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KNLC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 19' 59.07",W119° 57' 8.06",+000223.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KNLC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 15' 7.83",W119° 26' 16.38",+005300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 13' 26.43",W119° 15' 44.09",+005300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CA44">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 8' 55.55",W118° 48' 5.07",+001150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CA44</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

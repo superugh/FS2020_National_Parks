@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Sequoia Ranch to Mammoth Yosemite</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>CA44</DepartureID>
+        <DepartureLLA>N36° 8' 55.55",W118° 48' 5.07",+001153.00</DepartureLLA>
+        <DestinationID>KMMH</DestinationID>
+        <DestinationLLA>N37° 37' 26.57",W118° 50' 19.45",+007098.00</DestinationLLA>
+        <Descr>Sequoia Ranch to Mammoth Yosemite</Descr>
+        <DepartureName>Sequoia Ranch</DepartureName>
+        <DestinationName>Mammoth Yosemite</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Sequoia Ranch">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 8' 55.55",W118° 48' 5.07",+001153.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CA44</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="General Sherman">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 34' 53.69",W118° 45' 5.30",+006350.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="General Grant">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 44' 53.70",W118° 58' 16.12",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Zumwalt Meadows">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 47' 29.67",W118° 35' 46.87",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kings Canyon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 53' 14.71",W118° 31' 38.82",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mammoth Yosemite">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 37' 26.57",W118° 50' 19.45",+007100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMMH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

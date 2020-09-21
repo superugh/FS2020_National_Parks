@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Northeast Florida Rgnl to Deland Muni-Sidney H Taylor Fi</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KSGJ</DepartureID>
+        <DepartureLLA>N29° 57' 29.18",W81° 20' 21.26",+000007.83</DepartureLLA>
+        <DestinationID>KDED</DestinationID>
+        <DestinationLLA>N29° 4' 0.20",W81° 17' 1.17",+000075.75</DestinationLLA>
+        <Descr>Northeast Florida Rgnl to Deland Muni-Sidney H Taylor Fi</Descr>
+        <DepartureName>Northeast Florida Rgnl</DepartureName>
+        <DestinationName>Deland Muni-Sidney H Taylor Fi</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSGJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 57' 29.18",W81° 20' 21.26",+000007.83</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSGJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 33' 27.59",W81° 18' 50.93",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 27' 46.77",W81° 18' 29.68",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KDED">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 4' 0.20",W81° 17' 1.17",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDED</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

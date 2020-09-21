@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Manley Hot Springs to Indian Mountain Lrrs</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PAML</DepartureID>
+        <DepartureLLA>N64° 59' 32.63",W150° 38' 44.00",+000275.00</DepartureLLA>
+        <DestinationID>PAIM</DestinationID>
+        <DestinationLLA>N65° 59' 33.75",W153° 42' 13.75",+001111.50</DestinationLLA>
+        <Descr>Manley Hot Springs to Indian Mountain Lrrs</Descr>
+        <DepartureName>Manley Hot Springs</DepartureName>
+        <DestinationName>Indian Mountain Lrrs</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAML">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 59' 32.63",W150° 38' 44.00",+000275.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAML</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAIM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 59' 33.75",W153° 42' 13.75",+001100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAIM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

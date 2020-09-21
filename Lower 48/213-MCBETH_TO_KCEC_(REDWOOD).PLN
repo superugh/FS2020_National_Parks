@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>McBeth to Jack Mc Namara Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1800.000</CruisingAlt>
+        <DepartureID>S51</DepartureID>
+        <DepartureLLA>N41° 30' 43.15",W123° 59' 44.41",+000036.50</DepartureLLA>
+        <DestinationID>KCEC</DestinationID>
+        <DestinationLLA>N41° 46' 48.72",W124° 14' 11.82",+000055.50</DestinationLLA>
+        <Descr>McBeth to Jack Mc Namara Field</Descr>
+        <DepartureName>McBeth</DepartureName>
+        <DestinationName>Jack Mc Namara Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="S51">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 30' 43.15",W123° 59' 44.41",+000036.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>S51</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 37' 57.16",W124° 6' 13.20",+001800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 39' 36.88",W124° 7' 42.78",+001800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCEC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 46' 48.72",W124° 14' 11.82",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCEC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

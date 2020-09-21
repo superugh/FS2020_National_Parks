@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Naples Muni to Shell Creek Airpark</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KAPF</DepartureID>
+        <DepartureLLA>N26° 9' 9.98",W81° 46' 30.47",+000006.75</DepartureLLA>
+        <DestinationID>F13</DestinationID>
+        <DestinationLLA>N26° 58' 7.27",W81° 54' 59.02",+000020.00</DestinationLLA>
+        <Descr>Naples Muni to Shell Creek Airpark</Descr>
+        <DepartureName>Naples Muni</DepartureName>
+        <DestinationName>Shell Creek Airpark</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KAPF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 9' 9.98",W81° 46' 30.47",+000006.75</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KAPF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="F13">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 58' 7.27",W81° 54' 59.02",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>F13</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

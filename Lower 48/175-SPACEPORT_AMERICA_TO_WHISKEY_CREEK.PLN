@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Spaceport America to Whiskey Creek</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>9NM9</DepartureID>
+        <DepartureLLA>N32° 59' 22.38",W106° 58' 10.25",+004595.00</DepartureLLA>
+        <DestinationID>94E</DestinationID>
+        <DestinationLLA>N32° 45' 37.81",W108° 12' 34.48",+006126.00</DestinationLLA>
+        <Descr>Spaceport America to Whiskey Creek</Descr>
+        <DepartureName>Spaceport America</DepartureName>
+        <DestinationName>Whiskey Creek</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="9NM9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 59' 22.38",W106° 58' 10.25",+004595.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>9NM9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 53' 58.41",W107° 27' 55.71",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 51' 13.78",W107° 42' 47.07",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="94E">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 45' 37.81",W108° 12' 34.48",+006150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>94E</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Apex Airpark to Forks</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>8W5</DepartureID>
+        <DepartureLLA>N47° 39' 23.58",W122° 43' 59.34",+000510.00</DepartureLLA>
+        <DestinationID>S18</DestinationID>
+        <DestinationLLA>N47° 56' 15.73",W124° 23' 45.36",+000299.00</DestinationLLA>
+        <Descr>Apex Airpark to Forks</Descr>
+        <DepartureName>Apex Airpark</DepartureName>
+        <DestinationName>Forks</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Apex Airpark">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 39' 23.58",W122° 43' 59.34",+000510.00</WorldPosition>
+            <RunwayNumberFP>17</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>8W5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hurricane Ridge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 55' 57.19",W123° 24' 26.24",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lake Crescent">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 3' 25.47",W123° 49' 8.92",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount Olympus">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 47' 56.59",W123° 42' 29.16",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Forks">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 56' 15.73",W124° 23' 45.36",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>S18</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Dallas-Ft Worth Intl to Granbury Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>4900.000</CruisingAlt>
+        <DepartureID>KDFW</DepartureID>
+        <DepartureLLA>N32° 53' 49.59",W97° 2' 11.81",+000567.50</DepartureLLA>
+        <DestinationID>KGDJ</DestinationID>
+        <DestinationLLA>N32° 26' 39.82",W97° 49' 1.01",+000774.00</DestinationLLA>
+        <Descr>Dallas-Ft Worth Intl to Granbury Mun</Descr>
+        <DepartureName>Dallas-Ft Worth Intl</DepartureName>
+        <DestinationName>Granbury Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KDFW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 53' 49.59",W97° 2' 11.81",+000567.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDFW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 41' 39.62",W97° 23' 17.35",+004900.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 38' 26.04",W97° 28' 50.93",+004900.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGDJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 26' 39.82",W97° 49' 1.01",+000750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGDJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

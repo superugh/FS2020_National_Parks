@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Exuma Intl to Deadmans Cay</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MYEF</DepartureID>
+        <DepartureLLA>N23° 33' 44.85",W75° 52' 39.29",+000008.50</DepartureLLA>
+        <DestinationID>MYLD</DestinationID>
+        <DestinationLLA>N23° 10' 44.41",W75° 5' 37.01",+000009.00</DestinationLLA>
+        <Descr>Exuma Intl to Deadmans Cay</Descr>
+        <DepartureName>Exuma Intl</DepartureName>
+        <DestinationName>Deadmans Cay</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYEF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N23° 33' 44.85",W75° 52' 39.29",+000008.50</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYEF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYLD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N23° 10' 44.41",W75° 5' 37.01",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYLD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

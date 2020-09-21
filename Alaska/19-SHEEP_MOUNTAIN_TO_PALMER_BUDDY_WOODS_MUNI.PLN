@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Sheep Mountain to Palmer Buddy Woods Muni</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PASP</DepartureID>
+        <DepartureLLA>N61° 48' 40.84",W147° 30' 31.89",+002758.00</DepartureLLA>
+        <DestinationID>PAAQ</DestinationID>
+        <DestinationLLA>N61° 35' 39.72",W149° 5' 21.34",+000233.17</DestinationLLA>
+        <Descr>Sheep Mountain to Palmer Buddy Woods Muni</Descr>
+        <DepartureName>Sheep Mountain</DepartureName>
+        <DestinationName>Palmer Buddy Woods Muni</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PASP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 48' 40.84",W147° 30' 31.89",+002758.00</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PASP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAAQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 35' 39.72",W149° 5' 21.34",+000250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAAQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

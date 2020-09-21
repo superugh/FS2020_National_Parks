@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Springerville Mun to Black Rock</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7500.000</CruisingAlt>
+        <DepartureID>KJTC</DepartureID>
+        <DepartureLLA>N34° 7' 44.58",W109° 18' 38.80",+007035.50</DepartureLLA>
+        <DestinationID>KZUN</DestinationID>
+        <DestinationLLA>N35° 4' 59.58",W108° 47' 30.38",+006447.45</DestinationLLA>
+        <Descr>Springerville Mun to Black Rock</Descr>
+        <DepartureName>Springerville Mun</DepartureName>
+        <DestinationName>Black Rock</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KJTC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 7' 44.58",W109° 18' 38.80",+007035.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJTC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 30' 37.25",W109° 6' 17.83",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 42' 3.11",W109° 0' 4.79",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KZUN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 4' 59.58",W108° 47' 30.38",+006450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KZUN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

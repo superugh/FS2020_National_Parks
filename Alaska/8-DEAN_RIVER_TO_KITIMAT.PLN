@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Dean River Airport to Kitimat</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>YRD</DepartureID>
+        <DepartureLLA>N52° 49' 27.25",W126° 57' 53.76",+000044.85</DepartureLLA>
+        <DestinationID>CBW2</DestinationID>
+        <DestinationLLA>N54° 10' 10.53",W128° 34' 39.73",+000250.00</DestinationLLA>
+        <Descr>Dean River Airport to Kitimat</Descr>
+        <DepartureName>Dean River Airport</DepartureName>
+        <DestinationName>Kitimat</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="YRD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 49' 27.25",W126° 57' 53.76",+000044.85</WorldPosition>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>YRD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CBW2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 10' 10.53",W128° 34' 39.73",+000250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CBW2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Fernando Luis Ribas Dominicci to Cyril E King</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>TJIG</DepartureID>
+        <DepartureLLA>N18° 27' 24.52",W66° 5' 54.47",+000008.00</DepartureLLA>
+        <DestinationID>TIST</DestinationID>
+        <DestinationLLA>N18° 20' 14.30",W64° 58' 24.01",+000018.00</DestinationLLA>
+        <Descr>Fernando Luis Ribas Dominicci to Cyril E King</Descr>
+        <DepartureName>Fernando Luis Ribas Dominicci</DepartureName>
+        <DestinationName>Cyril E King</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="TJIG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 27' 24.52",W66° 5' 54.47",+000008.00</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>TJIG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 20' 14.30",W64° 58' 24.01",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TIST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Dove Airstrip to Bollinger-Crass Meml</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>MO81</DepartureID>
+        <DepartureLLA>N37° 40' 8.00",W90° 36' 48.09",+001080.00</DepartureLLA>
+        <DestinationID>MO5</DestinationID>
+        <DestinationLLA>N37° 0' 33.94",W91° 0' 25.05",+000649.50</DestinationLLA>
+        <Descr>Dove Airstrip to Bollinger-Crass Meml</Descr>
+        <DepartureName>Dove Airstrip</DepartureName>
+        <DestinationName>Bollinger-Crass Meml</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MO81">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 40' 8.00",W90° 36' 48.09",+001080.00</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MO81</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MO5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 0' 33.94",W91° 0' 25.05",+000650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MO5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Ranger Station Airstrip to Vandenberg Afb</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>4500.000</CruisingAlt>
+        <DepartureID>KBUE</DepartureID>
+        <DepartureLLA>N34° 2' 13.86",W120° 20' 57.34",+000560.22</DepartureLLA>
+        <DestinationID>KVBG</DestinationID>
+        <DestinationLLA>N34° 44' 14.35",W120° 35' 3.50",+000303.00</DestinationLLA>
+        <Descr>Ranger Station Airstrip to Vandenberg Afb</Descr>
+        <DepartureName>Ranger Station Airstrip</DepartureName>
+        <DestinationName>Vandenberg Afb</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBUE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 2' 13.86",W120° 20' 57.34",+000560.22</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBUE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 21' 6.40",W120° 27' 15.72",+004500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 24' 3.23",W120° 28' 15.07",+004500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KVBG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 44' 14.35",W120° 35' 3.50",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KVBG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

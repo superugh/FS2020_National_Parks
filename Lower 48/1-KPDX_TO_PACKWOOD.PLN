@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Portland Intl to Packwood</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KPDX</DepartureID>
+        <DepartureLLA>N45° 35' 19.28",W122° 35' 53.41",+000025.83</DepartureLLA>
+        <DestinationID>55S</DestinationID>
+        <DestinationLLA>N46° 36' 15.00",W121° 40' 40.84",+001053.00</DestinationLLA>
+        <Descr>Portland Intl to Packwood</Descr>
+        <DepartureName>Portland Intl</DepartureName>
+        <DestinationName>Packwood</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Portland Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 35' 19.28",W122° 35' 53.41",+000025.83</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPDX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 7' 9.73",W122° 14' 21.57",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount St Helens">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 11' 22.79",W122° 11' 28.38",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 21' 16.80",W121° 59' 17.49",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Packwood">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 36' 15.00",W121° 40' 40.84",+001050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>55S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

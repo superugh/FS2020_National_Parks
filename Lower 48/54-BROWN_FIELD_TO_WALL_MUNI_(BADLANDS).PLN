@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Brown Field to Wall Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>3SD3</DepartureID>
+        <DepartureLLA>N43° 48' 43.55",W102° 43' 12.04",+002780.00</DepartureLLA>
+        <DestinationID>6V4</DestinationID>
+        <DestinationLLA>N43° 59' 56.79",W102° 15' 11.10",+002805.75</DestinationLLA>
+        <Descr>Brown Field to Wall Mun</Descr>
+        <DepartureName>Brown Field</DepartureName>
+        <DestinationName>Wall Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3SD3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 48' 43.55",W102° 43' 12.04",+002780.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3SD3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pinnacles Overlook">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 52' 8.67",W102° 14' 5.56",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 51' 4.96",W102° 12' 26.00",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Yellow Mounds">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 50' 35.36",W102° 11' 39.80",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 45' 35.56",W101° 58' 35.22",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Saddle Pass">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 45' 32.97",W101° 58' 28.57",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cliff Shelf">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 45' 5.15",W101° 55' 49.57",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Door">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 45' 54.44",W101° 55' 28.58",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="6V4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 59' 56.79",W102° 15' 11.10",+002800.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6V4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

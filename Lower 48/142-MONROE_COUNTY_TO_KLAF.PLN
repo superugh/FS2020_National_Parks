@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Monroe County to Purdue University</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>KBMG</DepartureID>
+        <DepartureLLA>N39° 8' 41.51",W86° 37' 0.42",+000838.75</DepartureLLA>
+        <DestinationID>KLAF</DestinationID>
+        <DestinationLLA>N40° 24' 44.00",W86° 56' 10.49",+000598.50</DestinationLLA>
+        <Descr>Monroe County to Purdue University</Descr>
+        <DepartureName>Monroe County</DepartureName>
+        <DestinationName>Purdue University</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBMG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 8' 41.51",W86° 37' 0.42",+000838.75</WorldPosition>
+            <RunwayNumberFP>35</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KBMG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLAF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 24' 44.00",W86° 56' 10.49",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLAF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

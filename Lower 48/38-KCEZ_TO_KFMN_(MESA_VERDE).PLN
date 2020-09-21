@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Cortez Mun to Four Corners Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KCEZ</DepartureID>
+        <DepartureLLA>N37° 18' 10.79",W108° 37' 41.10",+005911.00</DepartureLLA>
+        <DestinationID>KFMN</DestinationID>
+        <DestinationLLA>N36° 44' 28.51",W108° 13' 47.91",+005489.75</DestinationLLA>
+        <Descr>Cortez Mun to Four Corners Rgnl</Descr>
+        <DepartureName>Cortez Mun</DepartureName>
+        <DestinationName>Four Corners Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCEZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 18' 10.79",W108° 37' 41.10",+005911.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCEZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Far View House">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 14' 16.37",W108° 30' 13.18",+007350.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Long House">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 11' 12.53",W108° 32' 8.59",+008050.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cliff Palace">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 10' 1.09",W108° 28' 23.79",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 7' 18.68",W108° 26' 50.46",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 59' 42.98",W108° 22' 29.23",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KFMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 44' 28.51",W108° 13' 47.91",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KFMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

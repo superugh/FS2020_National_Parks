@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Four Corners Rgnl to Telluride Regl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KFMN</DepartureID>
+        <DepartureLLA>N36° 44' 28.51",W108° 13' 47.91",+005489.75</DepartureLLA>
+        <DestinationID>KTEX</DestinationID>
+        <DestinationLLA>N37° 57' 13.63",W107° 54' 31.50",+009052.50</DestinationLLA>
+        <Descr>Four Corners Rgnl to Telluride Regl</Descr>
+        <DepartureName>Four Corners Rgnl</DepartureName>
+        <DestinationName>Telluride Regl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KFMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 44' 28.51",W108° 13' 47.91",+005489.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KFMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 13' 32.01",W108° 6' 10.59",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 28' 3.58",W108° 2' 19.73",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KTEX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 57' 13.63",W107° 54' 31.50",+006500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KTEX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

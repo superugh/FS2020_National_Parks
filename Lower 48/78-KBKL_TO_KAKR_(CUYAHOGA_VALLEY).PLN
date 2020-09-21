@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Burke Lakefront to Akron Fulton Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KBKL</DepartureID>
+        <DepartureLLA>N41° 31' 3.81",W81° 40' 57.91",+000582.00</DepartureLLA>
+        <DestinationID>KAKR</DestinationID>
+        <DestinationLLA>N41° 2' 15.35",W81° 27' 58.67",+001050.50</DestinationLLA>
+        <Descr>Burke Lakefront to Akron Fulton Intl</Descr>
+        <DepartureName>Burke Lakefront</DepartureName>
+        <DestinationName>Akron Fulton Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBKL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 31' 3.81",W81° 40' 57.91",+000582.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBKL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 17' 48.51",W81° 33' 1.67",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brandywine Falls">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 16' 36.61",W81° 32' 18.81",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 14' 19.31",W81° 34' 36.09",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Everett Road Covered Bridge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 12' 14.72",W81° 35' 0.61",+005650.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KAKR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 2' 15.35",W81° 27' 58.67",+001050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KAKR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

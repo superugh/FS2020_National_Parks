@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Purdue University to Hobart-Sky Ranch</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>KLAF</DepartureID>
+        <DepartureLLA>N40° 24' 44.00",W86° 56' 10.49",+000598.50</DepartureLLA>
+        <DestinationID>3HO</DestinationID>
+        <DestinationLLA>N41° 33' 21.06",W87° 15' 50.37",+000630.00</DestinationLLA>
+        <Descr>Purdue University to Hobart-Sky Ranch</Descr>
+        <DepartureName>Purdue University</DepartureName>
+        <DestinationName>Hobart-Sky Ranch</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KLAF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 24' 44.00",W86° 56' 10.49",+000598.50</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KLAF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="3HO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 33' 21.06",W87° 15' 50.37",+000650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3HO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

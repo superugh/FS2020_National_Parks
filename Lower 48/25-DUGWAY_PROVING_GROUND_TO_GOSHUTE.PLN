@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Michael AAF to Goshute</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KDPG</DepartureID>
+        <DepartureLLA>N40° 11' 50.58",W112° 56' 6.14",+004346.00</DepartureLLA>
+        <DestinationID>UT65</DestinationID>
+        <DestinationLLA>N39° 59' 56.63",W113° 58' 34.49",+005460.00</DestinationLLA>
+        <Descr>Michael AAF to Goshute</Descr>
+        <DepartureName>Michael AAF</DepartureName>
+        <DestinationName>Goshute</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KDPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 11' 50.58",W112° 56' 6.14",+004346.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 7' 9.50",W113° 21' 5.58",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 4' 46.95",W113° 33' 34.00",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="UT65">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 59' 56.63",W113° 58' 34.49",+005450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT65</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

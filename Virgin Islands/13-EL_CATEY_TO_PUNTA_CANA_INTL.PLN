@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>El Catey Intl to Punta Cana Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MDCY</DepartureID>
+        <DepartureLLA>N19° 16' 10.43",W69° 44' 13.32",+000012.00</DepartureLLA>
+        <DestinationID>MDPC</DestinationID>
+        <DestinationLLA>N18° 34' 14.75",W68° 21' 58.31",+000040.75</DestinationLLA>
+        <Descr>El Catey Intl to Punta Cana Intl</Descr>
+        <DepartureName>El Catey Intl</DepartureName>
+        <DestinationName>Punta Cana Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MDCY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N19° 16' 10.43",W69° 44' 13.32",+000012.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MDCY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MDPC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 34' 14.75",W68° 21' 58.31",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MDPC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Zephyrhills Muni to Ocala Intl-Jim Taylor Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KZPH</DepartureID>
+        <DepartureLLA>N28° 13' 40.63",W82° 9' 21.29",+000085.50</DepartureLLA>
+        <DestinationID>KOCF</DestinationID>
+        <DestinationLLA>N29° 10' 27.64",W82° 13' 29.67",+000083.00</DestinationLLA>
+        <Descr>Zephyrhills Muni to Ocala Intl-Jim Taylor Field</Descr>
+        <DepartureName>Zephyrhills Muni</DepartureName>
+        <DestinationName>Ocala Intl-Jim Taylor Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KZPH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 13' 40.63",W82° 9' 21.29",+000085.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KZPH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 39' 11.26",W82° 11' 12.32",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 44' 54.84",W82° 11' 37.37",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KOCF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 10' 27.64",W82° 13' 29.67",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KOCF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

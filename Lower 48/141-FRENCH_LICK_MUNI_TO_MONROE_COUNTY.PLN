@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>French Lick Mun to Monroe County</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>KFRH</DepartureID>
+        <DepartureLLA>N38° 30' 22.39",W86° 38' 13.03",+000787.00</DepartureLLA>
+        <DestinationID>KBMG</DestinationID>
+        <DestinationLLA>N39° 8' 41.51",W86° 37' 0.42",+000838.75</DestinationLLA>
+        <Descr>French Lick Mun to Monroe County</Descr>
+        <DepartureName>French Lick Mun</DepartureName>
+        <DestinationName>Monroe County</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KFRH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 30' 22.39",W86° 38' 13.03",+000787.00</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KFRH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBMG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 8' 41.51",W86° 37' 0.42",+000850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBMG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

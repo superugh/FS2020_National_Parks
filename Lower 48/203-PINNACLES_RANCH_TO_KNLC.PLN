@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Pinnacles Ranch Airport to Lemoore Nas (Reeves Fld)</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6400.000</CruisingAlt>
+        <DepartureID>O23</DepartureID>
+        <DepartureLLA>N36° 30' 40.19",W121° 8' 7.17",+001173.14</DepartureLLA>
+        <DestinationID>KNLC</DestinationID>
+        <DestinationLLA>N36° 19' 59.07",W119° 57' 8.06",+000223.50</DestinationLLA>
+        <Descr>Pinnacles Ranch Airport to Lemoore Nas (Reeves Fld)</Descr>
+        <DepartureName>Pinnacles Ranch Airport</DepartureName>
+        <DestinationName>Lemoore Nas (Reeves Fld)</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="O23">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 30' 40.19",W121° 8' 7.17",+001173.14</WorldPosition>
+            <ICAO>
+                <ICAOIdent>O23</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 25' 57.51",W120° 36' 12.19",+006400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 25' 46.88",W120° 35' 1.43",+006400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KNLC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 19' 59.07",W119° 57' 8.06",+000200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KNLC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

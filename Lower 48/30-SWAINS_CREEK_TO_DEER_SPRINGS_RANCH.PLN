@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Swains Creek to Deer Springs Ranch</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>UT00</DepartureID>
+        <DepartureLLA>N37° 28' 20.74",W112° 37' 20.03",+007780.00</DepartureLLA>
+        <DestinationID>UT30</DestinationID>
+        <DestinationLLA>N37° 20' 35.78",W112° 13' 27.08",+006485.00</DestinationLLA>
+        <Descr>Swains Creek to Deer Springs Ranch</Descr>
+        <DepartureName>Swains Creek</DepartureName>
+        <DestinationName>Deer Springs Ranch</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="UT00">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 28' 20.74",W112° 37' 20.03",+007780.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT00</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 25' 15.67",W112° 27' 47.22",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 23' 42.83",W112° 23' 1.11",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="UT30">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 20' 35.78",W112° 13' 27.08",+006500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT30</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

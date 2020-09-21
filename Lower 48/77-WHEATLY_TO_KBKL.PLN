@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title> to Burke Lakefront</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>CRM5</DepartureID>
+        <DepartureLLA>N42° 8' 34.31",W82° 21' 43.88",+000617.00</DepartureLLA>
+        <DestinationID>KBKL</DestinationID>
+        <DestinationLLA>N41° 31' 3.81",W81° 40' 57.91",+000582.00</DestinationLLA>
+        <Descr> to Burke Lakefront</Descr>
+        <DepartureName>Wheatly (Robinson Motorcycles) Airfield</DepartureName>
+        <DestinationName>Burke Lakefront</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CRM5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 8' 34.31",W82° 21' 43.88",+000617.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CRM5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 51' 45.07",W82° 3' 19.13",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 48' 3.33",W81° 59' 18.12",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBKL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 31' 3.81",W81° 40' 57.91",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBKL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

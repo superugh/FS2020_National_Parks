@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Shoshone to Bicycle Lake AAF</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>L61</DepartureID>
+        <DepartureLLA>N35° 58' 6.98",W116° 16' 9.43",+001568.00</DepartureLLA>
+        <DestinationID>KBYS</DestinationID>
+        <DestinationLLA>N35° 16' 51.95",W116° 37' 43.48",+002350.00</DestinationLLA>
+        <Descr>Shoshone to Bicycle Lake AAF</Descr>
+        <DepartureName>Shoshone</DepartureName>
+        <DestinationName>Bicycle Lake AAF</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="L61">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 58' 6.98",W116° 16' 9.43",+001568.00</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>L61</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBYS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 16' 51.95",W116° 37' 43.48",+002350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBYS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

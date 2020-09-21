@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Rafael Hernandez to Fernando Luis Ribas Dominicci</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>TJBQ</DepartureID>
+        <DepartureLLA>N18° 29' 41.39",W67° 7' 45.93",+000214.50</DepartureLLA>
+        <DestinationID>TJIG</DestinationID>
+        <DestinationLLA>N18° 27' 24.52",W66° 5' 54.47",+000008.00</DestinationLLA>
+        <Descr>Rafael Hernandez to Fernando Luis Ribas Dominicci</Descr>
+        <DepartureName>Rafael Hernandez</DepartureName>
+        <DestinationName>Fernando Luis Ribas Dominicci</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="TJBQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 29' 41.39",W67° 7' 45.93",+000214.50</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>TJBQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TJIG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 27' 24.52",W66° 5' 54.47",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TJIG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

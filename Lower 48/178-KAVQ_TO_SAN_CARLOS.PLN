@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Marana Regl to San Carlos</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7500.000</CruisingAlt>
+        <DepartureID>KAVQ</DepartureID>
+        <DepartureLLA>N32° 24' 32.63",W111° 13' 6.30",+002021.50</DepartureLLA>
+        <DestinationID>4AZ7</DestinationID>
+        <DestinationLLA>N33° 22' 39.30",W110° 27' 46.60",+002843.53</DestinationLLA>
+        <Descr>Marana Regl to San Carlos</Descr>
+        <DepartureName>Marana Regl</DepartureName>
+        <DestinationName>San Carlos</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KAVQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 24' 32.63",W111° 13' 6.30",+002021.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KAVQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 46.92",W110° 55' 7.37",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 59' 23.11",W110° 46' 4.38",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="4AZ7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 22' 39.30",W110° 27' 46.60",+002850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>4AZ7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

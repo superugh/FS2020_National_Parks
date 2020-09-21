@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Canton AFLD to Pago Pago Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PCIS</DepartureID>
+        <DepartureLLA>S2° 46' 7.13",W171° 42' 28.38",+000009.00</DepartureLLA>
+        <DestinationID>NSTU</DestinationID>
+        <DestinationLLA>S14° 19' 48.12",W170° 42' 36.88",+000012.75</DestinationLLA>
+        <Descr>Canton AFLD to Pago Pago Intl</Descr>
+        <DepartureName>Canton AFLD</DepartureName>
+        <DestinationName>Pago Pago Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PCIS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S2° 46' 7.13",W171° 42' 28.38",+000009.00</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PCIS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NSTU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S14° 19' 48.12",W170° 42' 36.88",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NSTU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

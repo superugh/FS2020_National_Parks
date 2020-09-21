@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Jordan Field to Pageland</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>NR02</DepartureID>
+        <DepartureLLA>N35° 14' 15.06",W79° 59' 44.51",+000600.00</DepartureLLA>
+        <DestinationID>KPYG</DestinationID>
+        <DestinationLLA>N34° 44' 31.75",W80° 20' 42.41",+000562.50</DestinationLLA>
+        <Descr>Jordan Field to Pageland</Descr>
+        <DepartureName>Jordan Field</DepartureName>
+        <DestinationName>Pageland</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NR02">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 14' 15.06",W79° 59' 44.51",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NR02</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 0' 54.36",W80° 9' 11.50",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 3.12",W80° 11' 12.29",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPYG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 44' 31.75",W80° 20' 42.41",+000550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPYG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

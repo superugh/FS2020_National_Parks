@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Illinois Valley to Prospect State</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7200.000</CruisingAlt>
+        <DepartureID>3S4</DepartureID>
+        <DepartureLLA>N42° 6' 14.30",W123° 40' 56.26",+001374.00</DepartureLLA>
+        <DestinationID>64S</DestinationID>
+        <DestinationLLA>N42° 44' 33.38",W122° 29' 19.82",+002552.50</DestinationLLA>
+        <Descr>Illinois Valley to Prospect State</Descr>
+        <DepartureName>Illinois Valley</DepartureName>
+        <DestinationName>Prospect State</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3S4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 6' 14.30",W123° 40' 56.26",+001374.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3S4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 23' 24.09",W123° 9' 12.96",+007200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 29' 16.82",W122° 58' 13.24",+007200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="64S">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 44' 33.38",W122° 29' 19.82",+002550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>64S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

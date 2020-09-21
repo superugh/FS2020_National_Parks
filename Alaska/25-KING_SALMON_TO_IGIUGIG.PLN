@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>King Salmon to Igiugig</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PAKN</DepartureID>
+        <DepartureLLA>N58° 40' 37.46",W156° 38' 58.22",+000064.75</DepartureLLA>
+        <DestinationID>PAIG</DestinationID>
+        <DestinationLLA>N59° 19' 26.71",W155° 54' 5.90",+000081.50</DestinationLLA>
+        <Descr>King Salmon to Igiugig</Descr>
+        <DepartureName>King Salmon</DepartureName>
+        <DestinationName>Igiugig</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAKN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N58° 40' 37.46",W156° 38' 58.22",+000064.75</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAKN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAIG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 19' 26.71",W155° 54' 5.90",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAIG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bollinger-Crass Meml to Horseshoe Bend</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>MO5</DepartureID>
+        <DepartureLLA>N37° 0' 33.94",W91° 0' 25.05",+000649.50</DepartureLLA>
+        <DestinationID>6M2</DestinationID>
+        <DestinationLLA>N36° 13' 16.95",W91° 45' 19.91",+000779.00</DestinationLLA>
+        <Descr>Bollinger-Crass Meml to Horseshoe Bend</Descr>
+        <DepartureName>Bollinger-Crass Meml</DepartureName>
+        <DestinationName>Horseshoe Bend</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MO5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 0' 33.94",W91° 0' 25.05",+000649.50</WorldPosition>
+            <RunwayNumberFP>20</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MO5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="6M2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 13' 16.95",W91° 45' 19.91",+000800.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6M2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Theodore Francis Green State to East Hampton</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KPVD</DepartureID>
+        <DepartureLLA>N41° 43' 25.11",W71° 25' 35.84",+000046.00</DepartureLLA>
+        <DestinationID>KHTO</DestinationID>
+        <DestinationLLA>N40° 57' 35.15",W72° 15' 5.75",+000039.00</DestinationLLA>
+        <Descr>Theodore Francis Green State to East Hampton</Descr>
+        <DepartureName>Theodore Francis Green State</DepartureName>
+        <DestinationName>East Hampton</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPVD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 43' 25.11",W71° 25' 35.84",+000046.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPVD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 22' 52.34",W71° 47' 58.68",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N41° 18' 17.04",W71° 52' 55.99",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KHTO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 57' 35.15",W72° 15' 5.75",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHTO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Falls Intl-Einarson Field to Atikokan Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KINL</DepartureID>
+        <DepartureLLA>N48° 33' 56.20",W93° 24' 8.36",+001175.25</DepartureLLA>
+        <DestinationID>CYIB</DestinationID>
+        <DestinationLLA>N48° 46' 26.99",W91° 38' 19.48",+001397.00</DestinationLLA>
+        <Descr>Falls Intl-Einarson Field to Atikokan Mun</Descr>
+        <DepartureName>Falls Intl-Einarson Field</DepartureName>
+        <DestinationName>Atikokan Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Falls Intl-Einarson Field">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 33' 56.20",W93° 24' 8.36",+001175.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KINL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Little American Island">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 36' 8.22",W93° 10' 4.03",+003100.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kabetogama Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 27' 19.02",W93° 0' 7.28",+005300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hoist Bay">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 25' 31.58",W92° 44' 43.60",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grassy Bay Cliffs">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 23' 42.06",W92° 32' 18.67",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 24' 26.49",W92° 33' 27.51",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Anderson Bay">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 31' 37.85",W92° 44' 38.85",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 34' 50.94",W92° 30' 32.32",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Atikokan Mun">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 46' 26.99",W91° 38' 19.48",+001400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYIB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

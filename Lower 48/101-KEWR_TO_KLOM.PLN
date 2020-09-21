@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Newark Liberty Intl to Wings Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KEWR</DepartureID>
+        <DepartureLLA>N40° 41' 37.12",W74° 10' 6.99",+000011.33</DepartureLLA>
+        <DestinationID>KLOM</DestinationID>
+        <DestinationLLA>N40° 8' 15.27",W75° 15' 54.50",+000290.00</DestinationLLA>
+        <Descr>Newark Liberty Intl to Wings Field</Descr>
+        <DepartureName>Newark Liberty Intl</DepartureName>
+        <DestinationName>Wings Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KEWR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 41' 37.12",W74° 10' 6.99",+000011.33</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KEWR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 26' 42.40",W74° 39' 48.46",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 22' 42.50",W74° 47' 41.36",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLOM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 8' 15.27",W75° 15' 54.50",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLOM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

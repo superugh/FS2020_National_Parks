@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Miami Intl to Ocean Reef Club</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KMIA</DepartureID>
+        <DepartureLLA>N25° 47' 46.21",W80° 17' 23.06",+000008.87</DepartureLLA>
+        <DestinationID>07FA</DestinationID>
+        <DestinationLLA>N25° 19' 27.62",W80° 16' 32.74",+000004.00</DestinationLLA>
+        <Descr>Miami Intl to Ocean Reef Club</Descr>
+        <DepartureName>Miami Intl</DepartureName>
+        <DestinationName>Ocean Reef Club</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Miami Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 47' 46.21",W80° 17' 23.06",+000008.87</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMIA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Key Biscayne">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 41' 7.08",W80° 9' 32.06",+004300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 31' 6.51",W80° 10' 50.76",+005600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sands Key">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 29' 56.46",W80° 10' 59.92",+005100.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 27' 2.71",W80° 12' 32.01",+003700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ocean Reef Club">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 19' 27.62",W80° 16' 32.74",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>07FA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

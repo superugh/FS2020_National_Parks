@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bicycle Lake AAF to Twentynine Palms</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7500.000</CruisingAlt>
+        <DepartureID>KBYS</DepartureID>
+        <DepartureLLA>N35° 16' 51.95",W116° 37' 43.48",+002350.00</DepartureLLA>
+        <DestinationID>KTNP</DestinationID>
+        <DestinationLLA>N34° 7' 51.95",W115° 56' 46.14",+001851.25</DestinationLLA>
+        <Descr>Bicycle Lake AAF to Twentynine Palms</Descr>
+        <DepartureName>Bicycle Lake AAF</DepartureName>
+        <DestinationName>Twentynine Palms</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBYS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 16' 51.95",W116° 37' 43.48",+002350.00</WorldPosition>
+            <RunwayNumberFP>22</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KBYS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KTNP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 7' 51.95",W115° 56' 46.14",+001850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KTNP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

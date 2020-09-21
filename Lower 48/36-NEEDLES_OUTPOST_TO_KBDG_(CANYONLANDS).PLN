@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Needles Outpost to Blanding Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>UT59</DepartureID>
+        <DepartureLLA>N38° 10' 13.98",W109° 44' 0.21",+004929.11</DepartureLLA>
+        <DestinationID>KBDG</DestinationID>
+        <DestinationLLA>N37° 34' 59.91",W109° 29' 0.02",+005821.50</DestinationLLA>
+        <Descr>Needles Outpost to Blanding Mun</Descr>
+        <DepartureName>Needles Outpost</DepartureName>
+        <DestinationName>Blanding Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="UT59">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 10' 13.98",W109° 44' 0.21",+004929.11</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT59</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Elephant Hill">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 8' 2.56",W109° 49' 52.15",+005950.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 57' 35.48",W109° 43' 13.83",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 50' 4.92",W109° 38' 28.96",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBDG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 34' 59.91",W109° 29' 0.02",+005800.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBDG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

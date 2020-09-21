@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Santiam Junction State to Portland Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>8S3</DepartureID>
+        <DepartureLLA>N44° 26' 4.23",W121° 56' 32.91",+003780.00</DepartureLLA>
+        <DestinationID>KPDX</DestinationID>
+        <DestinationLLA>N45° 35' 19.28",W122° 35' 53.41",+000025.83</DestinationLLA>
+        <Descr>Santiam Junction State to Portland Intl</Descr>
+        <DepartureName>Santiam Junction State</DepartureName>
+        <DestinationName>Portland Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="8S3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 26' 4.23",W121° 56' 32.91",+003780.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>8S3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 53' 45.09",W122° 12' 4.14",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 56' 5.17",W122° 13' 23.43",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPDX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 35' 19.28",W122° 35' 53.41",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPDX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

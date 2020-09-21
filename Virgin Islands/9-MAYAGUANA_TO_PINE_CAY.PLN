@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Mayaguana to Pine Cay</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MYMM</DepartureID>
+        <DepartureLLA>N22° 22' 46.16",W73° 0' 48.53",+000015.00</DepartureLLA>
+        <DestinationID>MBPI</DestinationID>
+        <DestinationLLA>N21° 52' 29.72",W72° 5' 32.51",+000006.00</DestinationLLA>
+        <Descr>Mayaguana to Pine Cay</Descr>
+        <DepartureName>Mayaguana</DepartureName>
+        <DestinationName>Pine Cay</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYMM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 22' 46.16",W73° 0' 48.53",+000015.00</WorldPosition>
+            <RunwayNumberFP>24</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYMM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MBPI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N21° 52' 29.72",W72° 5' 32.51",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MBPI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

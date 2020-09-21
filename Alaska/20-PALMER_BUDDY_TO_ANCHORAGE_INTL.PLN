@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Palmer Buddy Woods Muni to Ted Stevens Anchorage Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PAAQ</DepartureID>
+        <DepartureLLA>N61° 35' 39.72",W149° 5' 21.34",+000233.17</DepartureLLA>
+        <DestinationID>PANC</DestinationID>
+        <DestinationLLA>N61° 10' 27.12",W149° 59' 50.97",+000120.67</DestinationLLA>
+        <Descr>Palmer Buddy Woods Muni to Ted Stevens Anchorage Intl</Descr>
+        <DepartureName>Palmer Buddy Woods Muni</DepartureName>
+        <DestinationName>Ted Stevens Anchorage Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAAQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 35' 39.72",W149° 5' 21.34",+000233.17</WorldPosition>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAAQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PANC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 10' 27.12",W149° 59' 50.97",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PANC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

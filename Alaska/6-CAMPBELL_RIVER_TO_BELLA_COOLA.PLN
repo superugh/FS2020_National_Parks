@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Campbell River to Bella Coola</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>CYBL</DepartureID>
+        <DepartureLLA>N49° 57' 7.30",W125° 16' 23.06",+000326.50</DepartureLLA>
+        <DestinationID>CYBD</DestinationID>
+        <DestinationLLA>N52° 23' 15.30",W126° 35' 44.91",+000117.00</DestinationLLA>
+        <Descr>Campbell River to Bella Coola</Descr>
+        <DepartureName>Campbell River</DepartureName>
+        <DestinationName>Bella Coola</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYBL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 57' 7.30",W125° 16' 23.06",+000326.50</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CYBL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYBD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 23' 15.30",W126° 35' 44.91",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYBD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

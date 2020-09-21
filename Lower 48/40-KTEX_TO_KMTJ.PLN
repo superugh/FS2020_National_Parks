@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Telluride Regl to Montrose Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KTEX</DepartureID>
+        <DepartureLLA>N37° 57' 13.63",W107° 54' 31.50",+009052.50</DepartureLLA>
+        <DestinationID>KMTJ</DestinationID>
+        <DestinationLLA>N38° 30' 31.54",W107° 53' 40.13",+005721.50</DestinationLLA>
+        <Descr>Telluride Regl to Montrose Rgnl</Descr>
+        <DepartureName>Telluride Regl</DepartureName>
+        <DestinationName>Montrose Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KTEX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 57' 13.63",W107° 54' 31.50",+009052.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KTEX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 10' 31.47",W107° 54' 11.08",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 17' 10.40",W107° 54' 0.83",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMTJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 30' 31.54",W107° 53' 40.13",+005700.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMTJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Hilo Intl to Portland Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PHTO</DepartureID>
+        <DepartureLLA>N19° 43' 11.63",W155° 3' 1.33",+000030.75</DepartureLLA>
+        <DestinationID>KPDX</DestinationID>
+        <DestinationLLA>N45° 35' 19.28",W122° 35' 53.41",+000025.83</DestinationLLA>
+        <Descr>Hilo Intl to Portland Intl</Descr>
+        <DepartureName>Hilo Intl</DepartureName>
+        <DestinationName>Portland Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PHTO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N19° 43' 11.63",W155° 3' 1.33",+000030.75</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PHTO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPDX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 35' 19.28",W122° 35' 53.41",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPDX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

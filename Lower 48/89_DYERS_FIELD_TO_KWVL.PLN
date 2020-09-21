@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Dyer&apos;s Field to Waterville Lafleur</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>23ME</DepartureID>
+        <DepartureLLA>N44° 31' 38.28",W70° 39' 53.25",+000638.26</DepartureLLA>
+        <DestinationID>KWVL</DestinationID>
+        <DestinationLLA>N44° 32' 0.08",W69° 40' 31.75",+000302.00</DestinationLLA>
+        <Descr>Dyer&apos;s Field to Waterville Lafleur</Descr>
+        <DepartureName>Dyer&apos;s Field</DepartureName>
+        <DestinationName>Waterville Lafleur</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="23ME">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 31' 38.28",W70° 39' 53.25",+000638.26</WorldPosition>
+            <ICAO>
+                <ICAOIdent>23ME</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 31' 51.89",W70° 13' 13.36",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 31' 53.55",W70° 8' 50.13",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KWVL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 32' 0.08",W69° 40' 31.75",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KWVL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

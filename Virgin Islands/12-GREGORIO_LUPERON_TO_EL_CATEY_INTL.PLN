@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Gregorio Luperon Intl to El Catey Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MDPP</DepartureID>
+        <DepartureLLA>N19° 45' 28.34",W70° 34' 11.95",+000016.50</DepartureLLA>
+        <DestinationID>MDCY</DestinationID>
+        <DestinationLLA>N19° 16' 10.43",W69° 44' 13.32",+000012.00</DestinationLLA>
+        <Descr>Gregorio Luperon Intl to El Catey Intl</Descr>
+        <DepartureName>Gregorio Luperon Intl</DepartureName>
+        <DestinationName>El Catey Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MDPP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N19° 45' 28.34",W70° 34' 11.95",+000016.50</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MDPP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MDCY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N19° 16' 10.43",W69° 44' 13.32",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MDCY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

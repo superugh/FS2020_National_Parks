@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Mount Comfort Airpark to Clarksville-Red River City- Jd</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7200.000</CruisingAlt>
+        <DepartureID>02AR</DepartureID>
+        <DepartureLLA>N34° 7' 2.84",W93° 41' 46.43",+000400.00</DepartureLLA>
+        <DestinationID>KLBR</DestinationID>
+        <DestinationLLA>N33° 35' 33.54",W95° 3' 50.86",+000428.50</DestinationLLA>
+        <Descr>Mount Comfort Airpark to Clarksville-Red River City- Jd</Descr>
+        <DepartureName>Mount Comfort Airpark</DepartureName>
+        <DestinationName>Clarksville-Red River City- Jd</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="02AR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 7' 2.84",W93° 41' 46.43",+000400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>02AR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 53' 0.83",W94° 18' 46.19",+007200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 49' 45.97",W94° 27' 14.07",+007200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLBR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 35' 33.54",W95° 3' 50.86",+000450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLBR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

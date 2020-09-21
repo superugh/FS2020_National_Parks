@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lost River Resort to Fowler Fld</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>W12</DepartureID>
+        <DepartureLLA>N48° 38' 58.76",W120° 30' 6.87",+002415.00</DepartureLLA>
+        <DestinationID>02WN</DestinationID>
+        <DestinationLLA>N48° 44' 50.58",W119° 19' 10.56",+002150.00</DestinationLLA>
+        <Descr>Lost River Resort to Fowler Fld</Descr>
+        <DepartureName>Lost River Resort</DepartureName>
+        <DestinationName>Fowler Fld</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="W12">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 38' 58.76",W120° 30' 6.87",+002415.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>W12</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 41' 36.19",W119° 59' 29.33",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 42' 13.47",W119° 51' 58.66",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="02WN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 44' 50.58",W119° 19' 10.56",+002150.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>02WN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

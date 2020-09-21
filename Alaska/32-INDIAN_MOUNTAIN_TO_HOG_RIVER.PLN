@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Indian Mountain Lrrs to Hog River</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PAIM</DepartureID>
+        <DepartureLLA>N65° 59' 33.75",W153° 42' 13.75",+001111.50</DepartureLLA>
+        <DestinationID>2AK6</DestinationID>
+        <DestinationLLA>N66° 10' 51.42",W155° 41' 42.98",+000534.00</DestinationLLA>
+        <Descr>Indian Mountain Lrrs to Hog River</Descr>
+        <DepartureName>Indian Mountain Lrrs</DepartureName>
+        <DestinationName>Hog River</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAIM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 59' 33.75",W153° 42' 13.75",+001111.50</WorldPosition>
+            <RunwayNumberFP>24</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAIM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="2AK6">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 10' 51.42",W155° 41' 42.98",+000550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2AK6</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

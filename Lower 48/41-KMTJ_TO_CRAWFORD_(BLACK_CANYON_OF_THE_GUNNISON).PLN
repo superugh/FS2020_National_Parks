@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Montrose Rgnl to Crawford</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KMTJ</DepartureID>
+        <DepartureLLA>N38° 30' 31.54",W107° 53' 40.13",+005721.50</DepartureLLA>
+        <DestinationID>99V</DestinationID>
+        <DestinationLLA>N38° 42' 13.39",W107° 38' 49.56",+006470.00</DestinationLLA>
+        <Descr>Montrose Rgnl to Crawford</Descr>
+        <DepartureName>Montrose Rgnl</DepartureName>
+        <DestinationName>Crawford</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Montrose Rgnl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 30' 31.54",W107° 53' 40.13",+005721.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMTJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Exclamation Point">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 35' 11.50",W107° 43' 12.72",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 34' 39.08",W107° 42' 24.43",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gunnison River and Narrows">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 34' 12.48",W107° 41' 44.88",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 38' 28.57",W107° 40' 11.61",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Crawford">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 42' 13.39",W107° 38' 49.56",+006450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>99V</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

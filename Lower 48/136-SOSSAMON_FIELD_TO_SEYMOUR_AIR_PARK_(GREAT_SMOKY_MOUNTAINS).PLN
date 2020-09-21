@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Sossamon Field to Seymour Air Park, Inc.</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>57NC</DepartureID>
+        <DepartureLLA>N35° 25' 35.00",W83° 27' 28.20",+001940.00</DepartureLLA>
+        <DestinationID>TN20</DestinationID>
+        <DestinationLLA>N35° 48' 44.15",W83° 46' 28.83",+001000.00</DestinationLLA>
+        <Descr>Sossamon Field to Seymour Air Park, Inc.</Descr>
+        <DepartureName>Sossamon Field</DepartureName>
+        <DestinationName>Seymour Air Park, Inc.</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="57NC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 25' 35.00",W83° 27' 28.20",+001940.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>57NC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mountain Farm Museum">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 30' 43.89",W83° 18' 16.19",+004250.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mingo Falls">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 35' 38.65",W83° 20' 27.04",+005550.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 36' 43.15",W83° 24' 45.32",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 36' 48.24",W83° 25' 5.69",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Elkmont Ghost Town">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 39' 14.38",W83° 34' 53.99",+004400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TN20">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 48' 44.15",W83° 46' 28.83",+001000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TN20</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

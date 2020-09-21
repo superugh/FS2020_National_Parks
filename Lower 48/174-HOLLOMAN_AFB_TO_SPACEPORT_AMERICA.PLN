@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Holloman Air Force Base Airport to Spaceport America</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KHOL</DepartureID>
+        <DepartureLLA>N32° 56' 37.85",W106° 25' 9.60",+003910.22</DepartureLLA>
+        <DestinationID>9NM9</DestinationID>
+        <DestinationLLA>N32° 59' 22.38",W106° 58' 10.25",+004595.00</DestinationLLA>
+        <Descr>Holloman Air Force Base Airport to Spaceport America</Descr>
+        <DepartureName>Holloman Air Force Base Airport</DepartureName>
+        <DestinationName>Spaceport America</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KHOL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 56' 37.85",W106° 25' 9.60",+003910.22</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHOL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 57' 52.84",W106° 39' 59.15",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 58' 17.46",W106° 44' 55.75",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="9NM9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 59' 22.38",W106° 58' 10.25",+004600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>9NM9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

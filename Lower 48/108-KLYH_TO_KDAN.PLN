@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lynchburg Rgnl/Preston Glenn F to Danville Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KLYH</DepartureID>
+        <DepartureLLA>N37° 19' 35.42",W79° 12' 2.44",+000918.50</DepartureLLA>
+        <DestinationID>KDAN</DestinationID>
+        <DestinationLLA>N36° 34' 22.39",W79° 20' 7.93",+000550.00</DestinationLLA>
+        <Descr>Lynchburg Rgnl/Preston Glenn F to Danville Rgnl</Descr>
+        <DepartureName>Lynchburg Rgnl/Preston Glenn F</DepartureName>
+        <DestinationName>Danville Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KLYH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 19' 35.42",W79° 12' 2.44",+000918.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLYH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 59' 16.69",W79° 15' 41.73",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 56' 6.30",W79° 16' 15.81",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KDAN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 34' 22.39",W79° 20' 7.93",+000550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Mckinnon St Simons Island to Northeast Florida Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KSSI</DepartureID>
+        <DepartureLLA>N31° 9' 7.18",W81° 23' 24.59",+000014.75</DepartureLLA>
+        <DestinationID>KSGJ</DestinationID>
+        <DestinationLLA>N29° 57' 29.18",W81° 20' 21.26",+000007.83</DestinationLLA>
+        <Descr>Mckinnon St Simons Island to Northeast Florida Rgnl</Descr>
+        <DepartureName>Mckinnon St Simons Island</DepartureName>
+        <DestinationName>Northeast Florida Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSSI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 9' 7.18",W81° 23' 24.59",+000014.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSSI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 36' 56.33",W81° 22' 1.67",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 29' 51.68",W81° 21' 43.56",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KSGJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 57' 29.18",W81° 20' 21.26",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSGJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

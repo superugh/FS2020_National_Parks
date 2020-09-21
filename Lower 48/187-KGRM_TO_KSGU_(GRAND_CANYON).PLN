@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Grand Canyon Airport to St George Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KGRM</DepartureID>
+        <DepartureLLA>N36° 23' 17.83",W112° 7' 49.38",+008738.90</DepartureLLA>
+        <DestinationID>KSGU</DestinationID>
+        <DestinationLLA>N37° 2' 11.06",W113° 30' 37.10",+002858.00</DestinationLLA>
+        <Descr>Grand Canyon Airport to St George Rgnl</Descr>
+        <DepartureName>Grand Canyon Airport</DepartureName>
+        <DestinationName>St George Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KGRM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 23' 17.83",W112° 7' 49.38",+008738.90</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KGRM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mather Point">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 27' 1.99",W112° 2' 10.57",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KSGU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 2' 11.06",W113° 30' 37.10",+002850.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSGU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title> to Watertown Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>CYQE</DepartureID>
+        <DepartureLLA>N43° 54' 58.69",W77° 31' 31.46",+000245.17</DepartureLLA>
+        <DestinationID>KART</DestinationID>
+        <DestinationLLA>N43° 59' 30.65",W76° 1' 11.47",+000318.50</DestinationLLA>
+        <Descr> to Watertown Intl</Descr>
+        <DepartureName>Nicholson Island Private Airstrip</DepartureName>
+        <DestinationName>Watertown Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYQE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 54' 58.69",W77° 31' 31.46",+000245.17</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYQE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 57' 9.67",W76° 50' 58.27",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 57' 37.89",W76° 41' 35.82",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KART">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 59' 30.65",W76° 1' 11.47",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KART</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

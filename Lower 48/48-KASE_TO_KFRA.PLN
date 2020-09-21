@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Aspen-Pitkin Co/Sardy Field to Fraser Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KASE</DepartureID>
+        <DepartureLLA>N39° 13' 18.82",W106° 52' 5.66",+007750.00</DepartureLLA>
+        <DestinationID>KFRA</DestinationID>
+        <DestinationLLA>N39° 59' 47.86",W105° 51' 49.14",+008440.03</DestinationLLA>
+        <Descr>Aspen-Pitkin Co/Sardy Field to Fraser Airport</Descr>
+        <DepartureName>Aspen-Pitkin Co/Sardy Field</DepartureName>
+        <DestinationName>Fraser Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KASE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 13' 18.82",W106° 52' 5.66",+007750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KASE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 31' 56.32",W106° 28' 11.17",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 41' 13.19",W106° 16' 9.12",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KFRA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 59' 47.86",W105° 51' 49.14",+006500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KFRA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

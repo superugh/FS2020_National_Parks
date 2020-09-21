@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Ambler to Anaktuvuk Pass</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PAFM</DepartureID>
+        <DepartureLLA>N67° 6' 19.99",W157° 51' 35.68",+000269.25</DepartureLLA>
+        <DestinationID>PAKP</DestinationID>
+        <DestinationLLA>N68° 8' 1.13",W151° 44' 35.85",+002079.50</DestinationLLA>
+        <Descr>Ambler to Anaktuvuk Pass</Descr>
+        <DepartureName>Ambler</DepartureName>
+        <DestinationName>Anaktuvuk Pass</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAFM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N67° 6' 19.99",W157° 51' 35.68",+000269.25</WorldPosition>
+            <RunwayNumberFP>19</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAFM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount Igikpak">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 24' 18.00",W154° 58' 0.96",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Arrigetch Peaks">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 25' 19.00",W154° 13' 3.98",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Alatna National Wild and Scenic River">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 33' 19.43",W154° 9' 15.96",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Frigid Crags">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 49' 36.00",W150° 56' 33.02",+007250.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAKP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N68° 8' 1.13",W151° 44' 35.85",+002100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAKP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

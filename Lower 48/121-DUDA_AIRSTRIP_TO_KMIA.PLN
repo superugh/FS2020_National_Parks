@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Duda Airstrip to Miami Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>FA69</DepartureID>
+        <DepartureLLA>N26° 35' 18.05",W80° 38' 15.07",+000014.00</DepartureLLA>
+        <DestinationID>KMIA</DestinationID>
+        <DestinationLLA>N25° 47' 46.21",W80° 17' 23.06",+000008.87</DestinationLLA>
+        <Descr>Duda Airstrip to Miami Intl</Descr>
+        <DepartureName>Duda Airstrip</DepartureName>
+        <DestinationName>Miami Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="FA69">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 35' 18.05",W80° 38' 15.07",+000014.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>FA69</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 13' 57.26",W80° 28' 50.50",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 9' 15.35",W80° 26' 46.73",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMIA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 47' 46.21",W80° 17' 23.06",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMIA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

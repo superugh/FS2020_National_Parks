@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lakota Mun to Inkster</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>5L0</DepartureID>
+        <DepartureLLA>N48° 1' 44.07",W98° 19' 32.69",+001509.00</DepartureLLA>
+        <DestinationID>ND24</DestinationID>
+        <DestinationLLA>N48° 8' 30.40",W97° 40' 22.57",+001092.00</DestinationLLA>
+        <Descr>Lakota Mun to Inkster</Descr>
+        <DepartureName>Lakota Mun</DepartureName>
+        <DestinationName>Inkster</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="5L0">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 1' 44.07",W98° 19' 32.69",+001509.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>5L0</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 4' 48.25",W98° 1' 58.19",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 5' 13.89",W97° 59' 30.11",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ND24">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 8' 30.40",W97° 40' 22.57",+001100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ND24</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

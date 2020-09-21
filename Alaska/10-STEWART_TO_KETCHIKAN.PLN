@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Stewart to Ketchikan Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>CZST</DepartureID>
+        <DepartureLLA>N55° 56' 8.38",W129° 58' 55.88",+000024.00</DepartureLLA>
+        <DestinationID>PAKE</DestinationID>
+        <DestinationLLA>N56° 13' 7.66",W131° 29' 6.16",+000009.52</DestinationLLA>
+        <Descr>Stewart to Ketchikan Airport</Descr>
+        <DepartureName>Stewart</DepartureName>
+        <DestinationName>Ketchikan Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CZST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N55° 56' 8.38",W129° 58' 55.88",+000024.00</WorldPosition>
+            <RunwayNumberFP>18</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CZST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAKE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 13' 7.66",W131° 29' 6.16",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAKE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

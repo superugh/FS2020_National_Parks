@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Brownwood Regl to Brady Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>4600.000</CruisingAlt>
+        <DepartureID>KBWD</DepartureID>
+        <DepartureLLA>N31° 47' 36.83",W98° 57' 23.84",+001376.75</DepartureLLA>
+        <DestinationID>KBRB</DestinationID>
+        <DestinationLLA>N31° 23' 39.65",W99° 28' 54.61",+001419.61</DestinationLLA>
+        <Descr>Brownwood Regl to Brady Airport</Descr>
+        <DepartureName>Brownwood Regl</DepartureName>
+        <DestinationName>Brady Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBWD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 47' 36.83",W98° 57' 23.84",+001376.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBWD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 36' 54.96",W99° 11' 31.57",+004600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 34' 21.25",W99° 14' 53.81",+004600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBRB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 23' 39.65",W99° 28' 54.61",+001400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBRB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

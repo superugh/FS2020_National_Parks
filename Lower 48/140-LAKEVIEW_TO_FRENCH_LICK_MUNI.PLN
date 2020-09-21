@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lakeview to French Lick Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>69KY</DepartureID>
+        <DepartureLLA>N37° 19' 37.07",W86° 9' 17.54",+000750.00</DepartureLLA>
+        <DestinationID>KFRH</DestinationID>
+        <DestinationLLA>N38° 30' 22.39",W86° 38' 13.03",+000787.00</DestinationLLA>
+        <Descr>Lakeview to French Lick Mun</Descr>
+        <DepartureName>Lakeview</DepartureName>
+        <DestinationName>French Lick Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="69KY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 19' 37.07",W86° 9' 17.54",+000750.00</WorldPosition>
+            <RunwayNumberFP>36</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>69KY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KFRH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 30' 22.39",W86° 38' 13.03",+000800.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KFRH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Ocean Cay Airport to San Andros</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MYBO</DepartureID>
+        <DepartureLLA>N25° 25' 20.91",W79° 12' 28.35",+000025.15</DepartureLLA>
+        <DestinationID>MYAN</DestinationID>
+        <DestinationLLA>N25° 3' 15.57",W78° 3' 0.12",+000010.00</DestinationLLA>
+        <Descr>Ocean Cay Airport to San Andros</Descr>
+        <DepartureName>Ocean Cay Airport</DepartureName>
+        <DestinationName>San Andros</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYBO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 25' 20.91",W79° 12' 28.35",+000025.15</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYBO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 3' 15.57",W78° 3' 0.12",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

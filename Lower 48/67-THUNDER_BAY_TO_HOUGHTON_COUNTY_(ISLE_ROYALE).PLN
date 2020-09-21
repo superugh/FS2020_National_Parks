@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Thunder Bay to Houghton County Memorial</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>CYQT</DepartureID>
+        <DepartureLLA>N48° 22' 20.04",W89° 19' 27.02",+000646.75</DepartureLLA>
+        <DestinationID>KCMX</DestinationID>
+        <DestinationLLA>N47° 10' 5.79",W88° 29' 20.81",+001072.25</DestinationLLA>
+        <Descr>Thunder Bay to Houghton County Memorial</Descr>
+        <DepartureName>Thunder Bay</DepartureName>
+        <DestinationName>Houghton County Memorial</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Thunder Bay">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 22' 20.04",W89° 19' 27.02",+000646.75</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CYQT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Passage Island">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 14' 0.15",W88° 21' 11.91",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Isle Royale South">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 51' 13.47",W89° 13' 57.43",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Houghton County Memorial">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 10' 5.79",W88° 29' 20.81",+001050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCMX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

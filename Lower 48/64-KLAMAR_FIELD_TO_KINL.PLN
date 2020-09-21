@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Klamar Field to Falls Intl-Einarson Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>77MN</DepartureID>
+        <DepartureLLA>N48° 22' 7.88",W95° 47' 13.79",+001160.00</DepartureLLA>
+        <DestinationID>KINL</DestinationID>
+        <DestinationLLA>N48° 33' 56.20",W93° 24' 8.36",+001175.25</DestinationLLA>
+        <Descr>Klamar Field to Falls Intl-Einarson Field</Descr>
+        <DepartureName>Klamar Field</DepartureName>
+        <DestinationName>Falls Intl-Einarson Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="77MN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 22' 7.88",W95° 47' 13.79",+001160.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>77MN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 25' 55.85",W94° 49' 43.53",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 27' 39.05",W94° 20' 55.32",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KINL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 33' 56.20",W93° 24' 8.36",+001200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KINL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

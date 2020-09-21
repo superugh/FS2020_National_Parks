@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Memorial Field to Mount Comfort Airpark</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>3800.000</CruisingAlt>
+        <DepartureID>KHOT</DepartureID>
+        <DepartureLLA>N34° 28' 40.55",W93° 5' 45.11",+000516.75</DepartureLLA>
+        <DestinationID>02AR</DestinationID>
+        <DestinationLLA>N34° 7' 2.84",W93° 41' 46.43",+000400.00</DestinationLLA>
+        <Descr>Memorial Field to Mount Comfort Airpark</Descr>
+        <DepartureName>Memorial Field</DepartureName>
+        <DestinationName>Mount Comfort Airpark</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KHOT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 28' 40.55",W93° 5' 45.11",+000516.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHOT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 19' 3.66",W93° 21' 50.40",+003800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 17' 5.10",W93° 25' 7.87",+003800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="02AR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 7' 2.84",W93° 41' 46.43",+000400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>02AR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

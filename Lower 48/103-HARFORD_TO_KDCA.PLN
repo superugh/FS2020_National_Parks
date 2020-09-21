@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Harford Co to Ronald Reagan Washington National Airport</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>0W3</DepartureID>
+        <DepartureLLA>N39° 34' 1.96",W76° 12' 9.03",+000401.25</DepartureLLA>
+        <DestinationID>KDCA</DestinationID>
+        <DestinationLLA>N38° 51' 5.01",W77° 2' 15.81",+000011.67</DestinationLLA>
+        <Descr>Harford Co to Ronald Reagan Washington National Airport</Descr>
+        <DepartureName>Harford Co</DepartureName>
+        <DestinationName>Ronald Reagan Washington National Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="0W3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 34' 1.96",W76° 12' 9.03",+000401.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0W3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 14' 46.94",W76° 34' 47.40",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 11' 45.90",W76° 38' 18.77",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KDCA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 51' 5.01",W77° 2' 15.81",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDCA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Luckinbill Airstrip to Jackson Hole</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>WY06</DepartureID>
+        <DepartureLLA>N44° 50' 19.80",W109° 37' 15.50",+006600.00</DepartureLLA>
+        <DestinationID>KJAC</DestinationID>
+        <DestinationLLA>N43° 36' 26.44",W110° 44' 15.88",+006432.00</DestinationLLA>
+        <Descr>Luckinbill Airstrip to Jackson Hole</Descr>
+        <DepartureName>Luckinbill Airstrip</DepartureName>
+        <DestinationName>Jackson Hole</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="WY06">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 50' 19.80",W109° 37' 15.50",+006600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WY06</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 19' 29.43",W110° 6' 22.33",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 4' 1.51",W110° 20' 44.29",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Signal Mountain">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 48' 35.54",W110° 34' 55.31",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grand Teton">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 44' 26.45",W110° 48' 3.58",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KJAC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 36' 26.44",W110° 44' 15.88",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJAC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

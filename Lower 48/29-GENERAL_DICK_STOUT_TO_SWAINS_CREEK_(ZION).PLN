@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>General Dick Stout Field to Swains Creek</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>1L8</DepartureID>
+        <DepartureLLA>N37° 8' 25.41",W113° 18' 21.74",+003350.00</DepartureLLA>
+        <DestinationID>UT00</DestinationID>
+        <DestinationLLA>N37° 28' 20.74",W112° 37' 20.03",+007780.00</DestinationLLA>
+        <Descr>General Dick Stout Field to Swains Creek</Descr>
+        <DepartureName>General Dick Stout Field</DepartureName>
+        <DestinationName>Swains Creek</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="General Dick Stout Field">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 8' 25.41",W113° 18' 21.74",+003350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1L8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Between Several Mountains">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 14' 28.54",W112° 57' 36.05",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 15' 56.91",W112° 56' 27.89",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Echo Canyon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 16' 17.99",W112° 56' 11.62",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Narrows">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 18' 18.01",W112° 56' 56.47",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 22' 11.30",W112° 49' 22.51",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Swains Creek">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 28' 20.74",W112° 37' 20.03",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT00</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

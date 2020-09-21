@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Clarksville-Red River City- Jd to Caddo Mills Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KLBR</DepartureID>
+        <DepartureLLA>N33° 35' 33.54",W95° 3' 50.86",+000428.50</DepartureLLA>
+        <DestinationID>7F3</DestinationID>
+        <DestinationLLA>N33° 2' 10.54",W96° 14' 35.34",+000538.75</DestinationLLA>
+        <Descr>Clarksville-Red River City- Jd to Caddo Mills Mun</Descr>
+        <DepartureName>Clarksville-Red River City- Jd</DepartureName>
+        <DestinationName>Caddo Mills Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KLBR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 35' 33.54",W95° 3' 50.86",+000428.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLBR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 20' 44.23",W95° 35' 32.60",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 16' 55.25",W95° 43' 37.77",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="7F3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 2' 10.54",W96° 14' 35.34",+000550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>7F3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Logan Intl to Marshfield Muni - George Harlo</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KBOS</DepartureID>
+        <DepartureLLA>N42° 21' 46.54",W71° 0' 25.04",+000016.00</DepartureLLA>
+        <DestinationID>KGHG</DestinationID>
+        <DestinationLLA>N42° 5' 51.03",W70° 40' 22.88",+000004.50</DestinationLLA>
+        <Descr>Logan Intl to Marshfield Muni - George Harlo</Descr>
+        <DepartureName>Logan Intl</DepartureName>
+        <DestinationName>Marshfield Muni - George Harlo</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBOS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 21' 46.54",W71° 0' 25.04",+000016.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBOS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 14' 37.75",W70° 51' 23.73",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 13' 3.40",W70° 49' 25.05",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGHG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 5' 51.03",W70° 40' 22.88",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGHG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

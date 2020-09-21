@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Hanksville to Westwater</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KHVE</DepartureID>
+        <DepartureLLA>N38° 25' 9.92",W110° 42' 10.53",+004440.25</DepartureLLA>
+        <DestinationID>UT42</DestinationID>
+        <DestinationLLA>N39° 8' 50.68",W109° 8' 40.19",+004660.00</DestinationLLA>
+        <Descr>Hanksville to Westwater</Descr>
+        <DepartureName>Hanksville</DepartureName>
+        <DestinationName>Westwater</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KHVE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 25' 9.92",W110° 42' 10.53",+004440.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHVE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 34' 55.91",W109° 52' 49.74",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Park Avenue">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 38' 10.13",W109° 36' 1.56",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Parade of Elephants and Cove Arch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 41' 30.48",W109° 32' 25.73",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 43' 32.04",W109° 33' 15.58",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fiery Furnace">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 44' 36.38",W109° 33' 41.98",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Navajo, Partition, and Wall Arches">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 47' 26.86",W109° 36' 27.10",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Delicate Arch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 44' 34.44",W109° 29' 53.35",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="UT42">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 8' 50.68",W109° 8' 40.19",+004650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT42</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

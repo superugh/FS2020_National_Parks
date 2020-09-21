@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Portland Intl Jetport to Portsmouth Intl At Pease</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KPWM</DepartureID>
+        <DepartureLLA>N43° 38' 44.55",W70° 18' 29.75",+000053.00</DepartureLLA>
+        <DestinationID>KPSM</DestinationID>
+        <DestinationLLA>N43° 4' 40.69",W70° 49' 23.79",+000090.50</DestinationLLA>
+        <Descr>Portland Intl Jetport to Portsmouth Intl At Pease</Descr>
+        <DepartureName>Portland Intl Jetport</DepartureName>
+        <DestinationName>Portsmouth Intl At Pease</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPWM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 38' 44.55",W70° 18' 29.75",+000053.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPWM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 23' 27.40",W70° 32' 26.96",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 19' 56.65",W70° 35' 38.12",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPSM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 4' 40.69",W70° 49' 23.79",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPSM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

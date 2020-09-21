@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Forks to Whidbey Island Nas /Ault Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>S18</DepartureID>
+        <DepartureLLA>N47° 56' 15.73",W124° 23' 45.36",+000299.00</DepartureLLA>
+        <DestinationID>KNUW</DestinationID>
+        <DestinationLLA>N48° 21' 6.65",W122° 39' 21.57",+000032.00</DestinationLLA>
+        <Descr>Forks to Whidbey Island Nas /Ault Field</Descr>
+        <DepartureName>Forks</DepartureName>
+        <DestinationName>Whidbey Island Nas /Ault Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="S18">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 56' 15.73",W124° 23' 45.36",+000299.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>S18</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 6' 51.34",W123° 40' 15.68",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 10' 26.65",W123° 25' 11.78",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KNUW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 21' 6.65",W122° 39' 21.57",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KNUW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

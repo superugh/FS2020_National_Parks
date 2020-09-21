@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Dupont-Lapeer to Selfridge Angb</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>D95</DepartureID>
+        <DepartureLLA>N43° 3' 58.34",W83° 16' 16.33",+000830.75</DepartureLLA>
+        <DestinationID>KMTC</DestinationID>
+        <DestinationLLA>N42° 36' 45.07",W82° 50' 13.04",+000579.00</DestinationLLA>
+        <Descr>Dupont-Lapeer to Selfridge Angb</Descr>
+        <DepartureName>Dupont-Lapeer</DepartureName>
+        <DestinationName>Selfridge Angb</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="D95">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 3' 58.34",W83° 16' 16.33",+000830.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>D95</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 51' 45.36",W83° 4' 31.19",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 49' 32.16",W83° 2' 23.70",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMTC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 36' 45.07",W82° 50' 13.04",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMTC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

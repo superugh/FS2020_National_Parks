@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Nanwalek to Kulik Lake</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KEB</DepartureID>
+        <DepartureLLA>N59° 21' 7.11",W151° 55' 30.32",+000027.00</DepartureLLA>
+        <DestinationID>PAKL</DestinationID>
+        <DestinationLLA>N58° 57' 56.19",W155° 5' 52.31",+000717.00</DestinationLLA>
+        <Descr>Nanwalek to Kulik Lake</Descr>
+        <DepartureName>Nanwalek</DepartureName>
+        <DestinationName>Kulik Lake</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KEB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 21' 7.11",W151° 55' 30.32",+000027.00</WorldPosition>
+            <RunwayNumberFP>19</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KEB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAKL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N58° 57' 56.19",W155° 5' 52.31",+000700.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAKL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

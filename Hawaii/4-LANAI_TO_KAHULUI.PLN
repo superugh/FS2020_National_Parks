@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lanai to Kahului</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PHNY</DepartureID>
+        <DepartureLLA>N20° 47' 8.11",W156° 57' 5.02",+001306.00</DepartureLLA>
+        <DestinationID>PHOG</DestinationID>
+        <DestinationLLA>N20° 53' 56.35",W156° 25' 49.54",+000025.00</DestinationLLA>
+        <Descr>Lanai to Kahului</Descr>
+        <DepartureName>Lanai</DepartureName>
+        <DestinationName>Kahului</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PHNY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N20° 47' 8.11",W156° 57' 5.02",+001306.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PHNY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PHOG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N20° 53' 56.35",W156° 25' 49.54",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PHOG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

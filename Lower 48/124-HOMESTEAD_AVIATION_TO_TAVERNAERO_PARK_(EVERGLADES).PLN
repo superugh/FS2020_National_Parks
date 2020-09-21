@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Homestead Gen Aviation to Tavernaero Park</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>X51</DepartureID>
+        <DepartureLLA>N25° 30' 4.82",W80° 33' 9.20",+000006.75</DepartureLLA>
+        <DestinationID>FA81</DestinationID>
+        <DestinationLLA>N25° 0' 17.83",W80° 31' 58.60",+000010.00</DestinationLLA>
+        <Descr>Homestead Gen Aviation to Tavernaero Park</Descr>
+        <DepartureName>Homestead Gen Aviation</DepartureName>
+        <DestinationName>Tavernaero Park</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="X51">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 30' 4.82",W80° 33' 9.20",+000006.75</WorldPosition>
+            <ICAO>
+                <ICAOIdent>X51</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pa-hay-okee Trail">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 26' 29.92",W80° 47' 2.11",+003600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 17' 20.55",W80° 52' 55.56",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lane Bay">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 16' 41.48",W80° 53' 20.65",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 12' 39.45",W80° 51' 10.32",+005500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Whipray Basin">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 3' 5.59",W80° 46' 1.99",+003600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="FA81">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 0' 17.83",W80° 31' 58.60",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>FA81</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

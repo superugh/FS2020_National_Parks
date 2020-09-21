@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bozeman Yellowstone Intl to Gardiner</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KBZN</DepartureID>
+        <DepartureLLA>N45° 46' 34.11",W111° 9' 3.68",+004451.87</DepartureLLA>
+        <DestinationID>29S</DestinationID>
+        <DestinationLLA>N45° 2' 52.08",W110° 44' 35.27",+005286.00</DestinationLLA>
+        <Descr>Bozeman Yellowstone Intl to Gardiner</Descr>
+        <DepartureName>Bozeman Yellowstone Intl</DepartureName>
+        <DestinationName>Gardiner</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBZN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 46' 34.11",W111° 9' 3.68",+004451.87</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBZN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 29' 7.71",W110° 59' 12.76",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 20' 24.18",W110° 54' 19.58",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="29S">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 2' 52.08",W110° 44' 35.27",+005300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>29S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

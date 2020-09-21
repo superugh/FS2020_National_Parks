@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title> to Fox Acres</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KDCA</DepartureID>
+        <DepartureLLA>N38° 51' 5.01",W77° 2' 15.81",+000011.67</DepartureLLA>
+        <DestinationID>15VA</DestinationID>
+        <DestinationLLA>N38° 43' 20.05",W77° 54' 3.25",+000450.00</DestinationLLA>
+        <Descr> to Fox Acres</Descr>
+        <DepartureName>Ronald Reagan Washington National Airport</DepartureName>
+        <DestinationName>Fox Acres</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KDCA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 51' 5.01",W77° 2' 15.81",+000011.67</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDCA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 47' 38.99",W77° 25' 33.20",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 46' 38.41",W77° 32' 17.71",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="15VA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 43' 20.05",W77° 54' 3.25",+000450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>15VA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Sawyer Intl to Delta Co</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KSAW</DepartureID>
+        <DepartureLLA>N46° 21' 13.10",W87° 23' 43.31",+001192.00</DepartureLLA>
+        <DestinationID>KESC</DestinationID>
+        <DestinationLLA>N45° 43' 22.73",W87° 5' 34.32",+000600.25</DestinationLLA>
+        <Descr>Sawyer Intl to Delta Co</Descr>
+        <DepartureName>Sawyer Intl</DepartureName>
+        <DestinationName>Delta Co</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSAW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 21' 13.10",W87° 23' 43.31",+001192.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSAW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 4' 13.52",W87° 15' 31.01",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 2' 20.63",W87° 14' 36.83",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KESC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 43' 22.73",W87° 5' 34.32",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KESC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

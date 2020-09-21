@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Mc Carran Intl to Homey</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KLAS</DepartureID>
+        <DepartureLLA>N36° 4' 51.57",W115° 9' 12.39",+002114.87</DepartureLLA>
+        <DestinationID>KXTA</DestinationID>
+        <DestinationLLA>N37° 14' 15.95",W115° 47' 54.43",+004461.27</DestinationLLA>
+        <Descr>Mc Carran Intl to Homey</Descr>
+        <DepartureName>Mc Carran Intl</DepartureName>
+        <DestinationName>Homey</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Mc Carran Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 4' 51.57",W115° 9' 12.39",+002114.87</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KLAS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Strip">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 7' 35.67",W115° 10' 6.88",+002700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Homey">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 14' 15.95",W115° 47' 54.43",+004450.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KXTA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

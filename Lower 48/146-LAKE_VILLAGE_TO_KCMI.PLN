@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lake Village to University Of Illinois-Willard</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6900.000</CruisingAlt>
+        <DepartureID>C98</DepartureID>
+        <DepartureLLA>N41° 8' 56.07",W87° 27' 35.74",+000642.00</DepartureLLA>
+        <DestinationID>KCMI</DestinationID>
+        <DestinationLLA>N40° 2' 19.06",W88° 16' 40.92",+000748.83</DestinationLLA>
+        <Descr>Lake Village to University Of Illinois-Willard</Descr>
+        <DepartureName>Lake Village</DepartureName>
+        <DestinationName>University Of Illinois-Willard</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="C98">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 8' 56.07",W87° 27' 35.74",+000642.00</WorldPosition>
+            <RunwayNumberFP>18</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>C98</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCMI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 2' 19.06",W88° 16' 40.92",+000750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCMI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

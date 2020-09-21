@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bison Mun to Boyd&apos;s Turf</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>6V5</DepartureID>
+        <DepartureLLA>N45° 31' 5.92",W102° 28' 4.06",+002786.00</DepartureLLA>
+        <DestinationID>0NA9</DestinationID>
+        <DestinationLLA>N46° 45' 1.37",W103° 48' 5.05",+002750.00</DestinationLLA>
+        <Descr>Bison Mun to Boyd&apos;s Turf</Descr>
+        <DepartureName>Bison Mun</DepartureName>
+        <DestinationName>Boyd&apos;s Turf</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="6V5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 31' 5.92",W102° 28' 4.06",+002786.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6V5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 0' 43.81",W102° 59' 35.53",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 15' 29.45",W103° 15' 33.96",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="0NA9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 45' 1.37",W103° 48' 5.05",+002750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0NA9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

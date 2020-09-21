@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Glasgow Mun to Lakeview</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KGLW</DepartureID>
+        <DepartureLLA>N37° 1' 54.25",W85° 57' 13.43",+000709.50</DepartureLLA>
+        <DestinationID>69KY</DestinationID>
+        <DestinationLLA>N37° 19' 37.07",W86° 9' 17.54",+000750.00</DestinationLLA>
+        <Descr>Glasgow Mun to Lakeview</Descr>
+        <DepartureName>Glasgow Mun</DepartureName>
+        <DestinationName>Lakeview</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KGLW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 1' 54.25",W85° 57' 13.43",+000709.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGLW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 9' 51.89",W86° 2' 38.03",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 11' 41.31",W86° 3' 52.59",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="69KY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 19' 37.07",W86° 9' 17.54",+000750.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>69KY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

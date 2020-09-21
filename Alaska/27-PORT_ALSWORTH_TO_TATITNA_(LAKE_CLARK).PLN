@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Port Alsworth to Tatitna</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>TPO</DepartureID>
+        <DepartureLLA>N60° 12' 0.56",W154° 19' 26.35",+000280.00</DepartureLLA>
+        <DestinationID>8KA</DestinationID>
+        <DestinationLLA>N62° 17' 37.94",W153° 22' 12.00",+001490.00</DestinationLLA>
+        <Descr>Port Alsworth to Tatitna</Descr>
+        <DepartureName>Port Alsworth</DepartureName>
+        <DestinationName>Tatitna</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="TPO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 12' 0.56",W154° 19' 26.35",+000280.00</WorldPosition>
+            <RunwayNumberFP>24</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>TPO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kontrashibuna Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N60° 10' 54.77",W154° 1' 27.34",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tlikakila River">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N60° 23' 30.99",W153° 48' 36.98",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Turquoise Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N60° 47' 20.72",W153° 57' 23.72",+007650.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Telaquana Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N60° 57' 4.36",W153° 53' 33.78",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="8KA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N62° 17' 37.94",W153° 22' 12.00",+001500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>8KA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

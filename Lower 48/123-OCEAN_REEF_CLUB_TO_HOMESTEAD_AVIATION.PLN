@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Ocean Reef Club to Homestead Gen Aviation</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>07FA</DepartureID>
+        <DepartureLLA>N25° 19' 27.62",W80° 16' 32.74",+000004.00</DepartureLLA>
+        <DestinationID>X51</DestinationID>
+        <DestinationLLA>N25° 30' 4.82",W80° 33' 9.20",+000006.75</DestinationLLA>
+        <Descr>Ocean Reef Club to Homestead Gen Aviation</Descr>
+        <DepartureName>Ocean Reef Club</DepartureName>
+        <DestinationName>Homestead Gen Aviation</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="07FA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 19' 27.62",W80° 16' 32.74",+000004.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>07FA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 24' 14.16",W80° 24' 0.03",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 25' 17.57",W80° 25' 39.24",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="X51">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 30' 4.82",W80° 33' 9.20",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>X51</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

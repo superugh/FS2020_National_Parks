@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Big Creek Flying Ranch to Sossamon Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>GA18</DepartureID>
+        <DepartureLLA>N34° 49' 56.45",W83° 24' 32.91",+001650.00</DepartureLLA>
+        <DestinationID>57NC</DestinationID>
+        <DestinationLLA>N35° 25' 35.00",W83° 27' 28.20",+001940.00</DestinationLLA>
+        <Descr>Big Creek Flying Ranch to Sossamon Field</Descr>
+        <DepartureName>Big Creek Flying Ranch</DepartureName>
+        <DestinationName>Sossamon Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="GA18">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 49' 56.45",W83° 24' 32.91",+001650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GA18</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 5' 57.20",W83° 25' 51.34",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 10' 30.15",W83° 26' 13.72",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="57NC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 25' 35.00",W83° 27' 28.20",+001950.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>57NC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Punta Cana Intl to Rafael Hernandez</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>MDPC</DepartureID>
+        <DepartureLLA>N18° 34' 14.75",W68° 21' 58.31",+000040.75</DepartureLLA>
+        <DestinationID>TJBQ</DestinationID>
+        <DestinationLLA>N18° 29' 41.39",W67° 7' 45.93",+000214.50</DestinationLLA>
+        <Descr>Punta Cana Intl to Rafael Hernandez</Descr>
+        <DepartureName>Punta Cana Intl</DepartureName>
+        <DestinationName>Rafael Hernandez</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MDPC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 34' 14.75",W68° 21' 58.31",+000040.75</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MDPC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TJBQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 29' 41.39",W67° 7' 45.93",+000200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TJBQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

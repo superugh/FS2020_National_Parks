@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Pago Pago Intl to Fitiuta</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>NSTU</DepartureID>
+        <DepartureLLA>S14° 19' 48.12",W170° 42' 36.88",+000012.75</DepartureLLA>
+        <DestinationID>NSFQ</DestinationID>
+        <DestinationLLA>S14° 12' 57.91",W169° 25' 24.83",+000105.50</DestinationLLA>
+        <Descr>Pago Pago Intl to Fitiuta</Descr>
+        <DepartureName>Pago Pago Intl</DepartureName>
+        <DestinationName>Fitiuta</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NSTU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S14° 19' 48.12",W170° 42' 36.88",+000012.75</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>NSTU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Vai'ava Strait">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S14° 14' 16.00",W170° 40' 16.39",+001400.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Two Dollar Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S14° 16' 53.31",W170° 37' 55.05",+002200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ofu Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S14° 10' 23.49",W169° 38' 54.16",+003250.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="NSFQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S14° 12' 57.91",W169° 25' 24.83",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NSFQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Homerville to Barron</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KHOE</DepartureID>
+        <DepartureLLA>N31° 3' 24.78",W82° 46' 31.06",+000184.50</DepartureLLA>
+        <DestinationID>KDBN</DestinationID>
+        <DestinationLLA>N32° 33' 57.92",W82° 59' 9.73",+000298.75</DestinationLLA>
+        <Descr>Homerville to Barron</Descr>
+        <DepartureName>Homerville</DepartureName>
+        <DestinationName>Barron</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KHOE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 3' 24.78",W82° 46' 31.06",+000184.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHOE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 39' 34.56",W82° 51' 31.06",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 57' 39.34",W82° 54' 2.51",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KDBN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 33' 57.92",W82° 59' 9.73",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDBN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

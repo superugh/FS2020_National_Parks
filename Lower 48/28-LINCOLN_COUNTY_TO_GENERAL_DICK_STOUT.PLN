@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Lincoln County to General Dick Stout Field</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>1L1</DepartureID>
+        <DepartureLLA>N37° 47' 14.60",W114° 25' 11.81",+004815.00</DepartureLLA>
+        <DestinationID>1L8</DestinationID>
+        <DestinationLLA>N37° 8' 25.41",W113° 18' 21.74",+003350.00</DestinationLLA>
+        <Descr>Lincoln County to General Dick Stout Field</Descr>
+        <DepartureName>Lincoln County</DepartureName>
+        <DestinationName>General Dick Stout Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="1L1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 47' 14.60",W114° 25' 11.81",+004815.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1L1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 31' 49.04",W113° 58' 22.15",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 24' 3.98",W113° 45' 1.48",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="1L8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 8' 25.41",W113° 18' 21.74",+003350.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1L8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

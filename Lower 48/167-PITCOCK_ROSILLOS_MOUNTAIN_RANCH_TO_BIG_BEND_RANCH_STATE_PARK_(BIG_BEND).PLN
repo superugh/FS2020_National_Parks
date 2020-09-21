@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Pitcock Rosillos Mountain Ranch to Big Bend Ranch State Park</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7600.000</CruisingAlt>
+        <DepartureID>09TS</DepartureID>
+        <DepartureLLA>N29° 28' 57.35",W103° 9' 46.79",+003100.00</DepartureLLA>
+        <DestinationID>3T9</DestinationID>
+        <DestinationLLA>N29° 28' 17.53",W103° 56' 13.68",+004250.00</DestinationLLA>
+        <Descr>Pitcock Rosillos Mountain Ranch to Big Bend Ranch State Park</Descr>
+        <DepartureName>Pitcock Rosillos Mountain Ranch</DepartureName>
+        <DestinationName>Big Bend Ranch State Park</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="09TS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 28' 57.35",W103° 9' 46.79",+003100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>09TS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Balance Rock">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 23' 56.16",W103° 12' 10.48",+004200.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lost Mine Peak">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 16' 31.36",W103° 15' 29.99",+005800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sotol Vista">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 12' 53.31",W103° 22' 37.33",+007250.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 12' 15.72",W103° 25' 38.71",+007600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Santa Elena Canyon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 9' 56.72",W103° 36' 45.75",+007600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 11' 10.78",W103° 38' 3.99",+007600.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="3T9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 28' 17.53",W103° 56' 13.68",+004250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3T9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

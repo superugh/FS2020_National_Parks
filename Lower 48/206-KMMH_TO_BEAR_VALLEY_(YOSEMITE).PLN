@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Mammoth Yosemite to Bear Valley</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KMMH</DepartureID>
+        <DepartureLLA>N37° 37' 26.57",W118° 50' 19.45",+007098.00</DepartureLLA>
+        <DestinationID>73CA</DestinationID>
+        <DestinationLLA>N38° 27' 27.43",W120° 2' 31.44",+007073.00</DestinationLLA>
+        <Descr>Mammoth Yosemite to Bear Valley</Descr>
+        <DepartureName>Mammoth Yosemite</DepartureName>
+        <DestinationName>Bear Valley</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KMMH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 37' 26.57",W118° 50' 19.45",+007098.00</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KMMH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tuolumne Meadows">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 52' 38.10",W119° 22' 35.60",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Half Dome">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 44' 43.04",W119° 32' 1.59",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="El Capitan">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 43' 59.07",W119° 38' 23.06",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="73CA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 27' 27.43",W120° 2' 31.44",+007050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>73CA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

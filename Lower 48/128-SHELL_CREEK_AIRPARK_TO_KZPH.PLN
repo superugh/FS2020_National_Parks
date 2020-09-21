@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Shell Creek Airpark to Zephyrhills Muni</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>F13</DepartureID>
+        <DepartureLLA>N26° 58' 7.27",W81° 54' 59.02",+000020.00</DepartureLLA>
+        <DestinationID>KZPH</DestinationID>
+        <DestinationLLA>N28° 13' 40.63",W82° 9' 21.29",+000085.50</DestinationLLA>
+        <Descr>Shell Creek Airpark to Zephyrhills Muni</Descr>
+        <DepartureName>Shell Creek Airpark</DepartureName>
+        <DestinationName>Zephyrhills Muni</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="F13">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 58' 7.27",W81° 54' 59.02",+000020.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>F13</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 30' 1.50",W82° 1' 0.67",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 42' 2.84",W82° 3' 17.86",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KZPH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 13' 40.63",W82° 9' 21.29",+000100.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KZPH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

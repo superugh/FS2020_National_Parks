@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Yakataga to Chitina</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>0AA1</DepartureID>
+        <DepartureLLA>N60° 4' 50.72",W142° 29' 43.09",+000011.50</DepartureLLA>
+        <DestinationID>CXC</DestinationID>
+        <DestinationLLA>N61° 34' 59.74",W144° 25' 47.22",+000547.00</DestinationLLA>
+        <Descr>Yakataga to Chitina</Descr>
+        <DepartureName>Yakataga</DepartureName>
+        <DestinationName>Chitina</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Yakataga">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 4' 50.72",W142° 29' 43.09",+000011.50</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>0AA1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Waypoint">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N61° 41' 8.41",W142° 31' 4.49",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Regal Mountain">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N61° 44' 38.04",W142° 51' 34.46",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount Blackburn">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N61° 44' 36.75",W143° 24' 40.24",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount Wrangell">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N62° 0' 24.98",W144° 0' 56.96",+006150.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Chitina">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 34' 59.74",W144° 25' 47.22",+000550.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CXC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Upolu to Hilo Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>PHUP</DepartureID>
+        <DepartureLLA>N20° 15' 54.82",W155° 51' 35.85",+000086.00</DepartureLLA>
+        <DestinationID>PHTO</DestinationID>
+        <DestinationLLA>N19° 43' 11.63",W155° 3' 1.33",+000030.75</DestinationLLA>
+        <Descr>Upolu to Hilo Intl</Descr>
+        <DepartureName>Upolu</DepartureName>
+        <DestinationName>Hilo Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PHUP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N20° 15' 54.82",W155° 51' 35.85",+000086.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PHUP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mauna Kea">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N19° 49' 14.20",W155° 28' 5.14",+007000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mauna Loa Observatory">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N19° 32' 10.86",W155° 34' 35.21",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mauna Loa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N19° 28' 19.67",W155° 35' 31.90",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kilauea">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N19° 24' 24.81",W155° 17' 0.14",+006150.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Puu Oo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N19° 23' 10.97",W155° 6' 17.98",+004100.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PHTO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N19° 43' 11.63",W155° 3' 1.33",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PHTO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

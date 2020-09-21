@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Portland Intl to Astoria Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1400.000</CruisingAlt>
+        <DepartureID>KPDX</DepartureID>
+        <DepartureLLA>N45° 35' 19.28",W122° 35' 53.41",+000025.83</DepartureLLA>
+        <DestinationID>KAST</DestinationID>
+        <DestinationLLA>N46° 9' 29.48",W123° 52' 46.86",+000012.50</DestinationLLA>
+        <Descr>Portland Intl to Astoria Rgnl</Descr>
+        <DepartureName>Portland Intl</DepartureName>
+        <DestinationName>Astoria Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPDX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 35' 19.28",W122° 35' 53.41",+000025.83</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KPDX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KAST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 9' 29.48",W123° 52' 46.86",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KAST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

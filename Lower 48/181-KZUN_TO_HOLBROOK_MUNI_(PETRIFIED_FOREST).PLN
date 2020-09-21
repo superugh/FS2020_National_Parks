@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Black Rock to Holbrook Mun</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KZUN</DepartureID>
+        <DepartureLLA>N35° 4' 59.58",W108° 47' 30.38",+006447.45</DepartureLLA>
+        <DestinationID>P14</DestinationID>
+        <DestinationLLA>N34° 56' 24.59",W110° 8' 20.47",+005246.50</DestinationLLA>
+        <Descr>Black Rock to Holbrook Mun</Descr>
+        <DepartureName>Black Rock</DepartureName>
+        <DestinationName>Holbrook Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KZUN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 4' 59.58",W108° 47' 30.38",+006447.45</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KZUN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 4' 57.24",W109° 27' 29.40",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Painted Desert Rim">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 4' 51.29",W109° 47' 4.67",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 4' 26.59",W109° 47' 4.72",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Crystal Forest">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 51' 59.80",W109° 47' 6.45",+007500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Giant Logs">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 49' 0.07",W109° 51' 57.43",+008300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="P14">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 56' 24.59",W110° 8' 20.47",+005250.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>P14</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

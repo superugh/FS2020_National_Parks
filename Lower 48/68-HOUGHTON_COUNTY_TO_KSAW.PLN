@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Houghton County Memorial to Sawyer Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KCMX</DepartureID>
+        <DepartureLLA>N47° 10' 5.79",W88° 29' 20.81",+001072.25</DepartureLLA>
+        <DestinationID>KSAW</DestinationID>
+        <DestinationLLA>N46° 21' 13.10",W87° 23' 43.31",+001192.00</DestinationLLA>
+        <Descr>Houghton County Memorial to Sawyer Intl</Descr>
+        <DepartureName>Houghton County Memorial</DepartureName>
+        <DestinationName>Sawyer Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCMX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 10' 5.79",W88° 29' 20.81",+001072.25</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCMX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 50' 13.68",W88° 2' 19.73",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 40' 53.63",W87° 49' 48.00",+006500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KSAW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 21' 13.10",W87° 23' 43.31",+001200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSAW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

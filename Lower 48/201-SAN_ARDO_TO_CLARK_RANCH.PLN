@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>San Ardo to Clark Ranch</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>3000.000</CruisingAlt>
+        <DepartureID>CA88</DepartureID>
+        <DepartureLLA>N36° 1' 34.45",W120° 54' 30.60",+000441.00</DepartureLLA>
+        <DestinationID>3CA9</DestinationID>
+        <DestinationLLA>N36° 21' 48.60",W121° 18' 37.09",+000276.00</DestinationLLA>
+        <Descr>San Ardo to Clark Ranch</Descr>
+        <DepartureName>San Ardo</DepartureName>
+        <DestinationName>Clark Ranch</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CA88">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 1' 34.45",W120° 54' 30.60",+000441.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CA88</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 10' 40.50",W121° 5' 18.88",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 12' 11.68",W121° 7' 7.47",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="3CA9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 21' 48.60",W121° 18' 37.09",+000300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3CA9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
