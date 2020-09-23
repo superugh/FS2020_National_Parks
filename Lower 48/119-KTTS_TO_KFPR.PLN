@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Nasa Shuttle Landing Facility to Treasure Coast Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KTTS</DepartureID>
+        <DepartureLLA>N28° 36' 53.54",W80° 41' 39.79",+000008.00</DepartureLLA>
+        <DestinationID>KFPR</DestinationID>
+        <DestinationLLA>N27° 29' 52.38",W80° 22' 25.27",+000022.66</DestinationLLA>
+        <Descr>Nasa Shuttle Landing Facility to Treasure Coast Intl</Descr>
+        <DepartureName>Nasa Shuttle Landing Facility</DepartureName>
+        <DestinationName>Treasure Coast Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KTTS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 36' 53.54",W80° 41' 39.79",+000008.00</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KTTS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KFPR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 29' 52.38",W80° 22' 25.27",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KFPR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

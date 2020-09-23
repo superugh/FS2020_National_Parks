@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Deland Muni-Sidney H Taylor Fi to Nasa Shuttle Landing Facility</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KDED</DepartureID>
+        <DepartureLLA>N29° 4' 0.20",W81° 17' 1.17",+000072.50</DepartureLLA>
+        <DestinationID>KTTS</DestinationID>
+        <DestinationLLA>N28° 36' 53.54",W80° 41' 39.79",+000008.00</DestinationLLA>
+        <Descr>Deland Muni-Sidney H Taylor Fi to Nasa Shuttle Landing Facility</Descr>
+        <DepartureName>Deland Muni-Sidney H Taylor Fi</DepartureName>
+        <DestinationName>Nasa Shuttle Landing Facility</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KDED">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 4' 0.20",W81° 17' 1.17",+000072.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KDED</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KTTS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 36' 53.54",W80° 41' 39.79",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KTTS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

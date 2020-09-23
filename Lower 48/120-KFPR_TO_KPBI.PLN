@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Treasure Coast Intl to Palm Beach Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6500.000</CruisingAlt>
+        <DepartureID>KFPR</DepartureID>
+        <DepartureLLA>N27° 29' 52.38",W80° 22' 25.27",+000022.66</DepartureLLA>
+        <DestinationID>KPBI</DestinationID>
+        <DestinationLLA>N26° 40' 58.32",W80° 5' 49.20",+000016.33</DestinationLLA>
+        <Descr>Treasure Coast Intl to Palm Beach Intl</Descr>
+        <DepartureName>Treasure Coast Intl</DepartureName>
+        <DestinationName>Palm Beach Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KFPR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 29' 52.38",W80° 22' 25.27",+000022.66</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KFPR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPBI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 40' 58.32",W80° 5' 49.20",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPBI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -8,7 +8,7 @@ I suggest using the VL3 for a nice view! I'm open to any suggestions for improve
 ## Lower 48
 This is a tour of all of the National Parks in the lower 48 states. It starts and ends in Portland, Oregon.
 
-![lower48](pics/lower48.jpeg)
+![lower48](pics/lower48.png)
 ## Alaska
 This starts in Portland, Oregon, and makes its way north through Alaska's 8 national parks. It includes an optional return trip to KPDX, which will require a big plane, like the Airbus.
 

@@ -3,34 +3,28 @@
 <SimBase.Document Type="AceXML" version="1,0">
     <Descr>AceXML Document</Descr>
     <FlightPlan.FlightPlan>
-        <Title>Duda Airstrip to Miami Intl</Title>
+        <Title>Palm Beach Intl to Miami Intl</Title>
         <FPType>VFR</FPType>
         <CruisingAlt>6500.000</CruisingAlt>
-        <DepartureID>FA69</DepartureID>
-        <DepartureLLA>N26° 35' 18.05",W80° 38' 15.07",+000014.00</DepartureLLA>
+        <DepartureID>KPBI</DepartureID>
+        <DepartureLLA>N26° 40' 58.32",W80° 5' 49.20",+000016.33</DepartureLLA>
         <DestinationID>KMIA</DestinationID>
         <DestinationLLA>N25° 47' 46.21",W80° 17' 23.06",+000008.87</DestinationLLA>
-        <Descr>Duda Airstrip to Miami Intl</Descr>
-        <DepartureName>Duda Airstrip</DepartureName>
+        <Descr>Palm Beach Intl to Miami Intl</Descr>
+        <DepartureName>Palm Beach Intl</DepartureName>
         <DestinationName>Miami Intl</DestinationName>
         <AppVersion>
             <AppVersionMajor>11</AppVersionMajor>
             <AppVersionBuild>282174</AppVersionBuild>
         </AppVersion>
-        <ATCWaypoint id="FA69">
+        <ATCWaypoint id="KPBI">
             <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N26° 35' 18.05",W80° 38' 15.07",+000014.00</WorldPosition>
+            <WorldPosition>N26° 40' 58.32",W80° 5' 49.20",+000016.33</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
             <ICAO>
-                <ICAOIdent>FA69</ICAOIdent>
+                <ICAOIdent>KPBI</ICAOIdent>
             </ICAO>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N26° 13' 57.26",W80° 28' 50.50",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N26° 9' 15.35",W80° 26' 46.73",+006500.00</WorldPosition>
         </ATCWaypoint>
         <ATCWaypoint id="KMIA">
             <ATCWaypointType>Airport</ATCWaypointType>
