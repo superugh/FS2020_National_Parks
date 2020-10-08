@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <SimBase.Document Type="AceXML" version="1,0">
     <Descr>AceXML Document</Descr>
@@ -17,24 +17,70 @@
             <AppVersionMajor>11</AppVersionMajor>
             <AppVersionBuild>282174</AppVersionBuild>
         </AppVersion>
-        <ATCWaypoint id="KJFK">
+        <ATCWaypoint id="Kennedy Intl">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N40° 38' 24.49",W73° 46' 35.46",+000012.62</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
             <ICAO>
                 <ICAOIdent>KJFK</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
+        <ATCWaypoint id="Coney Island">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N40° 39' 51.63",W73° 57' 9.30",+006500.00</WorldPosition>
+            <WorldPosition>N40° 34' 29.07",W73° 58' 48.73",+003750.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
+        <ATCWaypoint id="Brooklyn Bridge">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N40° 40' 10.71",W73° 59' 28.98",+006500.00</WorldPosition>
+            <WorldPosition>N40° 42' 21.11",W73° 59' 47.45",+005500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
-        <ATCWaypoint id="KEWR">
+        <ATCWaypoint id="WTC">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 42' 41.79",W74° 0' 47.65",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="Wall Street">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 42' 20.00",W74° 0' 48.26",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="Governors Island">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 41' 28.72",W74° 0' 57.98",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="Statue of Liberty">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 41' 21.33",W74° 2' 40.87",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="Empire State Building">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 44' 54.27",W73° 59' 8.94",+004850.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rockefeller Center">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 45' 31.37",W73° 58' 43.26",+004600.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="Times Square">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 45' 28.70",W73° 59' 8.12",+004500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="Central Park">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 46' 51.66",W73° 57' 54.10",+003900.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="Newark Liberty Intl">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N40° 41' 37.12",W74° 10' 6.99",+000000.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KEWR</ICAOIdent>
             </ICAO>
