@@ -9,7 +9,7 @@
         <DepartureID>KASE</DepartureID>
         <DepartureLLA>N39° 13' 18.82",W106° 52' 5.66",+007750.00</DepartureLLA>
         <DestinationID>KFRA</DestinationID>
-        <DestinationLLA>N39° 59' 47.86",W105° 51' 49.14",+008440.03</DestinationLLA>
+        <DestinationLLA>N39° 59' 47.86",W105° 51' 49.14",+008440.23</DestinationLLA>
         <Descr>Aspen-Pitkin Co/Sardy Field to Fraser Airport</Descr>
         <DepartureName>Aspen-Pitkin Co/Sardy Field</DepartureName>
         <DestinationName>Fraser Airport</DestinationName>
@@ -20,21 +20,16 @@
         <ATCWaypoint id="KASE">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N39° 13' 18.82",W106° 52' 5.66",+007750.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>33</RunwayNumberFP>
             <ICAO>
                 <ICAOIdent>KASE</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N39° 31' 56.32",W106° 28' 11.17",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N39° 41' 13.19",W106° 16' 9.12",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="KFRA">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N39° 59' 47.86",W105° 51' 49.14",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KFRA</ICAOIdent>
             </ICAO>

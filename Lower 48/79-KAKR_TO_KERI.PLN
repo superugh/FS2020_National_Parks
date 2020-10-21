@@ -20,21 +20,16 @@
         <ATCWaypoint id="KAKR">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N41° 2' 15.35",W81° 27' 58.67",+001050.50</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>7</RunwayNumberFP>
             <ICAO>
                 <ICAOIdent>KAKR</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N41° 27' 24.28",W80° 57' 21.00",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N41° 39' 55.66",W80° 41' 53.25",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="KERI">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N42° 4' 58.42",W80° 10' 31.68",+000750.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KERI</ICAOIdent>
             </ICAO>

@@ -20,21 +20,15 @@
         <ATCWaypoint id="KHLN">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N46° 36' 26.24",W111° 58' 59.94",+003848.37</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KHLN</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N46° 16' 34.02",W111° 38' 52.56",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N46° 6' 36.61",W111° 28' 54.34",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="KBZN">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N45° 46' 34.11",W111° 9' 3.68",+004450.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KBZN</ICAOIdent>
             </ICAO>

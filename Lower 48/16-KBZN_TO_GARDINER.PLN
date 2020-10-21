@@ -20,21 +20,16 @@
         <ATCWaypoint id="KBZN">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N45° 46' 34.11",W111° 9' 3.68",+004451.87</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>30</RunwayNumberFP>
             <ICAO>
                 <ICAOIdent>KBZN</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N45° 29' 7.71",W110° 59' 12.76",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N45° 20' 24.18",W110° 54' 19.58",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="29S">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N45° 2' 52.08",W110° 44' 35.27",+005300.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>29S</ICAOIdent>
             </ICAO>

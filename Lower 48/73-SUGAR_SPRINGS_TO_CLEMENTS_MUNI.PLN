@@ -20,21 +20,16 @@
         <ATCWaypoint id="5M6">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N44° 8' 25.29",W84° 26' 13.06",+000945.50</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>9</RunwayNumberFP>
             <ICAO>
                 <ICAOIdent>5M6</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N43° 52' 26.67",W84° 11' 32.75",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N43° 49' 53.08",W84° 9' 12.61",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="3CM">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N43° 32' 48.83",W83° 53' 44.22",+000600.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>3CM</ICAOIdent>
             </ICAO>

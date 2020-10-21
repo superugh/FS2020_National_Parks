@@ -20,21 +20,16 @@
         <ATCWaypoint id="25CO">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N40° 51' 6.54",W105° 37' 54.76",+008440.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>7</RunwayNumberFP>
             <ICAO>
                 <ICAOIdent>25CO</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N41° 9' 32.60",W105° 17' 46.50",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N41° 18' 44.29",W105° 7' 38.13",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="WY29">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N41° 37' 9.63",W104° 47' 7.58",+005550.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>WY29</ICAOIdent>
             </ICAO>

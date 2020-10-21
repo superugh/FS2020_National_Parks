@@ -20,21 +20,16 @@
         <ATCWaypoint id="CRM5">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N42° 8' 34.31",W82° 21' 43.88",+000617.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>14</RunwayNumberFP>
             <ICAO>
                 <ICAOIdent>CRM5</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N41° 51' 45.07",W82° 3' 19.13",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N41° 48' 3.33",W81° 59' 18.12",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="KBKL">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N41° 31' 3.81",W81° 40' 57.91",+000600.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KBKL</ICAOIdent>
             </ICAO>

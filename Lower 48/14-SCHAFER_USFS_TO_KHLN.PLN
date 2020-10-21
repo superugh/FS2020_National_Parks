@@ -20,21 +20,16 @@
         <ATCWaypoint id="8U2">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N48° 4' 46.42",W113° 14' 42.77",+004853.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>25</RunwayNumberFP>
             <ICAO>
                 <ICAOIdent>8U2</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N47° 29' 35.92",W112° 43' 58.20",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N47° 11' 57.63",W112° 28' 51.32",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="KHLN">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N46° 36' 26.24",W111° 58' 59.94",+003850.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KHLN</ICAOIdent>
             </ICAO>

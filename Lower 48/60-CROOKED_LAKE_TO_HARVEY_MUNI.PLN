@@ -7,7 +7,7 @@
         <FPType>VFR</FPType>
         <CruisingAlt>6500.000</CruisingAlt>
         <DepartureID>20ND</DepartureID>
-        <DepartureLLA>N47° 38' 59.63",W100° 53' 17.23",+001944.15</DepartureLLA>
+        <DepartureLLA>N47° 38' 59.63",W100° 53' 17.23",+001944.37</DepartureLLA>
         <DestinationID>5H4</DestinationID>
         <DestinationLLA>N47° 47' 28.52",W99° 55' 54.30",+001605.50</DestinationLLA>
         <Descr>Crooked Lake Airstrip to Harvey Mun</Descr>
@@ -19,22 +19,16 @@
         </AppVersion>
         <ATCWaypoint id="20ND">
             <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N47° 38' 59.63",W100° 53' 17.23",+001944.15</WorldPosition>
+            <WorldPosition>N47° 38' 59.63",W100° 53' 17.23",+001944.37</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>20ND</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N47° 42' 51.78",W100° 27' 32.82",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N47° 43' 25.38",W100° 23' 45.97",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="5H4">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N47° 47' 28.52",W99° 55' 54.30",+001600.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>5H4</ICAOIdent>
             </ICAO>

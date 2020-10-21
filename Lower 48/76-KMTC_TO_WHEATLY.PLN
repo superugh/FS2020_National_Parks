@@ -20,21 +20,15 @@
         <ATCWaypoint id="KMTC">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N42° 36' 45.07",W82° 50' 13.04",+000579.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KMTC</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N42° 24' 6.38",W82° 37' 22.04",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N42° 21' 14.92",W82° 34' 28.69",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="CRM5">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N42° 8' 34.31",W82° 21' 43.88",+000600.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>CRM5</ICAOIdent>
             </ICAO>

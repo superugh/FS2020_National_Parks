@@ -20,21 +20,16 @@
         <ATCWaypoint id="1V6">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N38° 25' 37.68",W105° 6' 18.72",+005393.50</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>11</RunwayNumberFP>
             <ICAO>
                 <ICAOIdent>1V6</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="TIMECRUIS">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N38° 34' 44.69",W104° 56' 41.36",+006500.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="TIMEDSCNT">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N38° 39' 17.91",W104° 51' 51.77",+006500.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="KCOS">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N38° 48' 26.03",W104° 42' 8.28",+006150.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>KCOS</ICAOIdent>
             </ICAO>
